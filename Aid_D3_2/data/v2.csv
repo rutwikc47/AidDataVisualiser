@@ -1,0 +1,336 @@
+year,coalesced_purpose_name,commitment_amount_usd_constant
+1973,Import support (capital goods),291886347.0
+1973,Industrial development,200776443.0
+1973,Power generation/non-renewable sources,27825666.0
+1973,Rail transport,95792628.0
+1973,Telecommunications,205122036.0
+1974,Air transport,15256725.0
+1974,Import support (capital goods),227194054.0
+1974,Industrial development,153995109.0
+1974,Mineral/Metal prospection and exploration,5135311.0
+1974,Power generation/non-renewable sources,39880530.0
+1974,Power generation/renewable sources,124861445.0
+1974,Rail transport,42563758.0
+1974,Telecommunications,180475251.0
+1975,Air transport,15829434.0
+1975,Import support (capital goods),282632241.0
+1975,Industrial development,141256857.0
+1975,Mineral/Metal prospection and exploration,11841107.0
+1975,Power generation/non-renewable sources,33166434.0
+1975,Rail transport,60080677.0
+1975,Telecommunications,33166434.0
+1976,Import support (capital goods),154515986.0
+1976,Industrial development,180729570.0
+1976,Mineral/Metal prospection and exploration,46994.0
+1976,Power generation/renewable sources,258500419.0
+1976,Rail transport,65859994.0
+1976,Social/ welfare services,22193818.0
+1976,Telecommunications,101268177.0
+1977,Air transport,704628.0
+1977,Import support (capital goods),253556338.0
+1977,Industrial development,352523660.0
+1977,Mineral/Metal prospection and exploration,20846552.0
+1977,Power generation/renewable sources,348718518.0
+1977,Telecommunications,132007996.0
+1978,Import support (capital goods),18579093.0
+1978,Industrial development,106052778.0
+1978,Power generation/non-renewable sources,95676536.0
+1978,Power generation/renewable sources,105991262.0
+1978,Social/ welfare services,179918453.0
+1978,Telecommunications,210273343.0
+1979,Air transport,73420234.0
+1979,Import support (capital goods),264125863.0
+1979,Industrial development,308650682.0
+1979,Mineral/Metal prospection and exploration,33750525.0
+1979,Rail transport,57275683.0
+1979,Social/ welfare services,13638901.0
+1980,Air transport,3088274857.0
+1980,Industrial development,816335780.0
+1980,Mineral/Metal prospection and exploration,259987614.0
+1980,Power generation/non-renewable sources,1584877308.0
+1980,Power generation/renewable sources,110811408.0
+1980,Rail transport,21776984.0
+1980,Social/ welfare services,26972340.0
+1980,Telecommunications,514178514.0
+1981,Air transport,4768108479.0
+1981,Import support (capital goods),40653634.0
+1981,Industrial development,634174424.0
+1981,Mineral/Metal prospection and exploration,713107244.0
+1981,Power generation/non-renewable sources,1096016261.0
+1981,Power generation/renewable sources,240636248.0
+1981,Rail transport,230395196.0
+1981,Social/ welfare services,644673.0
+1981,Telecommunications,914341361.0
+1982,Air transport,514466891.0
+1982,Import support (capital goods),113498832.0
+1982,Industrial development,1370602905.0
+1982,Mineral/Metal prospection and exploration,1117571002.0
+1982,Power generation/non-renewable sources,699994088.0
+1982,Power generation/renewable sources,484434111.0
+1982,Rail transport,302371098.0
+1982,Social/ welfare services,31654720.0
+1982,Telecommunications,224573780.0
+1983,Air transport,218134010.0
+1983,Import support (capital goods),86619358.0
+1983,Industrial development,334406639.0
+1983,Mineral/Metal prospection and exploration,513432426.0
+1983,Power generation/non-renewable sources,211715759.0
+1983,Power generation/renewable sources,25073823.0
+1983,Rail transport,441780960.0
+1983,Social/ welfare services,24671997.0
+1983,Telecommunications,79964594.0
+1984,Air transport,976488278.0
+1984,Import support (capital goods),90227902.0
+1984,Industrial development,1088866239.0
+1984,Mineral/Metal prospection and exploration,632576576.0
+1984,Power generation/non-renewable sources,680944122.0
+1984,Power generation/renewable sources,479805457.0
+1984,Rail transport,475235242.0
+1984,Social/ welfare services,19766810.0
+1984,Telecommunications,215829973.0
+1985,Air transport,287676519.0
+1985,Import support (capital goods),77954263.0
+1985,Industrial development,940204559.0
+1985,Mineral/Metal prospection and exploration,605384859.0
+1985,Power generation/non-renewable sources,182940134.0
+1985,Power generation/renewable sources,53703140.0
+1985,RESCHEDULING AND REFINANCING,1014259163.0
+1985,Rail transport,134596484.0
+1985,Social/ welfare services,33496454.0
+1985,Telecommunications,183388029.0
+1986,Air transport,695113150.0
+1986,Import support (capital goods),44726766.0
+1986,Industrial development,625537865.0
+1986,Mineral/Metal prospection and exploration,737079395.0
+1986,Power generation/non-renewable sources,102087624.0
+1986,Power generation/renewable sources,164769263.0
+1986,Rail transport,34843304.0
+1986,Social/ welfare services,14344384.0
+1986,Telecommunications,168285454.0
+1987,Air transport,1012887955.0
+1987,Import support (capital goods),60164507.0
+1987,Industrial development,380313458.0
+1987,Mineral/Metal prospection and exploration,679626885.0
+1987,Power generation/non-renewable sources,51448529.0
+1987,Power generation/renewable sources,107755657.0
+1987,Rail transport,85117635.0
+1987,Social/ welfare services,11481589.0
+1987,Telecommunications,110144423.0
+1988,Air transport,96497158.0
+1988,Import support (capital goods),138310066.0
+1988,Industrial development,906410888.0
+1988,Mineral/Metal prospection and exploration,354874165.0
+1988,Power generation/non-renewable sources,390801061.0
+1988,Rail transport,107365899.0
+1988,Social/ welfare services,7938535.0
+1988,Telecommunications,535073066.0
+1989,Air transport,98465542.0
+1989,Industrial development,388659858.0
+1989,Mineral/Metal prospection and exploration,431006385.0
+1989,Power generation/non-renewable sources,42742542.0
+1989,Power generation/renewable sources,910336207.0
+1989,RESCHEDULING AND REFINANCING,2606246263.0
+1989,Rail transport,73959565.0
+1989,Social/ welfare services,22345362.0
+1989,Telecommunications,239013115.0
+1990,Air transport,254913681.0
+1990,Import support (capital goods),50648790.0
+1990,Industrial development,887708073.0
+1990,Mineral/Metal prospection and exploration,21516183.0
+1990,Power generation/non-renewable sources,70680811.0
+1990,Power generation/renewable sources,7572945.0
+1990,RESCHEDULING AND REFINANCING,2768322374.0
+1990,Rail transport,938279048.0
+1990,Social/ welfare services,72342785.0
+1990,Telecommunications,290465588.0
+1991,Air transport,310459678.0
+1991,Import support (capital goods),163177723.0
+1991,Industrial development,1289413570.0
+1991,Mineral/Metal prospection and exploration,489983384.0
+1991,Power generation/non-renewable sources,3767416.0
+1991,Power generation/renewable sources,66239728.0
+1991,Rail transport,185736779.0
+1991,Social/ welfare services,24186026.0
+1991,Telecommunications,339762137.0
+1992,Air transport,1771359012.0
+1992,Import support (capital goods),7482017761.0
+1992,Industrial development,1885616356.0
+1992,Mineral/Metal prospection and exploration,406513708.0
+1992,Power generation/non-renewable sources,1494675086.0
+1992,Power generation/renewable sources,44999636.0
+1992,RESCHEDULING AND REFINANCING,8344866729.0
+1992,Rail transport,90394219.0
+1992,Social/ welfare services,146417259.0
+1992,Telecommunications,321971933.0
+1993,Air transport,2121584979.0
+1993,Import support (capital goods),49168610.0
+1993,Industrial development,1689134694.0
+1993,Mineral/Metal prospection and exploration,36729398.0
+1993,Power generation/non-renewable sources,388132738.0
+1993,Power generation/renewable sources,90780001.0
+1993,RESCHEDULING AND REFINANCING,63809098.0
+1993,Rail transport,341385289.0
+1993,Social/ welfare services,35408778.0
+1993,Telecommunications,240701033.0
+1994,Air transport,4211207268.0
+1994,Industrial development,1595567680.0
+1994,Mineral/Metal prospection and exploration,28010396.0
+1994,Power generation/non-renewable sources,1606345960.0
+1994,Power generation/renewable sources,195628395.0
+1994,Rail transport,167636496.0
+1994,Social/ welfare services,58670556.0
+1994,Telecommunications,198625039.0
+1995,Air transport,497807763.0
+1995,Industrial development,679756647.0
+1995,Mineral/Metal prospection and exploration,255739191.0
+1995,Power generation/non-renewable sources,770605554.0
+1995,Power generation/renewable sources,518374380.0
+1995,Rail transport,172767802.0
+1995,Social/ welfare services,111991116.0
+1995,Telecommunications,240902364.0
+1996,Air transport,742750235.0
+1996,Industrial development,829747151.0
+1996,Mineral/Metal prospection and exploration,293652853.0
+1996,Power generation/non-renewable sources,919658202.0
+1996,Power generation/renewable sources,120338108.0
+1996,Rail transport,391229602.0
+1996,Social/ welfare services,93499965.0
+1996,Telecommunications,992246816.0
+1997,Air transport,1605192456.0
+1997,Industrial development,766376994.0
+1997,Mineral/Metal prospection and exploration,303809928.0
+1997,Power generation/non-renewable sources,1291967800.0
+1997,Power generation/renewable sources,470215385.0
+1997,Rail transport,694798740.0
+1997,Social/ welfare services,71418576.0
+1997,Telecommunications,270129200.0
+1998,Air transport,634116769.0
+1998,Industrial development,308069616.0
+1998,Mineral/Metal prospection and exploration,87206.0
+1998,Power generation/non-renewable sources,961929323.0
+1998,Power generation/renewable sources,12774435.0
+1998,Rail transport,657668408.0
+1998,Social/ welfare services,212562940.0
+1998,Telecommunications,323717723.0
+1999,Air transport,5896935547.0
+1999,Industrial development,40875883.0
+1999,Mineral/Metal prospection and exploration,83138567.0
+1999,Power generation/non-renewable sources,560713336.0
+1999,Power generation/renewable sources,158385618.0
+1999,Rail transport,800042829.0
+1999,Social/ welfare services,118053361.0
+1999,Telecommunications,410867928.0
+2000,Air transport,3089373356.0
+2000,Industrial development,141462184.0
+2000,Mineral/Metal prospection and exploration,134802462.0
+2000,Power generation/non-renewable sources,3523908.0
+2000,Power generation/renewable sources,5131051.0
+2000,Rail transport,535115398.0
+2000,Social/ welfare services,1419058679.0
+2000,Telecommunications,449102487.0
+2001,Air transport,2461432288.0
+2001,Industrial development,494144961.0
+2001,Mineral/Metal prospection and exploration,2279474.0
+2001,Power generation/non-renewable sources,425306890.0
+2001,Power generation/renewable sources,204411855.0
+2001,Rail transport,78742572.0
+2001,Social/ welfare services,418391339.0
+2001,Telecommunications,116120532.0
+2002,Air transport,3409273587.0
+2002,Industrial development,29064744.0
+2002,Mineral/Metal prospection and exploration,18213538.0
+2002,Power generation/non-renewable sources,308877253.0
+2002,Power generation/renewable sources,47637502.0
+2002,Rail transport,317903789.0
+2002,Social/ welfare services,189193002.0
+2002,Telecommunications,334067486.0
+2003,Air transport,1605190.0
+2003,Import support (capital goods),74620674.0
+2003,Industrial development,32437533.0
+2003,Mineral/Metal prospection and exploration,6453025.0
+2003,Power generation/non-renewable sources,505564994.0
+2003,Power generation/renewable sources,16126597.0
+2003,Rail transport,386716108.0
+2003,Social/ welfare services,413408249.0
+2003,Telecommunications,33823637.0
+2004,Air transport,513119049.0
+2004,Industrial development,7331241.0
+2004,Mineral/Metal prospection and exploration,1054547.0
+2004,Power generation/non-renewable sources,1350242.0
+2004,Power generation/renewable sources,458289920.0
+2004,Rail transport,678991354.0
+2004,Social/ welfare services,796312991.0
+2004,Telecommunications,3685399.0
+2005,Air transport,410669869.0
+2005,Industrial development,6703637.0
+2005,Mineral/Metal prospection and exploration,11289609.0
+2005,Power generation/non-renewable sources,185195321.0
+2005,Power generation/renewable sources,182849973.0
+2005,Rail transport,223491419.0
+2005,Social/ welfare services,766717891.0
+2005,Telecommunications,595366.0
+2006,Air transport,278918.0
+2006,Industrial development,9213317.0
+2006,Mineral/Metal prospection and exploration,1474041.0
+2006,Power generation/non-renewable sources,616036.0
+2006,Power generation/renewable sources,223553347.0
+2006,Rail transport,697248639.0
+2006,Social/ welfare services,1499146442.0
+2006,Telecommunications,198757.0
+2007,Air transport,777396.0
+2007,Industrial development,2652404.0
+2007,Mineral/Metal prospection and exploration,1498063.0
+2007,Power generation/non-renewable sources,132164.0
+2007,Power generation/renewable sources,15479641.0
+2007,Rail transport,161756943.0
+2007,Social/ welfare services,395077858.0
+2007,Telecommunications,243478.0
+2008,Air transport,947246.0
+2008,Import support (capital goods),71540.0
+2008,Industrial development,5278467.0
+2008,Mineral/Metal prospection and exploration,1137705.0
+2008,Power generation/non-renewable sources,888204.0
+2008,Power generation/renewable sources,181083150.0
+2008,Rail transport,1945744781.0
+2008,Social/ welfare services,709105782.0
+2008,Telecommunications,62893.0
+2009,Air transport,2206650.0
+2009,Industrial development,7334558.0
+2009,Mineral/Metal prospection and exploration,552446.0
+2009,Power generation/non-renewable sources,86235329.0
+2009,Power generation/renewable sources,242645248.0
+2009,Rail transport,1726078347.0
+2009,Social/ welfare services,709783323.0
+2009,Telecommunications,486644.0
+2010,Air transport,1015388.0
+2010,Import support (capital goods),1896.0
+2010,Industrial development,78456408.0
+2010,Power generation/non-renewable sources,1612781.0
+2010,Power generation/renewable sources,178425707.0
+2010,Rail transport,2769998813.0
+2010,Social/ welfare services,260603166.0
+2010,Telecommunications,2603981.0
+2011,Air transport,4105579.0
+2011,Industrial development,15188216.0
+2011,Mineral/Metal prospection and exploration,1217712.0
+2011,Power generation/non-renewable sources,200948.0
+2011,Power generation/renewable sources,1036425472.0
+2011,Rail transport,436777967.0
+2011,Social/ welfare services,128044941.0
+2011,Telecommunications,774579.0
+2012,Air transport,4397101.0
+2012,Industrial development,2569208.0
+2012,Mineral/Metal prospection and exploration,545570.0
+2012,Power generation/non-renewable sources,49672035.0
+2012,Power generation/renewable sources,389711520.0
+2012,Rail transport,1619976788.0
+2012,Social/ welfare services,70213003.0
+2012,Telecommunications,1611860.0
+2013,Air transport,5627464.0
+2013,Industrial development,4937413.0
+2013,Mineral/Metal prospection and exploration,2839501.0
+2013,Power generation/non-renewable sources,250838515.0
+2013,Power generation/renewable sources,336238470.0
+2013,Rail transport,2251372351.0
+2013,Social/ welfare services,78053299.0
+2013,Telecommunications,5520572.0

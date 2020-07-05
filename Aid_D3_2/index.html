@@ -1,0 +1,69 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+
+        <title>Project 2</title>
+
+        <!-- link our CSS file -->
+        <link rel="stylesheet" href="style.css">
+
+        <!-- defer makes it so that these scripts load
+            in the background and then execute in order
+            after the DOM is ready -->
+
+        <!-- D3 library goes first -->
+        <script src="d3/d3.js" defer></script>
+        <script src="d3/d3-array.js" defer></script>
+        <script src="d3/d3-legend.min.js" defer></script>
+
+
+        <!-- Then our visualization code -->
+        <script src="visualizations/vis1.js" defer></script>
+        <script src="visualizations/vis2.js" defer></script>
+        <script src="visualizations/vis3.js" defer></script>
+
+        <!-- Then our code that calls the visualizations -->
+        <script src="main.js" defer></script>
+
+        <style>
+
+        /* Header/Logo Title */
+        .header {
+          padding: 40px;
+          text-align: center;
+          background: #bd0026;
+          color: white;
+          font-size: 30px;
+        }
+
+        /* Page Content */
+        .content {padding:20px;}
+        </style>
+
+    </head>
+
+    <body>
+
+        <div class="header">
+          <h1>Rutwik Chinchole (rrc370)</h1>
+          <p>IV Mini-Project 2</p>
+        </div>
+
+        <div id="container">
+
+            <h1 align="center">Visualization 1</h1>
+            <div id="vis1"></div>
+
+            <hr style="border: 2px solid black;" />
+
+            <h1 align="center">Visualization 2</h1>
+            <div id="vis2"></div>
+
+            <hr style="border: 2px solid black;" />
+
+            <h1 align="center">Visualization 3</h1>
+            <div id="vis3"></div>
+
+        </div>
+    </body>
+</html>

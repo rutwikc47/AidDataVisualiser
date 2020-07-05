@@ -1,0 +1,2167 @@
+,Unnamed: 0,aiddata_id,aiddata_2_id,year,donor,recipient,commitment_amount_usd_constant,coalesced_purpose_code,coalesced_purpose_name
+2,3,2414635.0,,1983,Saudi Arabia,India,79371799.0,21030,Rail transport
+22,23,2428882.0,,1982,Kuwait,India,131175647.0,32120,Industrial development
+26,27,2428974.0,,1981,Kuwait,Thailand,65310902.0,23020,Power generation/non-renewable sources
+27,28,2429003.0,,1981,Kuwait,India,149282062.0,23020,Power generation/non-renewable sources
+92,93,3003168.0,,1989,United States,Chile,54947693.0,32120,Industrial development
+96,97,3003189.0,,1997,United States,India,327450763.0,21050,Air transport
+98,99,3003207.0,,1982,United States,Colombia,9091619.0,23020,Power generation/non-renewable sources
+132,133,3003350.0,,1982,United States,India,16877550.0,32120,Industrial development
+133,134,3003351.0,,1985,United States,India,136415.0,32120,Industrial development
+135,136,3003353.0,,1986,United States,India,48674791.0,23020,Power generation/non-renewable sources
+137,138,3003355.0,,1989,United States,India,5653431.0,21050,Air transport
+138,139,3003356.0,,1990,United States,India,29539023.0,32120,Industrial development
+141,142,3003359.0,,1991,United States,India,1511753.0,32120,Industrial development
+142,143,3003360.0,,1992,United States,India,12144079.0,32120,Industrial development
+147,148,3003365.0,,1992,United States,India,888768149.0,21050,Air transport
+154,155,3003375.0,,1993,United States,India,87786453.0,21050,Air transport
+155,156,3003376.0,,1993,United States,India,3037453.0,32120,Industrial development
+168,169,3003423.0,,1981,United States,India,31405792.0,21030,Rail transport
+169,170,3003424.0,,1981,United States,India,21162932.0,32120,Industrial development
+176,177,3003435.0,,1985,United States,Chile,2761444.0,32120,Industrial development
+178,179,3003437.0,,1986,United States,Chile,72045960.0,21050,Air transport
+180,181,3003439.0,,1993,United States,Chile,42787512.0,32120,Industrial development
+189,190,3003534.0,,1990,United States,Colombia,200543180.0,21050,Air transport
+192,193,3003537.0,,1993,United States,Colombia,28354393.0,32120,Industrial development
+193,194,3003538.0,,1993,United States,Colombia,356410925.0,32120,Industrial development
+194,195,3003539.0,,1993,United States,Colombia,37859622.0,23020,Power generation/non-renewable sources
+195,196,3003540.0,,1993,United States,Colombia,74034877.0,23020,Power generation/non-renewable sources
+196,197,3003541.0,,1994,United States,Colombia,49664043.0,32120,Industrial development
+197,198,3003542.0,,1995,United States,Colombia,25896551.0,23020,Power generation/non-renewable sources
+198,199,3003543.0,,1995,United States,Colombia,194786508.0,23020,Power generation/non-renewable sources
+199,200,3003544.0,,1995,United States,Colombia,14372915.0,32120,Industrial development
+200,201,3003556.0,,1996,United States,Colombia,1664262.0,32120,Industrial development
+203,204,3003559.0,,1980,United States,Colombia,5128863.0,32120,Industrial development
+204,205,3003560.0,,1981,United States,Colombia,33974646.0,23020,Power generation/non-renewable sources
+205,206,3003561.0,,1982,United States,Colombia,24864826.0,32120,Industrial development
+207,208,3003563.0,,1982,United States,Colombia,38358069.0,32120,Industrial development
+209,210,3003565.0,,1982,United States,Colombia,14218978.0,32120,Industrial development
+211,212,3003567.0,,1983,United States,Colombia,4208638.0,32120,Industrial development
+216,217,3003572.0,,1985,United States,Colombia,17715659.0,21050,Air transport
+218,219,3003574.0,,1988,United States,Colombia,51318594.0,32120,Industrial development
+219,220,3003575.0,,1989,United States,Colombia,20761315.0,32120,Industrial development
+220,221,3003592.0,,1998,United States,India,141545946.0,21050,Air transport
+221,222,3003593.0,,1998,United States,India,107551481.0,23020,Power generation/non-renewable sources
+222,223,3003645.0,,2002,United States,Korea,495171290.0,21050,Air transport
+223,224,3003646.0,,2001,United States,Korea,818474815.0,21050,Air transport
+224,225,3003647.0,,2000,United States,Korea,22984027.0,21050,Air transport
+225,226,3003648.0,,2000,United States,Korea,404787650.0,21050,Air transport
+227,228,3003651.0,,1999,United States,Korea,25886448.0,32120,Industrial development
+228,229,3003652.0,,1999,United States,Korea,4078251.0,32120,Industrial development
+229,230,3003653.0,,1999,United States,Korea,2355878.0,23020,Power generation/non-renewable sources
+230,231,3003654.0,,1999,United States,Korea,1208448.0,23020,Power generation/non-renewable sources
+246,247,3003725.0,,1999,United States,Saudi Arabia,186738309.0,21050,Air transport
+247,248,3003726.0,,1999,United States,Saudi Arabia,1178650310.0,21050,Air transport
+248,249,3003728.0,,2001,United States,South Africa,322026811.0,21050,Air transport
+249,250,3003729.0,,1999,United States,South Africa,120917030.0,21050,Air transport
+250,251,3003730.0,,1999,United States,South Africa,120917030.0,21050,Air transport
+256,257,3003760.0,,2001,United States,Thailand,260365478.0,21050,Air transport
+257,258,3003761.0,,2000,United States,Thailand,642181555.0,21050,Air transport
+260,261,3003838.0,,1980,United States,Brazil,1840665.0,32120,Industrial development
+261,262,3003839.0,,1980,United States,Brazil,4467591.0,32120,Industrial development
+262,263,3003840.0,,1980,United States,Brazil,44838052.0,21050,Air transport
+264,265,3003842.0,,1980,United States,Brazil,21776984.0,21030,Rail transport
+265,266,3003843.0,,1981,United States,Brazil,2051177.0,32120,Industrial development
+271,272,3003849.0,,1981,United States,Brazil,4232586.0,23020,Power generation/non-renewable sources
+272,273,3003850.0,,1982,United States,Brazil,37058396.0,21050,Air transport
+276,277,3003854.0,,1984,United States,Brazil,16121846.0,21050,Air transport
+278,279,3003856.0,,1985,United States,Brazil,109224325.0,23020,Power generation/non-renewable sources
+280,281,3003898.0,,1985,United States,Brazil,98740041.0,21030,Rail transport
+286,287,3003904.0,,1986,United States,Brazil,94740438.0,21050,Air transport
+287,288,3003905.0,,1987,United States,Brazil,481343738.0,21050,Air transport
+289,290,3003907.0,,1989,United States,Brazil,3187902.0,23020,Power generation/non-renewable sources
+291,292,3003909.0,,1997,United States,India,651235.0,23020,Power generation/non-renewable sources
+292,293,3003920.0,,1994,United States,India,66171888.0,32120,Industrial development
+294,295,3003922.0,,1994,United States,India,428541466.0,32120,Industrial development
+296,297,3003925.0,,1995,United States,India,41362381.0,32120,Industrial development
+297,298,3003926.0,,1996,United States,India,10178966.0,21050,Air transport
+298,299,3003927.0,,1996,United States,India,100277997.0,23020,Power generation/non-renewable sources
+299,300,3003928.0,,1996,United States,India,17735714.0,32120,Industrial development
+301,302,3003930.0,,1997,United States,India,45641044.0,32120,Industrial development
+306,307,3003964.0,,1993,United States,Brazil,7826094.0,23020,Power generation/non-renewable sources
+307,308,3003965.0,,1994,United States,Brazil,1968116993.0,21050,Air transport
+308,309,3003966.0,,1994,United States,Brazil,19888240.0,32120,Industrial development
+309,310,3003967.0,,1994,United States,Brazil,18586068.0,23020,Power generation/non-renewable sources
+310,311,3003968.0,,1994,United States,Brazil,18450387.0,23020,Power generation/non-renewable sources
+312,313,3003970.0,,1994,United States,Brazil,25296758.0,21050,Air transport
+313,314,3003971.0,,1994,United States,Brazil,147070875.0,21050,Air transport
+316,317,3003974.0,,1996,United States,Brazil,23848128.0,32120,Industrial development
+318,319,3003976.0,,1996,United States,Brazil,39640919.0,32120,Industrial development
+321,322,3003979.0,,1996,United States,Brazil,26612781.0,32120,Industrial development
+328,329,3004025.0,,1997,United States,Brazil,173828510.0,32120,Industrial development
+329,330,3004026.0,,1997,United States,Brazil,36241086.0,21030,Rail transport
+356,357,3004306.0,,1980,United States,Poland,6221605.0,32120,Industrial development
+359,360,3004309.0,,1992,United States,Poland,364469015.0,21050,Air transport
+360,361,3004310.0,,1993,United States,Poland,309072.0,32120,Industrial development
+362,363,3004312.0,,1994,United States,Poland,106687093.0,21050,Air transport
+363,364,3004313.0,,1995,United States,Poland,44707858.0,32120,Industrial development
+364,365,3004314.0,,1995,United States,Poland,6022151.0,32120,Industrial development
+365,366,3004315.0,,1996,United States,Poland,44032383.0,21050,Air transport
+366,367,3004316.0,,1997,United States,Poland,263661358.0,21050,Air transport
+377,378,3004340.0,,2002,United States,Brazil,30.0,32120,Industrial development
+380,381,3004351.0,,1980,United States,Korea,1196452145.0,23020,Power generation/non-renewable sources
+381,382,3004352.0,,1980,United States,Korea,169796706.0,23020,Power generation/non-renewable sources
+382,383,3004353.0,,1980,United States,Korea,8665023.0,32120,Industrial development
+385,386,3004356.0,,1981,United States,Korea,12697759.0,32120,Industrial development
+386,387,3004357.0,,1981,United States,Korea,40372580.0,32120,Industrial development
+388,389,3004359.0,,1985,United States,Korea,65814421.0,32120,Industrial development
+389,390,3004360.0,,1996,United States,Korea,140988541.0,21050,Air transport
+390,391,3004362.0,,1997,United States,Korea,364106780.0,21050,Air transport
+392,393,3004378.0,,1993,United States,South Africa,140329030.0,21050,Air transport
+393,394,3004379.0,,1993,United States,South Africa,133558234.0,21050,Air transport
+404,405,3004404.0,,2001,United States,Brazil,121725125.0,23020,Power generation/non-renewable sources
+405,406,3004405.0,,2001,United States,Brazil,121725125.0,23020,Power generation/non-renewable sources
+406,407,3004406.0,,2001,United States,Brazil,44620410.0,23020,Power generation/non-renewable sources
+408,409,3004408.0,,2001,United States,Brazil,220469468.0,32120,Industrial development
+409,410,3004409.0,,2001,United States,Brazil,222587277.0,32120,Industrial development
+412,413,3004412.0,,1998,United States,Brazil,24691696.0,32120,Industrial development
+414,415,3004415.0,,2001,United States,Chile,191429881.0,21050,Air transport
+415,416,3004416.0,,1999,United States,Chile,26700584.0,23020,Power generation/non-renewable sources
+416,417,3004424.0,,1997,United States,Korea,95156295.0,32120,Industrial development
+417,418,3004425.0,,1994,United States,Korea,346370538.0,21050,Air transport
+418,419,3004426.0,,1994,United States,Korea,465335796.0,21050,Air transport
+447,448,3004527.0,,1981,United States,Thailand,8324087.0,23020,Power generation/non-renewable sources
+448,449,3004528.0,,1982,United States,Thailand,30839888.0,32120,Industrial development
+449,450,3004529.0,,1982,United States,Thailand,13460921.0,32120,Industrial development
+450,451,3004530.0,,1982,United States,Thailand,5584935.0,32120,Industrial development
+453,454,3004533.0,,1989,United States,Thailand,17040193.0,23020,Power generation/non-renewable sources
+454,455,3004534.0,,1990,United States,Thailand,20530045.0,32120,Industrial development
+455,456,3004535.0,,1990,United States,Thailand,29287814.0,32120,Industrial development
+456,457,3004538.0,,1991,United States,Thailand,39714987.0,32120,Industrial development
+457,458,3004539.0,,1992,United States,Thailand,84467626.0,23020,Power generation/non-renewable sources
+458,459,3004540.0,,1992,United States,Thailand,78820020.0,32120,Industrial development
+460,461,3004542.0,,1992,United States,Thailand,12316178.0,32120,Industrial development
+461,462,3004543.0,,1993,United States,Thailand,543437464.0,32120,Industrial development
+462,463,3004544.0,,1993,United States,Thailand,167181652.0,21050,Air transport
+463,464,3004545.0,,1993,United States,Thailand,67056125.0,32120,Industrial development
+470,471,3004609.0,,1994,United States,Thailand,231651707.0,32120,Industrial development
+471,472,3004610.0,,1994,United States,Thailand,78933453.0,32120,Industrial development
+472,473,3004611.0,,1996,United States,Thailand,2134488.0,32120,Industrial development
+473,474,3004612.0,,1996,United States,Thailand,8948407.0,32120,Industrial development
+474,475,3004613.0,,1996,United States,Thailand,23425872.0,32120,Industrial development
+476,477,3004615.0,,1997,United States,Thailand,12374925.0,32120,Industrial development
+483,484,3007675.0,,1987,United States,Colombia,3780736.0,32120,Industrial development
+485,486,3007748.0,,1980,United States,Korea,1709265.0,32120,Industrial development
+486,487,3007749.0,,1980,United States,Korea,1893329.0,32120,Industrial development
+487,488,3007750.0,,1980,United States,Korea,1495607.0,32120,Industrial development
+489,490,3007752.0,,1980,United States,Korea,3204872.0,32120,Industrial development
+494,495,3007764.0,,1988,United States,Korea,5950333.0,32120,Industrial development
+495,496,3007765.0,,1988,United States,Korea,27992268.0,23020,Power generation/non-renewable sources
+496,497,3007766.0,,1988,United States,Korea,846107.0,32120,Industrial development
+497,498,3007767.0,,1988,United States,Korea,1675292.0,32120,Industrial development
+498,499,3007768.0,,1988,United States,Korea,2593081.0,32120,Industrial development
+500,501,3007770.0,,1989,United States,Korea,9783843.0,32120,Industrial development
+501,502,3007771.0,,1989,United States,Korea,3261281.0,32120,Industrial development
+502,503,3007772.0,,1989,United States,Korea,3611869.0,32120,Industrial development
+503,504,3007773.0,,1989,United States,Korea,5870306.0,32120,Industrial development
+504,505,3007774.0,,1989,United States,Korea,6522562.0,32120,Industrial development
+505,506,3007775.0,,1989,United States,Korea,8968523.0,32120,Industrial development
+507,508,3007777.0,,1990,United States,Korea,706525.0,32120,Industrial development
+508,509,3007778.0,,1991,United States,Korea,28658111.0,32120,Industrial development
+510,511,3007780.0,,1988,United States,Kuwait,24748632.0,23020,Power generation/non-renewable sources
+513,514,3007804.0,,1987,United States,Korea,7797769.0,32120,Industrial development
+514,515,3007805.0,,1988,United States,Korea,10356351.0,21050,Air transport
+517,518,3007808.0,,1988,United States,Korea,5498782.0,32120,Industrial development
+527,528,3007910.0,,1981,United States,Korea,9376807.0,32120,Industrial development
+528,529,3007911.0,,1981,United States,Korea,17887735.0,32120,Industrial development
+529,530,3007928.0,,1980,United States,Brazil,1281949.0,32120,Industrial development
+533,534,3007932.0,,1983,United States,Brazil,885573.0,32120,Industrial development
+535,536,3007973.0,,1984,United States,Brazil,66573742.0,32120,Industrial development
+537,538,3007975.0,,1987,United States,Brazil,3118390.0,21050,Air transport
+538,539,3007976.0,,1987,United States,Brazil,2859339.0,21050,Air transport
+539,540,3007977.0,,1987,United States,Brazil,731221.0,32120,Industrial development
+540,541,3007978.0,,1987,United States,Brazil,4298837.0,32120,Industrial development
+542,543,3007980.0,,1988,United States,Brazil,67688565.0,32120,Industrial development
+544,545,3007982.0,,1989,United States,Brazil,85308588.0,21050,Air transport
+545,546,3007983.0,,1989,United States,Brazil,5329341.0,21050,Air transport
+546,547,3007984.0,,1989,United States,Brazil,2174182.0,21050,Air transport
+548,549,3007986.0,,1990,United States,Brazil,7613199.0,21050,Air transport
+557,558,3008034.0,,1991,United States,Brazil,1116896.0,32120,Industrial development
+559,560,3008036.0,,1992,United States,Brazil,5590403.0,21050,Air transport
+560,561,3008037.0,,1992,United States,Brazil,4099354.0,32120,Industrial development
+563,564,3008040.0,,1992,United States,Brazil,14219366.0,32120,Industrial development
+570,571,3008048.0,,1995,United States,Brazil,75354228.0,32120,Industrial development
+574,575,3008053.0,,1996,United States,Brazil,103688108.0,32120,Industrial development
+575,576,3008054.0,,1996,United States,Brazil,73673130.0,32120,Industrial development
+582,583,3008104.0,,1996,United States,Brazil,19100441.0,32120,Industrial development
+583,584,3008106.0,,1996,United States,Brazil,195543493.0,32120,Industrial development
+592,593,3008115.0,,1997,United States,Brazil,15383944.0,32120,Industrial development
+595,596,3008119.0,,1998,United States,Brazil,265134342.0,23020,Power generation/non-renewable sources
+596,597,3008120.0,,1998,United States,Brazil,66283586.0,23020,Power generation/non-renewable sources
+612,613,3008233.0,,1984,United States,Chile,23898266.0,32120,Industrial development
+618,619,3008240.0,,1985,United States,Chile,184096283.0,32120,Industrial development
+622,623,3008244.0,,1986,United States,Chile,1945241.0,32120,Industrial development
+623,624,3008245.0,,1986,United States,Chile,2006030.0,32120,Industrial development
+628,629,3008250.0,,1990,United States,Chile,94203326.0,32120,Industrial development
+630,631,3008293.0,,1991,United States,Chile,35633101.0,32120,Industrial development
+632,633,3008295.0,,1991,United States,Chile,8339662.0,32120,Industrial development
+634,635,3008297.0,,1992,United States,Chile,37029599.0,32120,Industrial development
+636,637,3008299.0,,1992,United States,Chile,68578818.0,32120,Industrial development
+641,642,3008304.0,,1990,United States,Colombia,39251386.0,32120,Industrial development
+644,645,3008307.0,,1991,United States,Colombia,5746194.0,32120,Industrial development
+646,647,3008310.0,,1991,United States,Colombia,4162249.0,32120,Industrial development
+656,657,3008358.0,,1995,United States,Colombia,208544911.0,23020,Power generation/non-renewable sources
+658,659,3008360.0,,1996,United States,Colombia,272863443.0,23020,Power generation/non-renewable sources
+659,660,3008362.0,,1996,United States,Colombia,81859033.0,23020,Power generation/non-renewable sources
+660,661,3008363.0,,1996,United States,Colombia,272863443.0,23020,Power generation/non-renewable sources
+666,667,3008401.0,,1981,United States,Thailand,2373504.0,32120,Industrial development
+667,668,3008402.0,,1982,United States,Thailand,25288708.0,32120,Industrial development
+668,669,3008404.0,,1982,United States,Thailand,425683.0,32120,Industrial development
+669,670,3008405.0,,1983,United States,Thailand,9220707.0,32120,Industrial development
+671,672,3008407.0,,1984,United States,Thailand,5121057.0,32120,Industrial development
+672,673,3008408.0,,1984,United States,Thailand,4787069.0,32120,Industrial development
+673,674,3008409.0,,1984,United States,Thailand,19475380.0,32120,Industrial development
+677,678,3008413.0,,1985,United States,Thailand,14580426.0,32120,Industrial development
+678,679,3008414.0,,1986,United States,Thailand,2431551.0,32120,Industrial development
+679,680,3008415.0,,1986,United States,Thailand,6484136.0,32120,Industrial development
+680,681,3008416.0,,1987,United States,Thailand,10481601.0,32120,Industrial development
+682,683,3008418.0,,1987,United States,Thailand,8926738.0,32120,Industrial development
+683,684,3008419.0,,1987,United States,Thailand,3008118.0,32120,Industrial development
+684,685,3008420.0,,1987,United States,Thailand,13085548.0,32120,Industrial development
+691,692,3008429.0,,1990,United States,Poland,4710166.0,32120,Industrial development
+692,693,3008430.0,,1990,United States,Poland,1570055.0,32120,Industrial development
+697,698,3008436.0,,1991,United States,Poland,2783931.0,32120,Industrial development
+699,700,3008438.0,,1991,United States,Poland,5458688.0,32120,Industrial development
+703,704,3008442.0,,1992,United States,Poland,37029599.0,32120,Industrial development
+705,706,3008444.0,,1992,United States,Poland,2221776.0,32120,Industrial development
+706,707,3008445.0,,1992,United States,Poland,17817162.0,32120,Industrial development
+708,709,3008448.0,,1988,United States,Thailand,846107.0,32120,Industrial development
+709,710,3008449.0,,1988,United States,Thailand,1607603.0,32120,Industrial development
+711,712,3008451.0,,1990,United States,Thailand,1786927.0,32120,Industrial development
+712,713,3008452.0,,1991,United States,Thailand,9097813.0,32120,Industrial development
+714,715,3008454.0,,1991,United States,Thailand,10614115.0,32120,Industrial development
+715,716,3008455.0,,1991,United States,Thailand,10614115.0,32120,Industrial development
+718,719,3008459.0,,1993,United States,Thailand,14491666.0,32120,Industrial development
+721,722,3008469.0,,1992,United States,Poland,148118397.0,32120,Industrial development
+722,723,3008470.0,,1992,United States,Poland,29623679.0,32120,Industrial development
+732,733,3008480.0,,1995,United States,Poland,111223952.0,32120,Industrial development
+736,737,3008484.0,,1981,United States,Korea,5440502.0,32120,Industrial development
+737,738,3008485.0,,1981,United States,Korea,16542185.0,32120,Industrial development
+739,740,3008487.0,,1982,United States,Korea,22225177.0,32120,Industrial development
+740,741,3008488.0,,1982,United States,Korea,4807545.0,32120,Industrial development
+741,742,3008489.0,,1982,United States,Korea,460297.0,32120,Industrial development
+745,746,3008531.0,,1983,United States,Korea,39664826.0,32120,Industrial development
+746,747,3008532.0,,1983,United States,Korea,10348022.0,32120,Industrial development
+749,750,3008535.0,,1984,United States,Korea,18966878.0,32120,Industrial development
+750,751,3008536.0,,1984,United States,Korea,1485107.0,32120,Industrial development
+751,752,3008537.0,,1984,United States,Korea,20714676.0,32120,Industrial development
+752,753,3008538.0,,1984,United States,Korea,22820568.0,32120,Industrial development
+754,755,3008540.0,,1984,United States,Korea,6973173.0,32120,Industrial development
+755,756,3008541.0,,1984,United States,Korea,3243336.0,32120,Industrial development
+757,758,3008543.0,,1985,United States,Korea,3181184.0,32120,Industrial development
+759,760,3008545.0,,1985,United States,Korea,25278813.0,32120,Industrial development
+760,761,3008546.0,,1985,United States,Korea,12491154.0,32120,Industrial development
+761,762,3008547.0,,1985,United States,Korea,7941656.0,32120,Industrial development
+762,763,3008548.0,,1985,United States,Korea,12630993.0,32120,Industrial development
+767,768,3008554.0,,1980,United States,Saudi Arabia,41475311.0,32120,Industrial development
+773,774,3008594.0,,1985,United States,Korea,1325493.0,21030,Rail transport
+774,775,3008595.0,,1985,United States,Korea,1472770.0,32120,Industrial development
+775,776,3008596.0,,1985,United States,Korea,2319613.0,32120,Industrial development
+777,778,3008598.0,,1986,United States,Korea,15561927.0,32120,Industrial development
+778,779,3008599.0,,1986,United States,Korea,18390992.0,32120,Industrial development
+779,780,3008600.0,,1986,United States,Korea,7030389.0,32120,Industrial development
+780,781,3008601.0,,1987,United States,Korea,1354764.0,32120,Industrial development
+781,782,3008602.0,,1987,United States,Korea,9451841.0,32120,Industrial development
+783,784,3008604.0,,1987,United States,Korea,4962216.0,32120,Industrial development
+818,819,3008850.0,,1982,United States,India,1822775.0,32120,Industrial development
+819,820,3008851.0,,1982,United States,India,920594.0,32120,Industrial development
+820,821,3008852.0,,1982,United States,India,2945900.0,32120,Industrial development
+821,822,3008853.0,,1983,United States,India,88557.0,32120,Industrial development
+830,831,3008893.0,,1981,United States,Saudi Arabia,52561778.0,23020,Power generation/non-renewable sources
+835,836,3008898.0,,1984,United States,India,1870893.0,21030,Rail transport
+838,839,3008901.0,,1985,United States,India,1656867.0,23020,Power generation/non-renewable sources
+840,841,3008903.0,,1985,United States,India,2587234.0,32120,Industrial development
+841,842,3008904.0,,1985,United States,India,835061.0,21030,Rail transport
+842,843,3008906.0,,1985,United States,India,4863640.0,32120,Industrial development
+843,844,3008907.0,,1986,United States,India,19938720.0,32120,Industrial development
+847,848,3008911.0,,1987,United States,India,189037.0,32120,Industrial development
+848,849,3008912.0,,1987,United States,India,2516868.0,23020,Power generation/non-renewable sources
+849,850,3008913.0,,1987,United States,India,9227359.0,23020,Power generation/non-renewable sources
+850,851,3008914.0,,1987,United States,India,2275443.0,32120,Industrial development
+851,852,3008915.0,,1987,United States,India,1788848.0,32120,Industrial development
+854,855,3008919.0,,1989,United States,India,1123312.0,21030,Rail transport
+856,857,3008921.0,,1990,United States,India,1107919.0,32120,Industrial development
+864,865,3008946.0,,1982,United States,Saudi Arabia,1488373.0,23020,Power generation/non-renewable sources
+865,866,3008947.0,,1982,United States,Saudi Arabia,1636963.0,23020,Power generation/non-renewable sources
+866,867,3008948.0,,1982,United States,Saudi Arabia,10483598.0,23020,Power generation/non-renewable sources
+868,869,3008950.0,,1982,United States,Saudi Arabia,3247854.0,32120,Industrial development
+870,871,3008952.0,,1982,United States,Saudi Arabia,18899665.0,32120,Industrial development
+876,877,3008958.0,,1983,United States,Saudi Arabia,34653072.0,23020,Power generation/non-renewable sources
+879,880,3008961.0,,1983,United States,Saudi Arabia,6813581.0,23020,Power generation/non-renewable sources
+881,882,3008963.0,,1990,United States,India,4363043.0,32120,Industrial development
+883,884,3008965.0,,1992,United States,India,2799438.0,32120,Industrial development
+884,885,3008966.0,,1992,United States,India,44990963.0,32120,Industrial development
+885,886,3008967.0,,1992,United States,India,13034419.0,32120,Industrial development
+886,887,3008968.0,,1993,United States,India,52169997.0,32120,Industrial development
+887,888,3008969.0,,1994,United States,India,21288908.0,32120,Industrial development
+888,889,3008970.0,,1994,United States,India,106444541.0,23020,Power generation/non-renewable sources
+889,890,3008971.0,,1994,United States,India,141926055.0,23020,Power generation/non-renewable sources
+890,891,3008972.0,,1994,United States,India,283852110.0,23020,Power generation/non-renewable sources
+891,892,3008973.0,,1994,United States,India,62043259.0,32120,Industrial development
+899,900,3008982.0,,1997,United States,India,67032435.0,23020,Power generation/non-renewable sources
+900,901,3008983.0,,1998,United States,India,13256717.0,23020,Power generation/non-renewable sources
+902,903,3009005.0,,1984,United States,Saudi Arabia,4206967.0,23020,Power generation/non-renewable sources
+908,909,3009012.0,,1985,United States,Saudi Arabia,525227.0,32120,Industrial development
+911,912,3009015.0,,1986,United States,Saudi Arabia,5772016.0,23020,Power generation/non-renewable sources
+912,913,3009016.0,,1986,United States,Saudi Arabia,6449554.0,23020,Power generation/non-renewable sources
+917,918,3009034.0,,1999,United States,India,78319972.0,23020,Power generation/non-renewable sources
+956,957,3009256.0,,1980,United States,Thailand,16024358.0,32120,Industrial development
+960,961,3009260.0,,1980,United States,Thailand,1243490.0,32120,Industrial development
+970,971,3009291.0,,1987,United States,Colombia,496222.0,32120,Industrial development
+974,975,3009311.0,,1989,United States,India,533464.0,32120,Industrial development
+978,979,3009322.0,,1982,United States,Korea,15956957.0,32120,Industrial development
+980,981,3009330.0,,1999,United States,Chile,35772647.0,23020,Power generation/non-renewable sources
+982,983,3009332.0,,2000,United States,Colombia,26303308.0,32120,Industrial development
+984,985,3009336.0,,1993,United States,Brazil,250140642.0,21050,Air transport
+985,986,3009346.0,,1992,United States,Thailand,30480544.0,32120,Industrial development
+986,987,3009357.0,,2000,United States,Brazil,36609700.0,21030,Rail transport
+987,988,3009358.0,,1999,United States,Brazil,114532255.0,21030,Rail transport
+988,989,3009359.0,,2001,United States,India,2772817.0,32120,Industrial development
+989,990,3009360.0,,2001,United States,India,432085373.0,21050,Air transport
+991,992,3009365.0,,1997,United States,Korea,137462074.0,21050,Air transport
+992,993,3009366.0,,1997,United States,Korea,414937476.0,21050,Air transport
+1001,1002,3009386.0,,1980,United States,India,83089263.0,21050,Air transport
+1002,1003,3009387.0,,1993,United States,India,45003433.0,23020,Power generation/non-renewable sources
+1003,1004,3009389.0,,2000,United States,Chile,92075503.0,21050,Air transport
+1004,1005,3009390.0,,1999,United States,Chile,169137201.0,21050,Air transport
+1005,1006,3009391.0,,2000,United States,India,33966439.0,32120,Industrial development
+1006,1007,3009392.0,,1999,United States,India,258079971.0,21050,Air transport
+1007,1008,3009397.0,,2000,United States,Saudi Arabia,479381.0,21050,Air transport
+1008,1009,3009398.0,,2000,United States,Saudi Arabia,703811645.0,21050,Air transport
+1010,1011,3009400.0,,1984,United States,Chile,948344.0,32120,Industrial development
+1013,1014,3009403.0,,1988,United States,Colombia,5391394.0,32120,Industrial development
+1014,1015,3009404.0,,1992,United States,Colombia,51841439.0,23020,Power generation/non-renewable sources
+1015,1016,3009405.0,,1992,United States,Colombia,148118397.0,23020,Power generation/non-renewable sources
+1017,1018,3009422.0,,1993,United States,India,32120342.0,21050,Air transport
+1019,1020,3009424.0,,1997,United States,Brazil,2014298.0,21050,Air transport
+1021,1022,3009466.0,,1994,United States,South Africa,7589283.0,32120,Industrial development
+1022,1023,3009479.0,,1984,United States,Brazil,804190.0,32120,Industrial development
+1023,1024,3009480.0,,1985,United States,Brazil,14727703.0,32120,Industrial development
+1026,1027,3009496.0,,1982,United States,Korea,3314137.0,32120,Industrial development
+1027,1028,3009497.0,,1984,United States,Korea,10773869.0,32120,Industrial development
+1029,1030,3009499.0,,1986,United States,Korea,36635371.0,32120,Industrial development
+1033,1034,3009504.0,,1996,United States,India,1198528.0,23020,Power generation/non-renewable sources
+1034,1035,3009511.0,,1991,United States,Poland,22248702.0,32120,Industrial development
+1035,1036,3009512.0,,1992,United States,Poland,2334198.0,32120,Industrial development
+1039,1040,3009521.0,,1984,United States,India,8535095.0,32120,Industrial development
+1040,1041,3009522.0,,1988,United States,India,1462073.0,32120,Industrial development
+1041,1042,3009523.0,,1991,United States,India,37119077.0,32120,Industrial development
+1043,1044,3009526.0,,1998,United States,India,7954030.0,23020,Power generation/non-renewable sources
+1046,1047,3009536.0,,1995,United States,Colombia,28956183.0,23020,Power generation/non-renewable sources
+1047,1048,3009537.0,,1981,United States,Brazil,75730740.0,21050,Air transport
+1051,1052,3009546.0,,1993,United States,Colombia,25498086.0,23020,Power generation/non-renewable sources
+1054,1055,3009549.0,,1999,United States,Brazil,150113279.0,23020,Power generation/non-renewable sources
+1056,1057,3009554.0,,2001,United States,Colombia,17767974.0,32120,Industrial development
+1061,1062,3009572.0,,2002,United States,Korea,9725082.0,21050,Air transport
+1062,1063,3009573.0,,2002,United States,Korea,114543633.0,21050,Air transport
+1063,1064,3009590.0,,1984,United States,Brazil,37933756.0,32120,Industrial development
+1070,1071,3009605.0,,1984,United States,Brazil,38984142.0,32120,Industrial development
+1075,1076,3009611.0,,1992,United States,Chile,97256465.0,32120,Industrial development
+1078,1079,3009630.0,,1998,United States,India,218735832.0,23020,Power generation/non-renewable sources
+1082,1083,3009650.0,,1991,United States,Poland,10644441.0,32120,Industrial development
+1092,1093,3009692.0,,1983,United States,Thailand,236153.0,32120,Industrial development
+1095,1096,3009695.0,,1998,United States,Thailand,246199773.0,23020,Power generation/non-renewable sources
+1096,1097,3009707.0,,2002,United States,Thailand,296538417.0,21050,Air transport
+1098,1099,3009710.0,,1980,United States,Thailand,10997457.0,21050,Air transport
+1099,1100,3009711.0,,1993,United States,Thailand,188029362.0,23020,Power generation/non-renewable sources
+1100,1101,3009722.0,,1994,United States,Poland,35148697.0,21050,Air transport
+1104,1105,3009734.0,,1996,United States,Korea,216247007.0,21050,Air transport
+1109,1110,3009742.0,,1999,United States,Korea,1038974472.0,21050,Air transport
+1110,1111,3009743.0,,1999,United States,Saudi Arabia,1353434380.0,21050,Air transport
+1113,1114,3009751.0,,1982,United States,Saudi Arabia,3273222.0,32120,Industrial development
+1115,1116,3009753.0,,1992,United States,Saudi Arabia,148118397.0,32120,Industrial development
+1120,1121,3009773.0,,1990,United States,India,5595678.0,32120,Industrial development
+1121,1122,3009774.0,,1993,United States,India,169382936.0,32120,Industrial development
+1126,1127,3009839.0,,1991,United States,Poland,14404871.0,32120,Industrial development
+1127,1128,3009840.0,,1987,United States,Korea,218793.0,32120,Industrial development
+1128,1129,3009860.0,,1981,United States,Korea,6436787.0,32120,Industrial development
+1133,1134,3009911.0,,1981,United States,Korea,818995.0,32120,Industrial development
+1135,1136,3009913.0,,1986,United States,Korea,3955323.0,32120,Industrial development
+1136,1137,3009914.0,,1987,United States,Korea,383325.0,32120,Industrial development
+1137,1138,3009915.0,,1988,United States,Korea,15397456.0,32120,Industrial development
+1138,1139,3009916.0,,1989,United States,Korea,35099537.0,32120,Industrial development
+1140,1141,3009973.0,,1992,United States,Poland,3999197.0,32120,Industrial development
+1141,1142,3009974.0,,1994,United States,Poland,70963028.0,32120,Industrial development
+1143,1144,3010164.0,,1980,United States,Brazil,7994706.0,32120,Industrial development
+1144,1145,3010165.0,,1987,United States,Brazil,4111551.0,32120,Industrial development
+1145,1146,3010166.0,,1990,United States,Brazil,45077233.0,21050,Air transport
+1148,1149,3010169.0,,1996,United States,Brazil,66851543.0,32120,Industrial development
+1152,1153,3010176.0,,1990,United States,Brazil,1680069.0,21050,Air transport
+1156,1157,3010252.0,,1985,United States,Chile,18913132.0,32120,Industrial development
+1160,1161,3010281.0,,1990,United States,Colombia,1730201.0,32120,Industrial development
+1163,1164,3010294.0,,1987,United States,Korea,2441726.0,32120,Industrial development
+1164,1165,3010295.0,,1988,United States,Korea,8985657.0,32120,Industrial development
+1165,1166,3010296.0,,1988,United States,Korea,2642392.0,32120,Industrial development
+1169,1170,3010350.0,,1981,United States,Saudi Arabia,1892394.0,32120,Industrial development
+1178,1179,3010401.0,,1983,United States,Thailand,437398.0,32120,Industrial development
+1181,1182,3010404.0,,1993,United States,Thailand,5164830.0,32120,Industrial development
+1182,1183,3010413.0,,1984,United States,Saudi Arabia,2124347.0,23020,Power generation/non-renewable sources
+1189,1190,3010465.0,,1996,United States,Thailand,68215861.0,23020,Power generation/non-renewable sources
+1192,1193,3010500.0,,1982,United States,India,5339443.0,32120,Industrial development
+1196,1197,3010504.0,,1999,United States,India,41470425.0,23020,Power generation/non-renewable sources
+1197,1198,3010529.0,,1984,United States,Korea,5291759.0,32120,Industrial development
+1198,1199,3010530.0,,1995,United States,Kuwait,278059881.0,32120,Industrial development
+1202,1203,3010535.0,,1992,United States,India,5998795.0,32120,Industrial development
+1206,1207,3010725.0,,1993,United States,Poland,2173750.0,32120,Industrial development
+1207,1208,3010816.0,,1983,United States,India,12663697.0,32120,Industrial development
+1208,1209,3010817.0,,1994,United States,India,72954250.0,32120,Industrial development
+1210,1211,3010831.0,,1992,United States,Brazil,62634234.0,21050,Air transport
+1212,1213,3010835.0,,1994,United States,Korea,259548693.0,21050,Air transport
+1214,1215,3010850.0,,1998,United States,Chile,250715011.0,21050,Air transport
+1215,1216,3010930.0,,1980,United States,Korea,10929680.0,32120,Industrial development
+1223,1224,3011024.0,,1987,United States,India,2441726.0,32120,Industrial development
+1224,1225,3011025.0,,1990,United States,Poland,2355083.0,32120,Industrial development
+1226,1227,3011031.0,,1983,United States,Saudi Arabia,2798411.0,32120,Industrial development
+1228,1229,3011034.0,,1993,United States,Colombia,25263900.0,32120,Industrial development
+1229,1230,3011036.0,,1996,United States,Brazil,31632240.0,32120,Industrial development
+1230,1231,3011037.0,,1982,United States,Korea,104207520.0,21030,Rail transport
+1231,1232,3011038.0,,1996,United States,India,23517827.0,23020,Power generation/non-renewable sources
+1233,1234,3011047.0,,1981,United States,Saudi Arabia,33209525.0,32120,Industrial development
+1235,1236,3011049.0,,1988,United States,Saudi Arabia,727652.0,32120,Industrial development
+1236,1237,3011053.0,,1988,United States,Brazil,86140807.0,21050,Air transport
+1237,1238,3011054.0,,1991,United States,Brazil,56861332.0,32120,Industrial development
+1238,1239,3011055.0,,1996,United States,Brazil,50479737.0,32120,Industrial development
+1239,1240,3011056.0,,1999,United States,Brazil,67711532.0,23020,Power generation/non-renewable sources
+1240,1241,3011058.0,,1984,United States,Chile,948344.0,32120,Industrial development
+1241,1242,3011059.0,,1986,United States,Chile,932095.0,32120,Industrial development
+1244,1245,3011087.0,,1981,United States,Colombia,29369375.0,32120,Industrial development
+1250,1251,3011103.0,,1980,United States,Korea,4700478.0,32120,Industrial development
+1252,1253,3011106.0,,1984,United States,Korea,20484228.0,32120,Industrial development
+1253,1254,3011107.0,,1987,United States,Korea,3961652.0,32120,Industrial development
+1255,1256,3011109.0,,1981,United States,Brazil,9665448.0,32120,Industrial development
+1256,1257,3011115.0,,1989,United States,Korea,1956769.0,32120,Industrial development
+1258,1259,3011118.0,,1983,United States,India,2391048.0,32120,Industrial development
+1259,1260,3011119.0,,1987,United States,India,626041.0,32120,Industrial development
+1260,1261,3011120.0,,1994,United States,India,212889083.0,23020,Power generation/non-renewable sources
+1262,1263,3011130.0,,1999,United States,Colombia,34305714.0,23020,Power generation/non-renewable sources
+1263,1264,3011131.0,,1992,United States,Colombia,25832441.0,23020,Power generation/non-renewable sources
+1423,1424,40858318.0,,1978,Saudi Arabia,Thailand,95676536.0,23020,Power generation/non-renewable sources
+1468,1469,50000906.0,50000906.0,2009,Norway,India,151794.0,32120,Industrial development
+1774,1775,50005515.0,50005515.0,2009,Belgium,South Africa,7238.0,32120,Industrial development
+1971,1972,50008029.0,50008029.0,2009,Belgium,Colombia,769.0,23020,Power generation/non-renewable sources
+2004,2005,50008191.0,50008191.0,2009,Spain,India,352341.0,32120,Industrial development
+2533,2534,50017691.0,50017691.0,2009,Norway,India,43703.0,32120,Industrial development
+3005,3006,50021033.0,50021033.0,2009,Germany,India,70737677.0,23020,Power generation/non-renewable sources
+3306,3307,50022636.0,50022636.0,2009,Germany,Thailand,80966.0,32120,Industrial development
+3433,3434,50025387.0,50025387.0,2009,Italy,Brazil,26678.0,32120,Industrial development
+3713,3714,50027556.0,50027556.0,2009,Norway,South Africa,9277.0,32120,Industrial development
+3716,3717,50027681.0,50027681.0,2009,Norway,South Africa,14117.0,32120,Industrial development
+3719,3720,50027713.0,50027713.0,2009,Norway,South Africa,9277.0,32120,Industrial development
+3722,3723,50027746.0,50027746.0,2009,Norway,South Africa,9277.0,32120,Industrial development
+3731,3732,50027757.0,50027757.0,2009,Norway,South Africa,109103.0,32120,Industrial development
+3749,3750,50027777.0,50027777.0,2009,Norway,South Africa,26621.0,32120,Industrial development
+3775,3776,50027812.0,50027812.0,2009,Norway,South Africa,70112.0,32120,Industrial development
+3784,3785,50028026.0,50028026.0,2009,Norway,India,37864.0,32120,Industrial development
+3901,3902,50029788.0,50029788.0,2009,Norway,India,29243.0,32120,Industrial development
+3909,3910,50029796.0,50029796.0,2009,Norway,India,36725.0,32120,Industrial development
+3914,3915,50029804.0,50029804.0,2009,Norway,India,18151.0,32120,Industrial development
+3922,3923,50029814.0,50029814.0,2009,Norway,India,313666.0,32120,Industrial development
+3923,3924,50029815.0,50029815.0,2009,Norway,India,383181.0,32120,Industrial development
+3925,3926,50029817.0,50029817.0,2009,Norway,India,54452.0,32120,Industrial development
+3926,3927,50029818.0,50029818.0,2009,Norway,India,161340.0,32120,Industrial development
+4412,4413,50040391.0,50040391.0,2009,Finland,India,59604.0,32120,Industrial development
+4457,4458,50040852.0,50040852.0,2009,Finland,India,189279.0,32120,Industrial development
+4460,4461,50041120.0,50041120.0,2009,Finland,Thailand,79117.0,32120,Industrial development
+4485,4486,50041368.0,50041368.0,2009,Finland,India,63582.0,32120,Industrial development
+4487,4488,50041370.0,50041370.0,2009,Finland,India,2733593.0,32120,Industrial development
+4490,4491,50041374.0,50041374.0,2009,Finland,India,157305.0,32120,Industrial development
+4493,4494,50041377.0,50041377.0,2009,Finland,India,85203.0,32120,Industrial development
+4494,4495,50041378.0,50041378.0,2009,Finland,India,151086.0,32120,Industrial development
+4902,4903,50051863.0,50051863.0,2009,Spain,Brazil,9020.0,21050,Air transport
+4964,4965,50051932.0,50051932.0,2009,Spain,Brazil,84562.0,32120,Industrial development
+5285,5286,50052274.0,50052274.0,2009,Spain,Chile,84562.0,32120,Industrial development
+5292,5293,50052283.0,50052283.0,2009,Spain,Chile,14094.0,32120,Industrial development
+5347,5348,50052340.0,50052340.0,2009,Spain,Chile,16912.0,32120,Industrial development
+5443,5444,50052444.0,50052444.0,2009,Spain,Colombia,78449.0,32120,Industrial development
+5522,5523,50052530.0,50052530.0,2009,Spain,Colombia,290284.0,32120,Industrial development
+5573,5574,50052586.0,50052586.0,2009,Spain,Colombia,27961.0,32120,Industrial development
+5813,5814,50054826.0,50054826.0,2009,Spain,India,164767.0,32120,Industrial development
+5827,5828,50054842.0,50054842.0,2009,Spain,India,356046.0,32120,Industrial development
+5851,5852,50055159.0,50055159.0,2009,United States,India,12420.0,21050,Air transport
+5928,5929,50060884.0,50060884.0,2009,Canada,Brazil,159809.0,32120,Industrial development
+6009,6010,50060968.0,50060968.0,2009,Canada,Chile,159809.0,32120,Industrial development
+6068,6069,50061029.0,50061029.0,2009,Canada,Colombia,3368.0,32120,Industrial development
+6100,6101,50061902.0,50061902.0,2009,Canada,India,40894.0,32120,Industrial development
+6177,6178,50061991.0,50061991.0,2009,Canada,India,96854.0,32120,Industrial development
+6549,6550,50073253.0,50073253.0,2009,Norway,South Africa,14117.0,32120,Industrial development
+6557,6558,50073314.0,50073314.0,2009,Norway,India,56699.0,32120,Industrial development
+6558,6559,50073315.0,50073315.0,2009,Norway,India,156852.0,32120,Industrial development
+6559,6560,50073316.0,50073316.0,2009,Norway,India,40839.0,32120,Industrial development
+6561,6562,50073324.0,50073324.0,2009,Norway,Thailand,60502.0,21050,Air transport
+6637,6638,50076942.0,50076942.0,2009,United States,Brazil,652028.0,21050,Air transport
+6644,6645,50077088.0,50077088.0,2009,United States,Brazil,52271.0,21050,Air transport
+6665,6666,50077205.0,50077205.0,2009,United States,Brazil,593035.0,21050,Air transport
+6747,6748,50077294.0,50077294.0,2009,United States,Chile,4557198.0,23020,Power generation/non-renewable sources
+6811,6812,50077362.0,50077362.0,2009,United States,Colombia,4250148.0,23020,Power generation/non-renewable sources
+6888,6889,50080730.0,50080730.0,2009,United States,India,24618.0,21050,Air transport
+6921,6922,50080773.0,50080773.0,2009,United States,India,384696.0,21050,Air transport
+6926,6927,50080778.0,50080778.0,2009,United States,India,329586.0,21050,Air transport
+7115,7116,50082156.0,50082156.0,2009,United States,Thailand,25874.0,21050,Air transport
+7146,7147,50082215.0,50082215.0,2009,United States,Thailand,1929.0,21050,Air transport
+7164,7165,50082234.0,50082234.0,2009,United States,Thailand,6627557.0,23020,Power generation/non-renewable sources
+7259,7260,50088419.0,50088419.0,2009,Japan,Brazil,23785.0,32120,Industrial development
+7310,7311,50088470.0,50088470.0,2009,Japan,Brazil,1228517.0,21030,Rail transport
+7327,7328,50088487.0,50088487.0,2009,Japan,Brazil,1265.0,21030,Rail transport
+7329,7330,50088489.0,50088489.0,2009,Japan,Brazil,23238.0,21050,Air transport
+7405,7406,50088568.0,50088568.0,2009,Japan,Chile,6591.0,21030,Rail transport
+7484,7485,50088649.0,50088649.0,2009,Japan,Colombia,26351.0,21030,Rail transport
+7576,7577,50090522.0,50090522.0,2009,Japan,India,1121935.0,21030,Rail transport
+7577,7578,50090523.0,50090523.0,2009,Japan,India,66807.0,21030,Rail transport
+7623,7624,50090570.0,50090570.0,2009,Japan,India,916044821.0,21030,Rail transport
+7624,7625,50090571.0,50090571.0,2009,Japan,India,18313927.0,21030,Rail transport
+7630,7631,50090578.0,50090578.0,2009,Japan,India,31316334.0,21030,Rail transport
+7646,7647,50090594.0,50090594.0,2009,Japan,India,602281.0,21030,Rail transport
+7698,7699,50092413.0,50092413.0,2009,Japan,Thailand,49.0,21050,Air transport
+7699,7700,50092414.0,50092414.0,2009,Japan,Thailand,7649.0,21050,Air transport
+7760,7761,50092476.0,50092476.0,2009,Japan,Thailand,61444.0,21030,Rail transport
+7836,7837,50092554.0,50092554.0,2009,Japan,Thailand,727185458.0,21030,Rail transport
+7837,7838,50092555.0,50092555.0,2009,Japan,Thailand,30102616.0,21030,Rail transport
+8043,8044,50098278.0,50098278.0,2009,Australia,Thailand,29735.0,21050,Air transport
+8048,8049,50098283.0,50098283.0,2009,Australia,Thailand,61980.0,23020,Power generation/non-renewable sources
+8261,8262,50144321.0,50144321.0,2006,Korea,Thailand,111908.0,21030,Rail transport
+8674,8675,50183189.0,28389600.0,2006,Norway,India,15108.0,32120,Industrial development
+8727,8728,50223570.0,29334657.0,2006,Spain,Colombia,29634.0,32120,Industrial development
+8728,8729,50224310.0,19317490.0,2003,Italy,Brazil,32120.0,32120,Industrial development
+8741,8742,50232244.0,11216409.0,1997,Japan,India,207969110.0,23020,Power generation/non-renewable sources
+8748,8749,50235482.0,14328290.0,2000,Italy,India,19706.0,32120,Industrial development
+8752,8753,50238177.0,20462502.0,2003,United States,India,60211.0,23020,Power generation/non-renewable sources
+8764,8765,50247481.0,22555073.0,2004,Spain,Colombia,49272.0,21050,Air transport
+8767,8768,50248885.0,9923117.0,1995,Germany,Thailand,5883224.0,21030,Rail transport
+8786,8787,50263146.0,32429195.0,2007,United Kingdom,India,44338.0,23020,Power generation/non-renewable sources
+8790,8791,50263928.0,24404571.0,2005,Norway,South Africa,136880.0,32120,Industrial development
+8884,8885,50332295.0,13257030.0,1999,United States,South Africa,39160.0,21050,Air transport
+8960,8961,50387157.0,10241985.0,1995,Canada,India,385.0,32120,Industrial development
+9005,9006,50421222.0,19771159.0,2003,United Kingdom,India,2861882.0,32120,Industrial development
+9018,9019,50429759.0,36906246.0,2008,United Kingdom,India,47580.0,23020,Power generation/non-renewable sources
+9033,9034,50441531.0,18363335.0,2002,Canada,Chile,476925.0,32120,Industrial development
+9138,9139,50517857.0,23083798.0,2004,Japan,India,677153332.0,21030,Rail transport
+9245,9246,50599611.0,12072006.0,1998,Canada,India,4371591.0,32120,Industrial development
+9297,9298,50640314.0,11148983.0,1997,Canada,Colombia,1723029.0,32120,Industrial development
+9307,9308,50651724.0,36889187.0,2008,United Kingdom,Brazil,114565.0,23020,Power generation/non-renewable sources
+9327,9328,50673109.0,34383567.0,2007,Australia,India,13215.0,32120,Industrial development
+9374,9375,50709888.0,16411582.0,2001,Spain,Colombia,3188.0,32120,Industrial development
+9409,9410,50739952.0,31904201.0,2007,Norway,South Africa,13640.0,23020,Power generation/non-renewable sources
+9488,9489,50802401.0,18238045.0,2002,Spain,Colombia,2535.0,32120,Industrial development
+9569,9570,50875848.0,25528539.0,2005,Spain,Brazil,15536.0,32120,Industrial development
+9603,9604,50903072.0,18234481.0,2002,Spain,Chile,2535.0,32120,Industrial development
+9730,9731,51001366.0,38689042.0,2008,Japan,Thailand,692722448.0,21030,Rail transport
+9786,9787,51049036.0,13738779.0,1996,Norway,South Africa,104964.0,32120,Industrial development
+9793,9794,51054068.0,12071870.0,1998,Canada,South Africa,2342574.0,32120,Industrial development
+9823,9824,51074219.0,16688705.0,2001,United States,South Africa,4998.0,23020,Power generation/non-renewable sources
+9942,9943,51167969.0,15105341.0,2000,United States,India,21721.0,21030,Rail transport
+9975,9976,51186231.0,10874894.0,1997,Norway,India,1681342.0,32120,Industrial development
+9989,9990,51201732.0,14406129.0,2000,Norway,South Africa,10014.0,32120,Industrial development
+10200,10201,51360922.0,18474692.0,2002,United States,Brazil,35657.0,21050,Air transport
+10418,10419,51518395.0,12154596.0,1998,Japan,South Africa,65416241.0,21030,Rail transport
+10462,10463,51549681.0,10239929.0,1995,Canada,Colombia,1427.0,32120,Industrial development
+10484,10485,51563907.0,16137930.0,2001,Switzerland,India,624443.0,32120,Industrial development
+10559,10560,51625538.0,20066274.0,2003,Spain,Chile,2349.0,32120,Industrial development
+10567,10568,51630799.0,16166231.0,2001,United Kingdom,India,42942.0,32120,Industrial development
+10610,10611,51659826.0,24158393.0,2005,Germany,India,49994.0,32120,Industrial development
+10623,10624,51669688.0,9923907.0,1995,Germany,India,24026237.0,32120,Industrial development
+10626,10627,51673278.0,32009648.0,2007,Norway,India,9427.0,32120,Industrial development
+10687,10688,51723023.0,21838777.0,2004,Norway,South Africa,12774.0,32120,Industrial development
+10701,10702,51732576.0,14116419.0,2000,France,South Africa,1034209.0,21030,Rail transport
+10709,10710,51738419.0,22670539.0,2004,Canada,Brazil,156850.0,32120,Industrial development
+10819,10820,51824459.0,36986765.0,2008,Finland,India,59744.0,32120,Industrial development
+10862,10863,51855159.0,18474552.0,2002,United States,Brazil,1230.0,23020,Power generation/non-renewable sources
+10875,10876,51864081.0,21626754.0,2004,Germany,Thailand,260283.0,32120,Industrial development
+10897,10898,51876190.0,36152797.0,2008,Italy,Brazil,14430.0,32120,Industrial development
+11145,11146,52067052.0,11149425.0,1997,Canada,India,4822052.0,32120,Industrial development
+11186,11187,52090375.0,9873539.0,1995,France,Chile,2782715.0,21030,Rail transport
+11305,11306,52167823.0,21914290.0,2004,Norway,India,14051.0,32120,Industrial development
+11393,11394,52230522.0,14424056.0,2000,Norway,India,222538.0,32120,Industrial development
+11535,11536,52343803.0,24208422.0,2005,Germany,Thailand,26908.0,32120,Industrial development
+11745,11746,52490204.0,16463774.0,2001,Canada,Colombia,1625841.0,32120,Industrial development
+11758,11759,52500020.0,23165486.0,2004,Australia,India,177067.0,32120,Industrial development
+11815,11816,52534977.0,13531816.0,1996,Belgium,Colombia,335550.0,32120,Industrial development
+11900,11901,52596031.0,38689098.0,2008,Japan,Thailand,53889705.0,21030,Rail transport
+11936,11937,52618143.0,13536014.0,1996,Belgium,Colombia,101572.0,32120,Industrial development
+11952,11953,52633523.0,36286898.0,2008,Norway,South Africa,13216.0,32120,Industrial development
+12203,12204,52821412.0,10332754.0,1995,Australia,South Africa,91287.0,32120,Industrial development
+12207,12208,52823635.0,33780264.0,2007,United States,Colombia,282018.0,32120,Industrial development
+12477,12478,53044194.0,22936188.0,2004,United States,Thailand,4685.0,21050,Air transport
+12793,12794,53279744.0,13760541.0,1996,Norway,India,34288.0,32120,Industrial development
+12797,12798,53282508.0,11384781.0,1998,France,Brazil,685093.0,21030,Rail transport
+12939,12940,53387774.0,18474622.0,2002,United States,Brazil,1230.0,23020,Power generation/non-renewable sources
+13082,13083,53500215.0,13787398.0,1996,Sweden,Thailand,1939.0,32120,Industrial development
+13305,13306,53667425.0,9854610.0,1995,Denmark,South Africa,1160740.0,32120,Industrial development
+13606,13607,53902566.0,37626317.0,2008,Spain,Thailand,32435.0,32120,Industrial development
+13629,13630,53922136.0,24497623.0,2005,Norway,India,15244.0,32120,Industrial development
+13669,13670,53950993.0,18414285.0,2002,United States,South Africa,656573.0,23020,Power generation/non-renewable sources
+13694,13695,53968357.0,37503936.0,2008,Spain,Chile,19986.0,32120,Industrial development
+13744,13745,54001400.0,15105501.0,2000,United States,Brazil,255536.0,21030,Rail transport
+13774,13775,54026636.0,17933107.0,2002,United Kingdom,India,6666490.0,32120,Industrial development
+13801,13802,54042869.0,13628816.0,1996,Germany,India,51729214.0,23020,Power generation/non-renewable sources
+13830,13831,54062690.0,13135758.0,1999,Canada,Colombia,413402.0,32120,Industrial development
+13855,13856,54084205.0,36905334.0,2008,United Kingdom,India,96929.0,23020,Power generation/non-renewable sources
+13930,13931,54153517.0,28388776.0,2006,Norway,India,15108.0,32120,Industrial development
+13931,13932,54154413.0,37612461.0,2008,Spain,India,33458.0,32120,Industrial development
+13936,13937,54158609.0,12699901.0,1999,Norway,India,322.0,23020,Power generation/non-renewable sources
+13963,13964,54179348.0,12633066.0,1999,Netherlands,South Africa,804145.0,32120,Industrial development
+14050,14051,54241669.0,32429954.0,2007,United Kingdom,India,7631.0,23020,Power generation/non-renewable sources
+14137,14138,54301747.0,10341542.0,1995,Australia,India,127458.0,21030,Rail transport
+14200,14201,54348546.0,26039653.0,2005,United States,Chile,406957.0,21050,Air transport
+14492,14493,54563103.0,16463179.0,2001,Canada,Thailand,4314483.0,32120,Industrial development
+14569,14570,54624840.0,14718995.0,2000,United Kingdom,India,2888798.0,21030,Rail transport
+14570,14571,54625230.0,32381579.0,2007,United Kingdom,South Africa,46339.0,23020,Power generation/non-renewable sources
+14735,14736,54737624.0,16412011.0,2001,Spain,Chile,6057.0,32120,Industrial development
+14883,14884,54841450.0,16463214.0,2001,Canada,Brazil,3056684.0,32120,Industrial development
+15206,15207,55097276.0,22548570.0,2004,Spain,Chile,1945.0,32120,Industrial development
+15257,15258,55135387.0,26128549.0,2005,United States,India,159836.0,32120,Industrial development
+15388,15389,55219343.0,16697010.0,2001,United States,Thailand,18742.0,21030,Rail transport
+15440,15441,55254756.0,13760505.0,1996,Norway,India,130156.0,32120,Industrial development
+15487,15488,55288264.0,33292640.0,2007,Spain,India,13311.0,32120,Industrial development
+15523,15524,55320209.0,28386853.0,2006,Norway,India,43596.0,32120,Industrial development
+15530,15531,55328335.0,21914028.0,2004,Norway,India,14051.0,32120,Industrial development
+15615,15616,55382870.0,30145875.0,2006,Japan,India,174266444.0,21030,Rail transport
+15685,15686,55430280.0,25802881.0,2005,Canada,India,108962.0,32120,Industrial development
+15886,15887,55580669.0,14717077.0,2000,United Kingdom,India,18669.0,23020,Power generat./non-renewable sources
+16021,16022,55677552.0,10660614.0,1997,France,India,12699416.0,32120,Industrial development
+16048,16049,55700112.0,33295194.0,2007,Spain,India,14358.0,32120,Industrial development
+16104,16105,55744512.0,20072226.0,2003,Spain,Colombia,2118.0,32120,Industrial development
+16105,16106,55744980.0,16697045.0,2001,United States,Thailand,4998.0,21050,Air transport
+16171,16172,55802391.0,21915540.0,2004,Norway,India,30658.0,32120,Industrial development
+16254,16255,55872670.0,20462274.0,2003,United States,India,149322.0,32120,Industrial development
+16255,16256,55873565.0,15105437.0,2000,United States,Colombia,31942.0,21030,Rail transport
+16275,16276,55894465.0,11114990.0,1997,Spain,Chile,623877.0,32120,Industrial development
+16471,16472,56044401.0,14891763.0,2000,Spain,Brazil,2656.0,32120,Industrial development
+16562,16563,56111755.0,16691716.0,2001,United States,Chile,277377.0,21050,Air transport
+16583,16584,56127087.0,14993284.0,2000,Canada,South Africa,2185159.0,32120,Industrial development
+16683,16684,56202781.0,11850222.0,1998,Switzerland,India,2971455.0,32120,Industrial development
+16866,16867,56352769.0,38628868.0,2008,Japan,India,6827384.0,21030,Rail transport
+16928,16929,56395315.0,14994168.0,2000,Canada,Colombia,1083517.0,32120,Industrial development
+17042,17043,56497911.0,21914419.0,2004,Norway,India,14051.0,32120,Industrial development
+17126,17127,56581584.0,14731444.0,2000,United Kingdom,India,83131.0,21030,Rail transport
+17170,17171,56619581.0,18414483.0,2002,United States,South Africa,265580.0,32120,Industrial development
+17195,17196,56636938.0,20221297.0,2003,Canada,India,138415.0,32120,Industrial development
+17200,17201,56644097.0,28280180.0,2006,Norway,South Africa,12086.0,21030,Rail transport
+17276,17277,56688415.0,10731775.0,1997,Germany,India,146832206.0,21030,Rail transport
+17363,17364,56759845.0,18557380.0,2002,Japan,Thailand,371418797.0,21050,Air transport
+17489,17490,56857752.0,33293025.0,2007,Spain,India,43327.0,32120,Industrial development
+17512,17513,56879460.0,21914462.0,2004,Norway,India,14051.0,32120,Industrial development
+17606,17607,56957177.0,9806178.0,1995,Belgium,Brazil,366839.0,32120,Industrial development
+17613,17614,56961387.0,9867278.0,1995,Denmark,India,416860.0,32120,Industrial development
+17811,17812,57110530.0,25801809.0,2005,Canada,India,424256.0,32120,Industrial development
+17850,17851,57144667.0,18414516.0,2002,United States,South Africa,4918.0,32120,Industrial development
+17883,17884,57170807.0,13073386.0,1999,Spain,Colombia,237468.0,32120,Industrial development
+18059,18060,57289077.0,11123225.0,1997,Spain,Brazil,106144.0,32120,Industrial development
+18123,18124,57336456.0,14892022.0,2000,Spain,Chile,7210.0,32120,Industrial development
+18163,18164,57365402.0,29912564.0,2006,United States,India,93339.0,23020,Power generat./non-renewable sources
+18166,18167,57367350.0,13566730.0,1996,France,India,3693862.0,23020,Power generation/non-renewable sources
+18211,18212,57395967.0,36986874.0,2008,Finland,India,175782.0,32120,Industrial development
+18274,18275,57435929.0,38628585.0,2008,Japan,India,231437571.0,21030,Rail transport
+18360,18361,57508603.0,24405937.0,2005,Norway,South Africa,9381.0,32120,Industrial development
+18598,18599,57699799.0,16410625.0,2001,Spain,Colombia,4958.0,32120,Industrial development
+18661,18662,57740020.0,20654115.0,2003,Japan,India,383159954.0,21030,Rail transport
+18855,18856,57885711.0,18414252.0,2002,United States,South Africa,212710.0,32120,Industrial development
+18902,18903,57922428.0,10609714.0,1997,Belgium,Brazil,27871.0,32120,Industrial development
+18926,18927,57939595.0,22548611.0,2004,Spain,Chile,3420.0,32120,Industrial development
+19003,19004,57994552.0,26169777.0,2005,United States,Thailand,141698.0,32120,Industrial development
+19020,19021,58010465.0,16688635.0,2001,United States,South Africa,363588.0,21050,Air transport
+19055,19056,58026339.0,32008247.0,2007,Norway,India,71464.0,32120,Industrial development
+19090,19091,58046376.0,9967732.0,1995,Netherlands,India,2880801.0,32120,Industrial development
+19180,19181,58117427.0,15105277.0,2000,United States,India,145655.0,21030,Rail transport
+19212,19213,58138833.0,11575430.0,1998,Netherlands,India,350048.0,32120,Industrial development
+19233,19234,58151010.0,11216455.0,1997,Japan,India,154898525.0,21030,Rail transport
+19303,19304,58205700.0,20697433.0,2003,Japan,Thailand,143972.0,32120,Industrial development
+19321,19322,58219629.0,20654239.0,2003,Japan,India,414241288.0,23020,Power generation/non-renewable sources
+19374,19375,58262182.0,11695951.0,1998,Norway,South Africa,10289729.0,32120,Industrial development
+19411,19412,58291540.0,22690321.0,2004,Canada,Thailand,179599.0,32120,Industrial development
+19685,19686,58488366.0,14115927.0,2000,France,Brazil,146014.0,21030,Rail transport
+19815,19816,58584565.0,24406058.0,2005,Norway,South Africa,14071.0,32120,Industrial development
+19826,19827,58591191.0,14995018.0,2000,Canada,Thailand,2854780.0,32120,Industrial development
+19850,19851,58603955.0,26128868.0,2005,United States,India,4534.0,21050,Air transport
+19855,19856,58607769.0,11377997.0,1998,Denmark,India,672147.0,32120,Industrial development
+19885,19886,58633329.0,9929154.0,1995,Germany,India,120131.0,32120,Industrial development
+19899,19900,58646283.0,20066182.0,2003,Spain,Chile,4134.0,32120,Industrial development
+20077,20078,58772327.0,25529701.0,2005,Spain,Brazil,17889.0,32120,Industrial development
+20175,20176,58839928.0,11221849.0,1997,Japan,India,358396986.0,23020,Power generation/non-renewable sources
+20242,20243,58895349.0,21914333.0,2004,Norway,India,14051.0,32120,Industrial development
+20253,20254,58905613.0,17286168.0,2002,France,Thailand,638493.0,21050,Air transport
+20463,20464,59058161.0,28387221.0,2006,Norway,India,16834.0,32120,Industrial development
+20499,20500,59085049.0,10336413.0,1995,Australia,India,602840.0,32120,Industrial development
+20595,20596,59138988.0,24405777.0,2005,Norway,South Africa,10430.0,32120,Industrial development
+20678,20679,59197574.0,21838569.0,2004,Norway,South Africa,1021922.0,32120,Industrial development
+20760,20761,59255925.0,12420093.0,1999,France,Korea,22092.0,21030,Rail transport
+20806,20807,59287287.0,25533721.0,2005,Spain,Brazil,11356.0,32120,Industrial development
+20935,20936,59378493.0,32009386.0,2007,Norway,India,4315.0,32120,Industrial development
+20945,20946,59384984.0,13136132.0,1999,Canada,India,1938711.0,32120,Industrial development
+20954,20955,59392334.0,10069132.0,1995,Sweden,Chile,322543.0,32120,Industrial development
+20969,20970,59407863.0,35500918.0,2008,France,Chile,859097.0,21050,Air transport
+21039,21040,59475417.0,20701023.0,2003,Japan,Thailand,139914.0,21030,Rail transport
+21195,21196,59596253.0,14994100.0,2000,Canada,Brazil,1367007.0,32120,Industrial development
+21218,21219,59614091.0,29834189.0,2006,United States,Colombia,658862.0,32120,Industrial development
+21335,21336,59703147.0,10323249.0,1995,Japan,India,90903368.0,23020,Power generation/non-renewable sources
+21406,21407,59754197.0,36014949.0,2008,Germany,Thailand,40545.0,32120,Industrial development
+21817,21818,60052272.0,20202208.0,2003,Canada,Chile,210094.0,32120,Industrial development
+21899,21900,60109689.0,30145555.0,2006,Japan,India,522846115.0,21030,Rail transport
+21910,21911,60118911.0,12337985.0,1999,France,Chile,919592.0,21030,Rail transport
+21915,21916,60121441.0,12157147.0,1998,Japan,Thailand,118169242.0,32120,Industrial development
+21943,21944,60138871.0,26168616.0,2005,United States,Thailand,756102.0,32120,Industrial development
+22090,22091,60248152.0,13167542.0,1999,Canada,Colombia,24356.0,32120,Industrial development
+22464,22465,60562706.0,9790169.0,1995,Belgium,Chile,60078.0,32120,Industrial development
+22469,22470,60569283.0,29441741.0,2006,Spain,India,7648.0,32120,Industrial development
+22542,22543,60622430.0,18476183.0,2002,United States,Colombia,129101.0,21050,Air transport
+22568,22569,60640900.0,16727245.0,2001,Japan,India,132921978.0,23020,Power generation/non-renewable sources
+22578,22579,60648942.0,18414417.0,2002,United States,South Africa,298777.0,32120,Industrial development
+22585,22586,60654735.0,10907794.0,1997,Sweden,South Africa,70117.0,32120,Industrial development
+22639,22640,60696252.0,13283391.0,1999,Japan,Thailand,20494936.0,21050,Air transport
+22644,22645,60700959.0,16217922.0,2001,Finland,India,10934.0,32120,Industrial development
+22683,22684,60730287.0,36395812.0,2008,Norway,India,36987.0,32120,Industrial development
+22726,22727,60764745.0,13177422.0,1999,Canada,Brazil,9205.0,32120,Industrial development
+22745,22746,60777435.0,18238093.0,2002,Spain,Colombia,3489.0,32120,Industrial development
+22848,22849,60844537.0,13789923.0,1996,Sweden,Chile,180283.0,32120,Industrial development
+23140,23141,61059747.0,19519541.0,2003,Norway,India,211829.0,32120,Industrial development
+23166,23167,61082198.0,10212347.0,1995,Canada,South Africa,2644331.0,32120,Industrial development
+23266,23267,61157176.0,11545202.0,1998,Italy,Brazil,5654.0,32120,Industrial development
+23311,23312,61192311.0,26077883.0,2005,United States,Saudi Arabia,386553.0,21030,Rail transport
+23391,23392,61243683.0,16410691.0,2001,Spain,Brazil,13074.0,32120,Industrial development
+23500,23501,61332735.0,28062847.0,2006,Germany,Thailand,125465.0,32120,Industrial development
+23579,23580,61386645.0,31902311.0,2007,Norway,South Africa,14664.0,32120,Industrial development
+23584,23585,61390381.0,18551272.0,2002,Japan,India,304188064.0,23020,Power generation/non-renewable sources
+23697,23698,61490548.0,18522045.0,2002,United States,Thailand,435256.0,32120,Industrial development
+23764,23765,61539743.0,21838651.0,2004,Norway,South Africa,5110.0,32120,Industrial development
+23783,23784,61552231.0,29912524.0,2006,United States,India,109810.0,23020,Power generat./non-renewable sources
+23832,23833,61587194.0,16426574.0,2001,Spain,Colombia,101859.0,32120,Industrial development
+23887,23888,61635898.0,10181365.0,1995,United Kingdom,India,1716658.0,32120,Industrial development
+23927,23928,61667710.0,14404733.0,2000,Norway,South Africa,125178.0,32120,Industrial development
+23990,23991,61714646.0,32008159.0,2007,Norway,India,100865.0,32120,Industrial development
+24038,24039,61756482.0,11874278.0,1998,United Kingdom,India,2135309.0,23020,Power generation/non-renewable sources
+24049,24050,61764230.0,37873996.0,2008,United States,South Africa,1837.0,23020,Power generation/non-renewable sources
+24051,24052,61764656.0,19163546.0,2003,France,India,822509.0,23020,Power generation/non-renewable sources
+24177,24178,61863282.0,16697360.0,2001,United States,Thailand,3748.0,32120,Industrial development
+24224,24225,61903074.0,22905959.0,2004,United States,India,29281.0,23020,Power generation/non-renewable sources
+24286,24287,61947689.0,19163504.0,2003,France,India,798553.0,21050,Air transport
+24317,24318,61970440.0,13925147.0,1996,Canada,Brazil,1453866.0,32120,Industrial development
+24399,24400,62044389.0,13283281.0,1999,Japan,Thailand,683107813.0,21030,Rail transport
+24424,24425,62064705.0,23127383.0,2004,Japan,Thailand,512204554.0,21050,Air transport
+24584,24585,62190614.0,18238142.0,2002,Spain,Colombia,1928.0,32120,Industrial development
+24621,24622,62211605.0,28390920.0,2006,Norway,India,55251.0,32120,Industrial development
+24707,24708,62285472.0,10489900.0,1996,Japan,Thailand,211139.0,32120,Industrial development
+24746,24747,62311536.0,22554044.0,2004,Spain,Colombia,3420.0,32120,Industrial development
+24790,24791,62348217.0,11522493.0,1998,Italy,Colombia,116855.0,32120,Industrial development
+24824,24825,62370875.0,11575471.0,1998,Netherlands,India,165856.0,32120,Industrial development
+24954,24955,62480683.0,18557430.0,2002,Japan,Thailand,13718524.0,21050,Air transport
+25051,25052,62557004.0,18332237.0,2002,Canada,South Africa,3454309.0,32120,Industrial development
+25337,25338,62765460.0,36284468.0,2008,Norway,South Africa,33607.0,32120,Industrial development
+25339,25340,62765809.0,26127043.0,2005,United States,India,1133586.0,23020,Power generation/non-renewable sources
+25354,25355,62784703.0,13135690.0,1999,Canada,Brazil,812073.0,32120,Industrial development
+25375,25376,62812902.0,21838610.0,2004,Norway,South Africa,71075.0,32120,Industrial development
+25513,25514,62914214.0,19808867.0,2003,Finland,India,66605.0,32120,Industrial development
+25658,25659,63011986.0,10969867.0,1997,Switzerland,India,18578718.0,32120,Industrial development
+25680,25681,63026225.0,36286254.0,2008,Norway,South Africa,13216.0,32120,Industrial development
+25738,25739,63061441.0,10150722.0,1995,Switzerland,India,2642234.0,32120,Industrial development
+25865,25866,63173374.0,13257061.0,1999,United States,Thailand,100511.0,21050,Air transport
+25945,25946,63237715.0,16697080.0,2001,United States,Thailand,312361.0,21050,Air transport
+25990,25991,63271591.0,22935497.0,2004,United States,Thailand,620755.0,21050,Air transport
+26011,26012,63288283.0,16727299.0,2001,Japan,India,73382873.0,21030,Rail transport
+26178,26179,63410085.0,38628812.0,2008,Japan,India,19704955.0,21030,Rail transport
+26245,26246,63457497.0,29329448.0,2006,Spain,Chile,15797.0,32120,Industrial development
+26308,26309,63512683.0,18476253.0,2002,United States,Colombia,93445.0,32120,Industrial development
+26550,26551,63687098.0,18414153.0,2002,United States,South Africa,816412.0,32120,Industrial development
+26675,26676,63780487.0,12162779.0,1998,Australia,India,443173.0,21030,Rail transport
+26815,26816,63885068.0,20607945.0,2003,Japan,Brazil,64543.0,21050,Air transport
+26821,26822,63888139.0,24498101.0,2005,Norway,India,10868.0,32120,Industrial development
+26825,26826,63892058.0,20159764.0,2003,Canada,South Africa,3506.0,32120,Industrial development
+26831,26832,63897183.0,16691821.0,2001,United States,Colombia,122446.0,21030,Rail transport
+26961,26962,63997594.0,15904777.0,2001,Norway,South Africa,1066400.0,32120,Industrial development
+27163,27164,64140532.0,29911004.0,2006,United States,India,164715.0,32120,Industrial development
+27191,27192,64161260.0,13925215.0,1996,Canada,Colombia,1759943.0,32120,Industrial development
+27220,27221,64180096.0,11129965.0,1997,Canada,South Africa,6934622.0,32120,Industrial development
+27347,27348,64296434.0,9957964.0,1995,Netherlands,Colombia,795069.0,32120,Industrial development
+27401,27402,64339439.0,13283336.0,1999,Japan,Thailand,335385218.0,21050,Air transport
+27440,27441,64366354.0,29654609.0,2006,United States,South Africa,10981.0,23020,Power generation/non-renewable sources
+27582,27583,64461130.0,10660659.0,1997,France,India,13311757.0,21030,Rail transport
+27704,27705,64547702.0,20612148.0,2003,Japan,Colombia,23.0,21050,Air transport
+27742,27743,64577017.0,21836467.0,2004,Norway,South Africa,14353.0,32120,Industrial development
+27745,27746,64579819.0,25003599.0,2005,Finland,India,3769729.0,32120,Industrial development
+27896,27897,64699746.0,26126464.0,2005,United States,India,3401.0,32120,Industrial development
+28018,28019,64793471.0,10051037.0,1995,Norway,India,6017960.0,32120,Industrial development
+28055,28056,64822575.0,11384037.0,1998,France,India,131749.0,32120,Industrial development
+28144,28145,64888860.0,14771141.0,2000,United Kingdom,South Africa,9584808.0,32120,Industrial development
+28176,28177,64918360.0,29597145.0,2006,Canada,India,146862.0,32120,Industrial development
+28212,28213,64947482.0,31901560.0,2007,Norway,South Africa,4190.0,32120,Industrial development
+28218,28219,64953894.0,10493279.0,1996,Japan,Thailand,318270344.0,21050,Air transport
+28270,28271,64994650.0,14162791.0,2000,France,India,17047.0,21030,Rail transport
+28292,28293,65012506.0,20738717.0,2003,Australia,India,47290.0,32120,Industrial development
+28305,28306,65019507.0,38297700.0,2008,United States,India,52199.0,32120,Industrial development
+28313,28314,65024023.0,10191442.0,1995,Canada,Thailand,11417.0,32120,Industrial development
+28401,28402,65090288.0,13259105.0,1999,United States,Chile,417707.0,32120,Industrial development
+28569,28570,65228942.0,18980034.0,2003,Belgium,Chile,213082.0,32120,Industrial development
+28617,28618,65258793.0,35937410.0,2008,Germany,India,2862644.0,32120,Industrial development
+28636,28637,65274390.0,9968251.0,1995,Netherlands,India,4761582.0,32120,Industrial development
+28670,28671,65300004.0,20269194.0,2003,United States,South Africa,12042.0,32120,Industrial development
+28689,28690,65312722.0,12071496.0,1998,Canada,Brazil,1175098.0,32120,Industrial development
+28711,28712,65325598.0,14892133.0,2000,Spain,Chile,6311.0,32120,Industrial development
+28895,28896,65444385.0,11220758.0,1997,Japan,Thailand,2529170.0,21030,Rail transport
+29010,29011,65523229.0,13790081.0,1996,Sweden,Chile,581557.0,32120,Industrial development
+29159,29160,65640764.0,18474657.0,2002,United States,Brazil,120495.0,21050,Air transport
+29173,29174,65649433.0,11409118.0,1998,France,India,131021.0,32120,Industrial development
+29210,29211,65677282.0,10213197.0,1995,Canada,Brazil,940207.0,32120,Industrial development
+29280,29281,65732123.0,22555568.0,2004,Spain,Colombia,48619.0,32120,Industrial development
+29305,29306,65750721.0,14994644.0,2000,Canada,India,2671256.0,32120,Industrial development
+29485,29486,65874288.0,11221993.0,1997,Japan,India,23213790.0,32120,Industrial development
+29537,29538,65921806.0,21488328.0,2004,Germany,South Africa,79427.0,32120,Industrial development
+29679,29680,66019407.0,22549883.0,2004,Spain,Chile,7632.0,32120,Industrial development
+29750,29751,66067930.0,24406100.0,2005,Norway,South Africa,14071.0,32120,Industrial development
+29819,29820,66124066.0,11058855.0,1997,Spain,Colombia,487013.0,32120,Industrial development
+29850,29851,66156564.0,20069737.0,2003,Spain,Colombia,1214.0,32120,Industrial development
+29923,29924,66212454.0,10213639.0,1995,Canada,India,4035053.0,32120,Industrial development
+30013,30014,66284846.0,11315225.0,1998,Belgium,India,88697.0,32120,Industrial development
+30060,30061,66319941.0,36284270.0,2008,Norway,South Africa,13216.0,32120,Industrial development
+30074,30075,66330007.0,31644238.0,2007,Germany,India,1422090.0,32120,Industrial development
+30119,30120,66367955.0,11991323.0,1998,Spain,Chile,13815.0,32120,Industrial development
+30123,30124,66373169.0,12316170.0,1999,Belgium,Thailand,320246.0,32120,Industrial development
+30191,30192,66429869.0,25788609.0,2005,Canada,Brazil,178512.0,32120,Industrial development
+30292,30293,66510145.0,13072638.0,1999,Spain,Chile,231983.0,32120,Industrial development
+30391,30392,66584545.0,13834031.0,1996,Switzerland,India,1222172.0,32120,Industrial development
+30474,30475,66658010.0,33446907.0,2007,Canada,India,372064.0,32120,Industrial development
+30504,30505,66678072.0,11222041.0,1997,Japan,India,41579130.0,32120,Industrial development
+30585,30586,66738793.0,22907980.0,2004,United States,India,484891.0,23020,Power generation/non-renewable sources
+30688,30689,66819826.0,32007017.0,2007,Norway,India,12710.0,32120,Industrial development
+30698,30699,66827167.0,17574286.0,2002,Norway,South Africa,50380.0,32120,Industrial development
+30772,30773,66879559.0,16694484.0,2001,United States,India,563499.0,21050,Air transport
+30889,30890,66962324.0,9776096.0,1995,Belgium,Thailand,1821.0,32120,Industrial development
+30900,30901,66972743.0,16411483.0,2001,Spain,Brazil,2549.0,32120,Industrial development
+30921,30922,66985225.0,29831363.0,2006,United States,Brazil,464498.0,32120,Industrial development
+30989,30990,67044117.0,11162891.0,1997,Canada,Brazil,110976.0,32120,Industrial development
+31012,31013,67057142.0,17679957.0,2002,Norway,India,58472.0,32120,Industrial development
+31064,31065,67105464.0,16694694.0,2001,United States,India,178671.0,23020,Power generation/non-renewable sources
+31136,31137,67164221.0,12071734.0,1998,Canada,Chile,1418634.0,32120,Industrial development
+31198,31199,67206023.0,20654931.0,2003,Japan,India,23332.0,32120,Industrial development
+31367,31368,67337650.0,29834227.0,2006,United States,Colombia,8785.0,32120,Industrial development
+31494,31495,67416256.0,12007902.0,1998,Spain,Colombia,93102.0,32120,Industrial development
+31579,31580,67480994.0,22857765.0,2004,United States,Brazil,220192.0,32120,Industrial development
+31616,31617,67511913.0,9860131.0,1995,Denmark,South Africa,4770.0,32120,Industrial development
+31656,31657,67541275.0,11148167.0,1997,Canada,South Africa,1819412.0,32120,Industrial development
+31733,31734,67599851.0,28386257.0,2006,Norway,India,15539.0,32120,Industrial development
+31746,31747,67606927.0,15105565.0,2000,United States,Brazil,5111.0,21030,Rail transport
+31782,31783,67639795.0,18565840.0,2002,Australia,India,149424.0,32120,Industrial development
+31803,31804,67656642.0,28161512.0,2006,Italy,Colombia,17588.0,32120,Industrial development
+31868,31869,67711387.0,21914116.0,2004,Norway,India,14051.0,32120,Industrial development
+31899,31900,67736425.0,19434812.0,2003,Norway,South Africa,13527.0,32120,Industrial development
+31960,31961,67789317.0,18234529.0,2002,Spain,Chile,3489.0,32120,Industrial development
+31966,31967,67791960.0,22682148.0,2004,Canada,India,238268.0,32120,Industrial development
+32011,32012,67818907.0,15130899.0,2000,Japan,Thailand,181475046.0,21050,Air transport
+32168,32169,67937060.0,10632736.0,1997,Belgium,Brazil,154639.0,32120,Industrial development
+32243,32244,67985084.0,14116494.0,2000,France,India,692869.0,21050,Air transport
+32288,32289,68009595.0,9867356.0,1995,Denmark,India,1900116.0,32120,Industrial development
+32318,32319,68028551.0,16166423.0,2001,United Kingdom,India,94676.0,32120,Industrial development
+32355,32356,68054215.0,29330813.0,2006,Spain,Colombia,67125.0,32120,Industrial development
+32364,32365,68064444.0,20415217.0,2003,United States,Colombia,445559.0,21050,Air transport
+32408,32409,68094675.0,9967116.0,1995,Netherlands,India,724396.0,23020,Power generation/non-renewable sources
+32456,32457,68133653.0,10500828.0,1996,Australia,India,219245.0,21030,Rail transport
+32479,32480,68152567.0,18230170.0,2002,Spain,Brazil,3489.0,32120,Industrial development
+32485,32486,68159534.0,25527246.0,2005,Spain,Brazil,2178.0,32120,Industrial development
+32517,32518,68185250.0,14406292.0,2000,Norway,South Africa,500710.0,32120,Industrial development
+32521,32522,68188126.0,29654421.0,2006,United States,South Africa,1098.0,32120,Industrial development
+32553,32554,68213941.0,38628756.0,2008,Japan,India,57261548.0,21030,Rail transport
+32608,32609,68257026.0,20068076.0,2003,Spain,Colombia,21718.0,32120,Industrial development
+32648,32649,68284600.0,11927110.0,1998,United Kingdom,India,28299279.0,23020,Power generation/non-renewable sources
+32677,32678,68302178.0,13875941.0,1996,United Kingdom,India,23349743.0,23020,Power generation/non-renewable sources
+32681,32682,68303813.0,18234578.0,2002,Spain,Chile,2442.0,32120,Industrial development
+32689,32690,68310108.0,37723468.0,2008,Canada,South Africa,105261.0,32120,Industrial development
+32754,32755,68354561.0,10731202.0,1997,Germany,Thailand,79368760.0,32120,Industrial development
+32944,32945,68494933.0,22680829.0,2004,Canada,India,360396.0,32120,Industrial development
+33207,33208,68709057.0,12701145.0,1999,Norway,India,24947.0,32120,Industrial development
+33304,33305,68779219.0,11114825.0,1997,Spain,India,158741.0,32120,Industrial development
+33326,33327,68796434.0,37614802.0,2008,Spain,India,84643.0,32120,Industrial development
+33386,33387,68842373.0,10614373.0,1997,Belgium,Brazil,367268.0,32120,Industrial development
+33398,33399,68849886.0,14892429.0,2000,Spain,Colombia,3321.0,32120,Industrial development
+33402,33403,68854631.0,12308683.0,1999,Belgium,India,41790.0,32120,Industrial development
+33501,33502,68934753.0,28281641.0,2006,Norway,South Africa,4316.0,32120,Industrial development
+33541,33542,68958200.0,11575667.0,1998,Netherlands,India,62509.0,32120,Industrial development
+33556,33557,68967874.0,20697466.0,2003,Japan,Thailand,191328.0,32120,Industrial development
+33611,33612,69011404.0,24405449.0,2005,Norway,South Africa,12531.0,32120,Industrial development
+33736,33737,69107455.0,19770157.0,2003,United Kingdom,India,292668.0,32120,Industrial development
+33757,33758,69119487.0,36986819.0,2008,Finland,India,278172.0,32120,Industrial development
+33825,33826,69176192.0,10493231.0,1996,Japan,Thailand,4507809.0,21030,Rail transport
+33945,33946,69265523.0,15696799.0,2001,Germany,India,1242.0,21030,Rail transport
+34041,34042,69339137.0,36286055.0,2008,Norway,South Africa,12699.0,32120,Industrial development
+34068,34069,69364678.0,14711030.0,2000,United Kingdom,India,723239.0,23020,Power generat./non-renewable sources
+34139,34140,69420745.0,11220662.0,1997,Japan,Thailand,10116679.0,21050,Air transport
+34246,34247,69494250.0,32007808.0,2007,Norway,India,35795.0,32120,Industrial development
+34312,34313,69546402.0,13770940.0,1996,Norway,Thailand,5248220.0,32120,Industrial development
+34320,34321,69552308.0,11329451.0,1998,Belgium,India,49423.0,32120,Industrial development
+34365,34366,69584402.0,14406333.0,2000,Norway,South Africa,313222.0,32120,Industrial development
+34385,34386,69595085.0,17131902.0,2002,Denmark,South Africa,338124.0,32120,Industrial development
+34636,34637,69778173.0,29346298.0,2006,Spain,Colombia,13124.0,32120,Industrial development
+34651,34652,69787272.0,29318561.0,2006,Spain,Brazil,26129.0,32120,Industrial development
+34654,34655,69789954.0,26360655.0,2005,Japan,India,223103732.0,21030,Rail transport
+34723,34724,69831929.0,14892392.0,2000,Spain,Colombia,7445.0,32120,Industrial development
+34776,34777,69873054.0,13766592.0,1996,Norway,South Africa,148350.0,32120,Industrial development
+34836,34837,69911406.0,11114957.0,1997,Spain,Chile,764086.0,32120,Industrial development
+34898,34899,69947889.0,25526715.0,2005,Spain,Brazil,128722.0,32120,Industrial development
+34944,34945,69980745.0,26411386.0,2005,Japan,Thailand,409998787.0,21050,Air transport
+35012,35013,70039668.0,24405817.0,2005,Norway,South Africa,10430.0,32120,Industrial development
+35064,35065,70077869.0,11926166.0,1998,United Kingdom,India,922807.0,32120,Industrial development
+35230,35231,70198702.0,17573556.0,2002,Norway,South Africa,465535.0,32120,Industrial development
+35266,35267,70222760.0,16688600.0,2001,United States,South Africa,3748.0,21050,Air transport
+35270,35271,70226418.0,15105469.0,2000,United States,Chile,6388.0,21030,Rail transport
+35316,35317,70259524.0,10323335.0,1995,Japan,India,53456513.0,23020,Power generation/non-renewable sources
+35401,35402,70320796.0,10976588.0,1997,Switzerland,India,19219363.0,32120,Industrial development
+35425,35426,70336745.0,11113101.0,1997,Spain,Chile,503394.0,32120,Industrial development
+35470,35471,70370767.0,29596403.0,2006,Canada,India,111841.0,32120,Industrial development
+35524,35525,70406777.0,28160481.0,2006,Italy,Brazil,60586.0,32120,Industrial development
+35561,35562,70431096.0,14116114.0,2000,France,Thailand,1034209.0,32120,Industrial development
+35631,35632,70487801.0,14892059.0,2000,Spain,Chile,7445.0,32120,Industrial development
+35815,35816,70621179.0,32429236.0,2007,United Kingdom,India,20216.0,23020,Power generation/non-renewable sources
+35821,35822,70630079.0,34287266.0,2007,Japan,India,160355625.0,21030,Rail transport
+35843,35844,70646804.0,21595202.0,2004,Germany,India,122337.0,32120,Industrial development
+35930,35931,70708236.0,18414120.0,2002,United States,South Africa,3689.0,32120,Industrial development
+36095,36096,70846322.0,15100389.0,2000,United States,Thailand,3833.0,32120,Industrial development
+36226,36227,70947918.0,22554208.0,2004,Spain,Colombia,5218.0,32120,Industrial development
+36236,36237,70961567.0,12086816.0,1998,Canada,Colombia,1321334.0,32120,Industrial development
+36286,36287,70990371.0,29343729.0,2006,Spain,Colombia,148843.0,32120,Industrial development
+36312,36313,71007828.0,16462969.0,2001,Canada,India,6999252.0,32120,Industrial development
+36366,36367,71046835.0,14328191.0,2000,Italy,Brazil,5449.0,32120,Industrial development
+36383,36384,71054537.0,29911948.0,2006,United States,India,362374.0,32120,Industrial development
+36400,36401,71066438.0,31314191.0,2007,France,Brazil,867748.0,21030,Rail transport
+36577,36578,71217996.0,11991227.0,1998,Spain,Colombia,10697.0,32120,Industrial development
+36580,36581,71220328.0,11220710.0,1997,Japan,Thailand,340210052.0,21030,Rail transport
+36676,36677,71285377.0,11575390.0,1998,Netherlands,India,4225585.0,32120,Industrial development
+36690,36691,71297086.0,11408361.0,1998,France,Korea,138600.0,32120,Industrial development
+36698,36699,71300976.0,10180904.0,1995,United Kingdom,India,165019.0,23020,Power generation/non-renewable sources
+36899,36900,71462076.0,24405407.0,2005,Norway,South Africa,12531.0,32120,Industrial development
+36941,36942,71489345.0,20605421.0,2003,Japan,Brazil,18752.0,32120,Industrial development
+36968,36969,71509105.0,24497104.0,2005,Norway,India,35808.0,32120,Industrial development
+37044,37045,71563191.0,22857899.0,2004,United States,Brazil,263528.0,21030,Rail transport
+37091,37092,71591535.0,15910358.0,2001,Norway,Thailand,191405.0,32120,Industrial development
+37231,37232,71706110.0,36395315.0,2008,Norway,India,22607.0,32120,Industrial development
+37287,37288,71756558.0,18363164.0,2002,Canada,Brazil,2829422.0,32120,Industrial development
+37394,37395,71833057.0,17572821.0,2002,Norway,South Africa,153244.0,32120,Industrial development
+37616,37617,71991871.0,10492204.0,1996,Japan,Brazil,50293217.0,60040,Rescheduling and refinancing
+37625,37626,71998789.0,29909405.0,2006,United States,India,384336.0,32120,Industrial development
+37671,37672,72026623.0,26039416.0,2005,United States,Chile,5668.0,21050,Air transport
+37675,37676,72029344.0,20065214.0,2003,Spain,Brazil,1978.0,32120,Industrial development
+37693,37694,72043626.0,11874323.0,1998,United Kingdom,India,6245780.0,23020,Power generation/non-renewable sources
+37707,37708,72053892.0,19491830.0,2003,Norway,Brazil,13797.0,32120,Industrial development
+37736,37737,72073982.0,10493327.0,1996,Japan,Thailand,11348700.0,21050,Air transport
+37755,37756,72086151.0,17143619.0,2002,Denmark,Thailand,593723.0,23020,Power generation/non-renewable sources
+37854,37855,72166877.0,10051971.0,1995,Norway,India,492080.0,32120,Industrial development
+38032,38033,72317017.0,28560889.0,2006,Sweden,India,680609.0,32120,Industrial development
+38309,38310,72532431.0,29332172.0,2006,Spain,Colombia,6861.0,32120,Industrial development
+38370,38371,72572017.0,11874241.0,1998,United Kingdom,India,106765.0,23020,Power generation/non-renewable sources
+38437,38438,72615995.0,18364653.0,2002,Canada,Colombia,1050509.0,32120,Industrial development
+38463,38464,72634424.0,15103613.0,2000,United States,Thailand,408857.0,21050,Air transport
+38610,38611,72749480.0,13837714.0,1996,Switzerland,India,1215739.0,32120,Industrial development
+38615,38616,72756291.0,38628700.0,2008,Japan,India,28636753.0,21030,Rail transport
+38734,38735,72847418.0,19519085.0,2003,Norway,India,14879.0,32120,Industrial development
+38847,38848,72938481.0,10213265.0,1995,Canada,Colombia,1880413.0,32120,Industrial development
+38861,38862,72949013.0,14042856.0,2000,Belgium,Brazil,132860.0,32120,Industrial development
+38930,38931,72997834.0,38366674.0,2008,United States,Thailand,627293.0,23020,Power generation/non-renewable sources
+39253,39254,73213834.0,17574409.0,2002,Norway,South Africa,13919.0,32120,Industrial development
+39478,39479,73400528.0,21626232.0,2004,Germany,Thailand,85242.0,32120,Industrial development
+39516,39517,73432839.0,20159252.0,2003,Canada,South Africa,109990.0,32120,Industrial development
+39547,39548,73448986.0,20700924.0,2003,Japan,Thailand,119212.0,21050,Air transport
+39560,39561,73461580.0,11611077.0,1998,Netherlands,Thailand,2500.0,32120,Industrial development
+39583,39584,73481520.0,11148949.0,1997,Canada,Chile,1585766.0,32120,Industrial development
+39597,39598,73488746.0,13690805.0,1996,Netherlands,India,25603511.0,21030,Rail transport
+39611,39612,73495661.0,18375467.0,2002,Canada,India,5151159.0,32120,Industrial development
+39623,39624,73501501.0,15130850.0,2000,Japan,Thailand,493461345.0,21030,Rail transport
+39661,39662,73532968.0,31978971.0,2007,Norway,Brazil,67034.0,32120,Industrial development
+39737,39738,73608713.0,34007461.0,2007,United States,India,106714.0,32120,Industrial development
+39807,39808,73666866.0,22681803.0,2004,Canada,India,190375.0,32120,Industrial development
+39895,39896,73731321.0,12157194.0,1998,Japan,Thailand,8820167.0,32120,Industrial development
+39932,39933,73761846.0,10181028.0,1995,United Kingdom,India,781549.0,32120,Industrial development
+39951,39952,73773581.0,33778526.0,2007,United States,Colombia,5336.0,32120,Industrial development
+39977,39978,73793995.0,16463879.0,2001,Canada,Chile,1470876.0,32120,Industrial development
+40015,40016,73825994.0,11227077.0,1997,Australia,India,686591.0,21030,Rail transport
+40016,40017,73829376.0,12157243.0,1998,Japan,Thailand,245106150.0,21030,Rail transport
+40072,40073,73870285.0,31903717.0,2007,Norway,South Africa,8379.0,32120,Industrial development
+40073,40074,73870519.0,13073351.0,1999,Spain,Colombia,100924.0,32120,Industrial development
+40080,40081,73877362.0,14400538.0,2000,Norway,Thailand,1391.0,32120,Industrial development
+40278,40279,74011193.0,14730611.0,2000,United Kingdom,India,105992.0,21030,Rail transport
+40418,40419,74122054.0,14755355.0,2000,United Kingdom,India,2961538.0,23020,Power generation/non-renewable sources
+40422,40423,74124507.0,11927142.0,1998,United Kingdom,India,7460719.0,32120,Industrial development
+40523,40524,74199858.0,18414582.0,2002,United States,South Africa,447551.0,32120,Industrial development
+40560,40561,74225378.0,24406184.0,2005,Norway,South Africa,14071.0,32120,Industrial development
+40565,40566,74226936.0,12555966.0,1999,Italy,India,4477.0,32120,Industrial development
+40665,40666,74317640.0,37509700.0,2008,Spain,Colombia,88149.0,21050,Air transport
+40801,40802,74431453.0,13256717.0,1999,United States,Colombia,112259.0,21050,Air transport
+40949,40950,74547764.0,28746251.0,2006,United Kingdom,India,3976574.0,32120,Industrial development
+40982,40983,74567247.0,10094925.0,1995,Sweden,India,390827.0,21030,Rail transport
+41015,41016,74591156.0,26128787.0,2005,United States,India,4534.0,32120,Industrial development
+41035,41036,74607564.0,10208639.0,1995,Canada,India,14224407.0,21050,Air transport
+41085,41086,74661487.0,20202115.0,2003,Canada,Chile,184141.0,32120,Industrial development
+41096,41097,74670004.0,9870362.0,1995,France,Chile,24522113.0,21030,Rail transport
+41153,41154,74705933.0,12318996.0,1999,Belgium,Thailand,85340.0,32120,Industrial development
+41264,41265,74787899.0,14732635.0,2000,United Kingdom,Brazil,17942.0,32120,Industrial development
+41269,41270,74790655.0,34004071.0,2007,United States,India,429832.0,21050,Air transport
+41310,41311,74831922.0,28280043.0,2006,Norway,South Africa,12086.0,21030,Rail transport
+41346,41347,74862195.0,12071462.0,1998,Canada,Colombia,1092905.0,32120,Industrial development
+41402,41403,74904844.0,19518955.0,2003,Norway,India,57335.0,32120,Industrial development
+41453,41454,74936768.0,20413565.0,2003,United States,Brazil,1204.0,23020,Power generation/non-renewable sources
+41487,41488,74953909.0,10181912.0,1995,Finland,India,290876.0,32120,Industrial development
+41700,41701,75121002.0,36947208.0,2008,Finland,South Africa,7517.0,32120,Industrial development
+41731,41732,75143790.0,15473287.0,2001,France,Thailand,299658.0,32120,Industrial development
+41811,41812,75214758.0,10158541.0,1995,Switzerland,India,83778.0,32120,Industrial development
+41943,41944,75317727.0,15105309.0,2000,United States,India,30664.0,21030,Rail transport
+41945,41946,75319475.0,12557489.0,1999,Italy,Brazil,631797.0,32120,Industrial development
+42189,42190,75516921.0,10196937.0,1995,Canada,Brazil,7135751.0,32120,Industrial development
+42282,42283,75578987.0,20606426.0,2003,Japan,Brazil,249.0,21030,Rail transport
+42350,42351,75625277.0,13532800.0,1996,Belgium,Thailand,430774.0,21030,Rail transport
+42372,42373,75643135.0,9868730.0,1995,France,Chile,12533797.0,21030,Rail transport
+42447,42448,75703196.0,37612408.0,2008,Spain,India,16929.0,32120,Industrial development
+42449,42450,75704792.0,11148915.0,1997,Canada,Brazil,1144372.0,32120,Industrial development
+42514,42515,75759265.0,37505236.0,2008,Spain,Chile,7759.0,32120,Industrial development
+42521,42522,75765331.0,10213979.0,1995,Canada,Thailand,2252578.0,32120,Industrial development
+42569,42570,75812686.0,13924229.0,1996,Canada,South Africa,1186049.0,32120,Industrial development
+42605,42606,75835774.0,18384192.0,2002,Canada,Thailand,3258123.0,32120,Industrial development
+42635,42636,75860168.0,12395365.0,1999,France,Chile,213229.0,32120,Industrial development
+42670,42671,75882346.0,36986710.0,2008,Finland,India,129921.0,32120,Industrial development
+42699,42700,75905761.0,22546846.0,2004,Spain,Brazil,3816.0,32120,Industrial development
+42792,42793,75971503.0,15105533.0,2000,United States,Brazil,6388.0,21030,Rail transport
+42938,42939,76088093.0,10901619.0,1997,Sweden,Thailand,423803.0,32120,Industrial development
+42975,42976,76118868.0,34005587.0,2007,United States,India,56558.0,21050,Air transport
+42989,42990,76127469.0,36284223.0,2008,Norway,South Africa,13216.0,32120,Industrial development
+42993,42994,76129842.0,36287242.0,2008,Norway,South Africa,13216.0,32120,Industrial development
+43060,43061,76183390.0,19435136.0,2003,Norway,South Africa,24619.0,32120,Industrial development
+43087,43088,76203491.0,33777297.0,2007,United States,Brazil,253665.0,21050,Air transport
+43247,43248,76342161.0,15459553.0,2001,Denmark,South Africa,656646.0,32120,Industrial development
+43328,43329,76393870.0,18565498.0,2002,Australia,India,46713.0,32120,Industrial development
+43503,43504,76525675.0,10603258.0,1997,Belgium,Thailand,801516.0,32120,Industrial development
+43509,43510,76531431.0,14116227.0,2000,France,South Africa,1215917.0,21050,Air transport
+43650,43651,76651198.0,13307841.0,1999,Australia,Thailand,50810.0,23020,Power generation/non-renewable sources
+43657,43658,76656765.0,22670447.0,2004,Canada,Brazil,166429.0,32120,Industrial development
+43681,43682,76668708.0,13280065.0,1999,Japan,India,122703725.0,23020,Power generation/non-renewable sources
+43722,43723,76701516.0,22554085.0,2004,Spain,Colombia,3774.0,32120,Industrial development
+43862,43863,76800884.0,11149765.0,1997,Canada,Thailand,1134592.0,32120,Industrial development
+43913,43914,76831407.0,20414745.0,2003,United States,Colombia,6021.0,21050,Air transport
+43969,43970,76862999.0,10604448.0,1997,Belgium,India,14385.0,32120,Industrial development
+44146,44147,76989505.0,20654056.0,2003,Japan,India,64032729.0,23020,Power generation/non-renewable sources
+44200,44201,77027714.0,16463319.0,2001,Canada,South Africa,2811323.0,32120,Industrial development
+44210,44211,77036805.0,28281776.0,2006,Norway,South Africa,12949.0,32120,Industrial development
+44217,44218,77042684.0,26038718.0,2005,United States,Brazil,1134.0,21030,Rail transport
+44222,44223,77045790.0,18230122.0,2002,Spain,Brazil,2535.0,32120,Industrial development
+44310,44311,77109867.0,22718619.0,2004,United States,South Africa,3514.0,32120,Industrial development
+44379,44380,77151603.0,20462340.0,2003,United States,India,156548.0,21050,Air transport
+44440,44441,77192917.0,12420309.0,1999,France,Korea,225350.0,32120,Industrial development
+44612,44613,77319318.0,22935603.0,2004,United States,Thailand,40993.0,23020,Power generation/non-renewable sources
+44616,44617,77323325.0,24208463.0,2005,Germany,Thailand,216164.0,32120,Industrial development
+44683,44684,77380248.0,19436336.0,2003,Norway,South Africa,13527.0,21050,Air transport
+44805,44806,77478739.0,22857295.0,2004,United States,Brazil,16397.0,21030,Rail transport
+44830,44831,77496886.0,28387904.0,2006,Norway,India,107911.0,32120,Industrial development
+44911,44912,77547692.0,10493471.0,1996,Japan,Thailand,280666557.0,21030,Rail transport
+44939,44940,77567654.0,36987040.0,2008,Finland,India,86559.0,32120,Industrial development
+45043,45044,77637977.0,9867317.0,1995,Denmark,India,1062687.0,32120,Industrial development
+45126,45127,77714534.0,14406781.0,2000,Norway,South Africa,5817.0,32120,Industrial development
+45135,45136,77718305.0,11214630.0,1997,Japan,India,524724.0,32120,Industrial development
+45255,45256,77806692.0,24158434.0,2005,Germany,India,107501.0,32120,Industrial development
+45436,45437,77949733.0,18506554.0,2002,United States,India,491815.0,21030,Rail transport
+45445,45446,77957622.0,32007938.0,2007,Norway,India,943.0,32120,Industrial development
+45529,45530,78012552.0,22905993.0,2004,United States,India,29281.0,23020,Power generation/non-renewable sources
+45567,45568,78040956.0,9946310.0,1995,Italy,Chile,118544.0,32120,Industrial development
+45641,45642,78099159.0,13907868.0,1996,Canada,India,19357050.0,23020,Power generation/non-renewable sources
+45740,45741,78180902.0,10665307.0,1997,France,India,439288.0,32120,Industrial development
+45901,45902,78295604.0,15100092.0,2000,United States,India,683558.0,32120,Industrial development
+45913,45914,78303921.0,22548652.0,2004,Spain,Chile,4249.0,32120,Industrial development
+45944,45945,78331057.0,12071224.0,1998,Canada,Thailand,849355.0,32120,Industrial development
+45992,45993,78371696.0,13925181.0,1996,Canada,Chile,2085150.0,32120,Industrial development
+46037,46038,78403425.0,34009299.0,2007,United States,India,37341.0,21050,Air transport
+46280,46281,78580833.0,28800220.0,2006,Finland,India,11884.0,32120,Industrial development
+46325,46326,78610527.0,14029067.0,2000,Belgium,Thailand,11215.0,32120,Industrial development
+46443,46444,78706656.0,12154981.0,1998,Japan,Thailand,312821935.0,21030,Rail transport
+46487,46488,78736832.0,21296495.0,2004,Denmark,South Africa,516834.0,32120,Industrial development
+46562,46563,78790802.0,29652096.0,2006,United States,South Africa,605055.0,23020,Power generation/non-renewable sources
+46635,46636,78848745.0,29912022.0,2006,United States,India,65886.0,23020,Power generat./non-renewable sources
+46791,46792,78965841.0,20412758.0,2003,United States,Brazil,6021.0,21030,Rail transport
+46792,46793,78966039.0,36285807.0,2008,Norway,South Africa,29241.0,32120,Industrial development
+46877,46878,79025069.0,22860104.0,2004,United States,Colombia,29281.0,32120,Industrial development
+46982,46983,79098434.0,20413497.0,2003,United States,Brazil,30105.0,21030,Rail transport
+47031,47032,79140662.0,22682197.0,2004,Canada,India,193967.0,32120,Industrial development
+47095,47096,79180908.0,9771084.0,1995,Belgium,Thailand,497918.0,32120,Industrial development
+47137,47138,79220340.0,13136438.0,1999,Canada,Thailand,1766150.0,32120,Industrial development
+47142,47143,79222902.0,16225799.0,2001,Finland,India,18667.0,32120,Industrial development
+47172,47173,79245244.0,10331063.0,1995,Japan,Thailand,346439.0,32120,Industrial development
+47227,47228,79288259.0,13519608.0,1996,Belgium,Thailand,38996.0,32120,Industrial development
+47332,47333,79393853.0,16730645.0,2001,Japan,Chile,5264992.0,32120,Industrial development
+47373,47374,79425886.0,13288352.0,1999,Australia,India,524486.0,21030,Rail transport
+47413,47414,79455114.0,38297740.0,2008,United States,India,991787.0,32120,Industrial development
+47441,47442,79478800.0,9923955.0,1995,Germany,India,14295611.0,32120,Industrial development
+47474,47475,79503288.0,16343125.0,2001,Spain,Brazil,88125.0,32120,Industrial development
+47506,47507,79522919.0,12007350.0,1998,Spain,Brazil,149445.0,32120,Industrial development
+47529,47530,79533188.0,28015698.0,2006,Germany,India,119322.0,32120,Industrial development
+47630,47631,79606951.0,28387585.0,2006,Norway,India,14028.0,32120,Industrial development
+47700,47701,79672358.0,26041494.0,2005,United States,Colombia,223316.0,21050,Air transport
+47807,47808,79758047.0,21733669.0,2004,Italy,India,2925.0,32120,Industrial development
+47831,47832,79776986.0,19771006.0,2003,United Kingdom,India,26124209.0,32120,Industrial development
+47835,47836,79779088.0,14348742.0,2000,Netherlands,India,36184.0,32120,Industrial development
+48397,48398,80211800.0,25674405.0,2005,Spain,India,27957.0,32120,Industrial development
+48490,48491,80284077.0,13925657.0,1996,Canada,India,5222440.0,32120,Industrial development
+48587,48588,80350779.0,28017053.0,2006,Germany,India,240302.0,32120,Industrial development
+48601,48602,80361471.0,20413831.0,2003,United States,Brazil,279377.0,21030,Rail transport
+48626,48627,80381096.0,20413931.0,2003,United States,Brazil,149322.0,21030,Rail transport
+48651,48652,80396010.0,20220480.0,2003,Canada,India,173018.0,32120,Industrial development
+48728,48729,80456563.0,38628469.0,2008,Japan,India,855264417.0,21030,Rail transport
+48742,48743,80467881.0,15105597.0,2000,United States,Brazil,2555.0,21030,Rail transport
+48770,48771,80493193.0,15148043.0,2000,Australia,India,259215.0,32120,Industrial development
+48772,48773,80495602.0,14994134.0,2000,Canada,Chile,717754.0,32120,Industrial development
+48793,48794,80512627.0,24404611.0,2005,Norway,South Africa,105534.0,32120,Industrial development
+48956,48957,80623165.0,25533068.0,2005,Spain,Brazil,68189.0,32120,Industrial development
+49028,49029,80671592.0,18521975.0,2002,United States,Thailand,3689.0,32120,Industrial development
+49134,49135,80753310.0,9867239.0,1995,Denmark,India,250964.0,32120,Industrial development
+49145,49146,80766848.0,28387996.0,2006,Norway,India,6475.0,32120,Industrial development
+49185,49186,80801525.0,9786995.0,1995,Belgium,Thailand,4551.0,21050,Air transport
+49222,49223,80828352.0,18551331.0,2002,Japan,India,317319759.0,21030,Rail transport
+49283,49284,80875754.0,10213231.0,1995,Canada,Chile,2017527.0,32120,Industrial development
+49455,49456,81021704.0,29831401.0,2006,United States,Brazil,40630.0,32120,Industrial development
+49473,49474,81028621.0,14711065.0,2000,United Kingdom,India,41565.0,23020,Power generation/non-renewable sources
+49484,49485,81036952.0,11398954.0,1998,France,Chile,311665.0,32120,Industrial development
+49528,49529,81071069.0,15101828.0,2000,United States,Brazil,2555.0,23020,Power generation/non-renewable sources
+49546,49547,81084614.0,13135724.0,1999,Canada,Chile,452945.0,32120,Industrial development
+49587,49588,81120071.0,20070426.0,2003,Spain,Colombia,306104.0,32120,Industrial development
+49597,49598,81128119.0,14891726.0,2000,Spain,Brazil,7445.0,32120,Industrial development
+49635,49636,81161672.0,11347842.0,1998,Belgium,Thailand,667213.0,32120,Industrial development
+49677,49678,81193368.0,33295138.0,2007,Spain,India,14358.0,32120,Industrial development
+49725,49726,81225595.0,15130948.0,2000,Japan,Thailand,17835174.0,21050,Air transport
+49755,49756,81249545.0,13766239.0,1996,Norway,Chile,392917.0,32120,Industrial development
+49852,49853,81322128.0,24407738.0,2005,Norway,South Africa,49038.0,32120,Industrial development
+49947,49948,81388653.0,22670960.0,2004,Canada,Brazil,179599.0,32120,Industrial development
+50007,50008,81436011.0,15100125.0,2000,United States,India,6388.0,32120,Industrial development
+50033,50034,81455953.0,22554003.0,2004,Spain,Colombia,1297.0,32120,Industrial development
+50132,50133,81527029.0,26128126.0,2005,United States,India,30607.0,21050,Air transport
+50168,50169,81550436.0,31816549.0,2007,Italy,India,5224.0,32120,Industrial development
+50205,50206,81577267.0,33293195.0,2007,Spain,India,9387.0,32120,Industrial development
+50208,50209,81580613.0,10970167.0,1997,Switzerland,Colombia,743149.0,32120,Industrial development
+50209,50210,81580768.0,22548693.0,2004,Spain,Chile,5536.0,21050,Air transport
+50328,50329,81665163.0,21296538.0,2004,Denmark,South Africa,1096702.0,32120,Industrial development
+50352,50353,81680943.0,28386395.0,2006,Norway,India,237405.0,32120,Industrial development
+50432,50433,81731614.0,10323204.0,1995,Japan,India,166091025.0,23020,Power generation/non-renewable sources
+50545,50546,81812853.0,9775796.0,1995,Belgium,Brazil,34135.0,32120,Industrial development
+50555,50556,81818414.0,29908354.0,2006,United States,India,768672.0,32120,Industrial development
+50630,50631,81880139.0,15103933.0,2000,United States,India,159710.0,21050,Air transport
+50670,50671,81914599.0,20072272.0,2003,Spain,Colombia,1856.0,32120,Industrial development
+50726,50727,81951304.0,13926031.0,1996,Canada,Thailand,1300827.0,32120,Industrial development
+50797,50798,82018441.0,34383886.0,2007,Australia,India,21216.0,32120,Industrial development
+50810,50811,82028741.0,10493183.0,1996,Japan,Thailand,79662598.0,21030,Rail transport
+50856,50857,82067285.0,11527730.0,1998,Italy,Colombia,471189.0,32120,Industrial development
+50934,50935,82123402.0,13518826.0,1996,Belgium,Brazil,34008.0,32120,Industrial development
+50967,50968,82143986.0,18230219.0,2002,Spain,Brazil,2403.0,32120,Industrial development
+51063,51064,82218138.0,18475592.0,2002,United States,Chile,3689.0,21050,Air transport
+51083,51084,82232932.0,28280865.0,2006,Norway,South Africa,8633.0,32120,Industrial development
+51163,51164,82305039.0,24496743.0,2005,Norway,India,33325.0,32120,Industrial development
+51215,51216,82336691.0,15684191.0,2001,Germany,India,3527184.0,21030,Rail transport
+51346,51347,82432729.0,18506484.0,2002,United States,India,12295.0,21050,Air transport
+51357,51358,82436379.0,22554126.0,2004,Spain,Colombia,3816.0,32120,Industrial development
+51385,51386,82450517.0,21914072.0,2004,Norway,India,14051.0,32120,Industrial development
+51418,51419,82473424.0,20235491.0,2003,Canada,Thailand,163132.0,32120,Industrial development
+51477,51478,82520348.0,15472767.0,2001,France,South Africa,1115394.0,21050,Air transport
+51480,51481,82521707.0,15103645.0,2000,United States,Thailand,3833.0,21050,Air transport
+51504,51505,82543321.0,12295049.0,1999,Belgium,Chile,38711.0,32120,Industrial development
+51517,51518,82553898.0,13074089.0,1999,Spain,Colombia,19913.0,32120,Industrial development
+51560,51561,82587870.0,22680635.0,2004,Canada,India,143679.0,32120,Industrial development
+51571,51572,82597904.0,15100158.0,2000,United States,Brazil,31942.0,32120,Industrial development
+51680,51681,82699999.0,14058157.0,2000,Belgium,Thailand,794139.0,32120,Industrial development
+51685,51686,82703226.0,29908546.0,2006,United States,India,278918.0,21050,Air transport
+51760,51761,82754382.0,12155079.0,1998,Japan,Thailand,31280093.0,21030,Rail transport
+51761,51762,82755197.0,10181059.0,1995,United Kingdom,India,3249962.0,32120,Industrial development
+51994,51995,82952168.0,13134261.0,1999,Canada,South Africa,1011935.0,32120,Industrial development
+52021,52022,82966948.0,26362803.0,2005,Japan,India,184061735.0,23020,Power generation/non-renewable sources
+52035,52036,82973102.0,14854735.0,2000,Spain,Brazil,32480.0,32120,Industrial development
+52114,52115,83042404.0,20065260.0,2003,Spain,Brazil,2118.0,32120,Industrial development
+52129,52130,83051983.0,19771123.0,2003,United Kingdom,India,23328667.0,23020,Power generation/non-renewable sources
+52162,52163,83073979.0,18475662.0,2002,United States,Chile,98363.0,21050,Air transport
+52170,52171,83080544.0,11991163.0,1998,Spain,Brazil,12765.0,32120,Industrial development
+52184,52185,83093808.0,11932278.0,1998,Finland,India,14225.0,32120,Industrial development
+52232,52233,83133834.0,33526841.0,2007,United States,South Africa,533570.0,21030,Rail transport
+52387,52388,83247788.0,11874048.0,1998,United Kingdom,India,24489862.0,32120,Industrial development
+52575,52576,83296672.0,27381501.0,2003,Canada,Poland,77842.0,32120,Industrial development
+52624,52625,83301508.0,26950983.0,1997,Canada,Poland,58262.0,32120,Industrial development
+52787,52788,83316913.0,27396084.0,2003,Japan,Poland,2569417.0,21030,RAIL TRANSPORT
+52967,52968,83332006.0,27019013.0,1999,United States,Poland,32633.0,21030,RAIL TRANSPORT
+53104,53105,83346553.0,26942716.0,1996,United Kingdom,Poland,1556650.0,21050,Air transport
+53277,53278,83363752.0,27416869.0,2004,United States,Poland,4685.0,21050,Air transport
+53952,53953,83429857.0,27282636.0,2002,United States,Korea,140167.0,21050,Air transport
+54263,54264,83462422.0,26951269.0,1997,Sweden,Poland,383.0,21030,Rail transport
+54305,54306,83467180.0,27166980.0,2001,United States,Poland,362339.0,32120,Industrial development
+54462,54463,83482780.0,27303207.0,2002,United States,Poland,12295.0,23020,Power generation/non-renewable sources
+54544,54545,83490463.0,27032408.0,1999,France,Poland,60938.0,32120,INDUSTRIAL DEVELOPMENT
+54562,54563,83493544.0,27173166.0,2001,United States,Poland,28737.0,23020,Power generation/non-renewable sources
+54796,54797,83516593.0,27057689.0,1999,Finland,Poland,600400.0,32120,Industrial development
+54950,54951,83531140.0,27079218.0,2000,United Kingdom,Poland,742982.0,32120,INDUSTRIAL DEVELOPMENT
+55020,55021,83539837.0,10461898.0,1995,United Kingdom,Poland,1145967.0,21050,Air transport
+55064,55065,83544049.0,27089441.0,2000,United States,Poland,6388.0,21050,Air transport
+55282,55283,83566864.0,26933992.0,1996,Canada,Poland,81356.0,32120,Industrial development
+55285,55286,83567488.0,26966122.0,1997,Canada,Poland,715796.0,32120,Industrial development
+55459,55460,83587105.0,27269676.0,2002,United States,Poland,30738.0,32120,Industrial development
+55504,55505,83590498.0,27434674.0,2004,United States,Poland,30452.0,21050,Air transport
+55975,55976,83639912.0,27323703.0,2003,Canada,Poland,25947.0,32120,Industrial development
+56030,56031,83644943.0,26945150.0,1996,Canada,Poland,126242.0,32120,Industrial development
+56052,56053,83647595.0,27070807.0,2000,United States,Poland,3833.0,32120,Industrial development
+56274,56275,83668850.0,26938255.0,1996,Canada,Poland,56107.0,23020,Power generation/non-renewable sources
+56278,56279,83669123.0,26947658.0,1996,Canada,Poland,57510.0,32120,Industrial development
+56287,56288,83669903.0,26972224.0,1998,France,Poland,128033.0,32120,INDUSTRIAL DEVELOPMENT
+56292,56293,83670137.0,26984424.0,1998,Italy,Poland,659219.0,21030,Rail transport
+56300,56301,83670878.0,27007474.0,1998,Canada,Poland,278199.0,32120,Industrial development
+56396,56397,83682773.0,26928867.0,1996,Finland,Poland,138025.0,32120,Industrial development
+56436,56437,83686166.0,27081768.0,2000,United States,Korea,635006.0,32120,Industrial development
+56447,56448,83687219.0,27129132.0,2001,United States,Poland,221152.0,32120,Industrial development
+56537,56538,83695877.0,26964585.0,1997,Canada,Poland,22195.0,32120,Industrial development
+56552,56553,83696891.0,27006621.0,1998,Canada,Poland,1390995.0,32120,Industrial development
+56590,56591,83701727.0,27246367.0,2002,United States,Korea,3689.0,21050,Air transport
+56774,56775,83718965.0,27428302.0,2004,France,Poland,631466.0,21030,Rail transport
+56894,56895,83730549.0,27431267.0,2004,United States,Poland,4685.0,32120,Industrial development
+57327,57328,83771772.0,10471607.0,1995,France,Poland,183916.0,32120,Industrial development
+57375,57376,83776218.0,27127222.0,2000,United States,Poland,351362.0,23020,Power generation/non-renewable sources
+57453,57454,83782692.0,27425028.0,2004,United States,Poland,199110.0,21050,Air transport
+57802,57803,83816934.0,27249368.0,2002,United States,Poland,399599.0,21050,Air transport
+57907,57908,83826255.0,27134911.0,2001,United States,Korea,81214.0,23020,Power generation/non-renewable sources
+58250,58251,83858742.0,27002467.0,1998,Finland,Poland,2743161.0,32120,Industrial development
+58331,58332,83867010.0,27370934.0,2003,Canada,Poland,28418.0,32120,Industrial development
+58382,58383,83872119.0,26962114.0,1997,Canada,Poland,364834.0,32120,Industrial development
+58409,58410,83875005.0,27106937.0,2000,United States,Poland,383303.0,32120,Industrial development
+58873,58874,83923833.0,26980633.0,1998,France,Poland,10316.0,21050,AIR TRANSPORT
+59228,59229,83961234.0,27325029.0,2003,United States,Poland,3613.0,23020,Power generation/non-renewable sources
+59323,59324,83970789.0,27418441.0,2004,France,Poland,631466.0,21030,Rail transport
+59370,59371,83974650.0,10473757.0,1995,Sweden,Poland,250129.0,21050,Air transport
+59725,59726,84009321.0,27246897.0,2002,United States,Poland,331975.0,32120,Industrial development
+59955,59956,84032292.0,26956917.0,1997,Canada,Poland,37454.0,32120,Industrial development
+59965,59966,84033345.0,27076127.0,2000,United States,Korea,29387.0,32120,Industrial development
+60013,60014,84037947.0,27086477.0,2000,United States,Poland,447187.0,21050,Air transport
+60143,60144,84050856.0,10461729.0,1995,Canada,Poland,1476778.0,21050,Air transport
+60327,60328,84069538.0,27146889.0,2001,Italy,Poland,683395.0,21030,Rail transport
+60454,60455,84084085.0,27478771.0,2004,United States,Poland,255329.0,32120,Industrial development
+60846,60847,84122500.0,26947401.0,1996,Finland,Poland,1350248.0,32120,Industrial development
+60926,60927,84129325.0,27334498.0,2003,Canada,Poland,232289.0,32120,Industrial development
+60959,60960,84132484.0,10465358.0,1995,France,Poland,95364.0,32120,Industrial development
+62019,62020,84622020.0,9130999.0,1993,United States,India,3622916.0,23020,Power generation/non-renewable sources
+62044,62045,84629783.0,9320229.0,1994,Denmark,India,417269.0,32120,Industrial development
+62054,62055,84632943.0,7337176.0,1986,Japan,Brazil,5493751.0,32120,Industrial development
+62055,62056,84633178.0,6204713.0,1982,Germany,India,18032152.0,32120,Industrial development
+62058,62059,84633998.0,6463454.0,1975,Switzerland,India,4564000.0,32120,Industrial development
+62060,62061,84635871.0,5928314.0,1979,Japan,Brazil,2736572.0,32120,Industrial development
+62067,62068,84637900.0,8968199.0,1993,Netherlands,India,431593.0,32120,Industrial development
+62074,62075,84641293.0,6420230.0,1977,Japan,Brazil,387395.0,32120,Industrial development
+62075,62076,84641527.0,6432392.0,1973,Japan,Korea,23174650.0,32120,Industrial development
+62081,62082,84644686.0,9282448.0,1994,Belgium,Thailand,120701.0,21050,Air transport
+62083,62084,84646051.0,10420399.0,1992,France,Poland,2837938.0,32120,INDUSTRIAL DEVELOPMENT
+62098,62099,84655963.0,7731135.0,1988,Japan,India,222681507.0,32120,Industrial development
+62100,62101,84658147.0,5851298.0,1979,Belgium,India,3285495.0,60040,Rescheduling and refinancing
+62107,62108,84661969.0,6105804.0,1981,Sweden,India,224755.0,32120,Industrial development
+62127,62128,84676048.0,6183626.0,1982,France,India,93574528.0,32120,Industrial development
+62132,62133,84679909.0,6798487.0,1984,Denmark,India,18021439.0,32120,Industrial development
+62148,62149,84685877.0,7137917.0,1985,Japan,Thailand,37357280.0,32120,Industrial development
+62149,62150,84685994.0,7141255.0,1985,Japan,Korea,1327948.0,32120,Industrial development
+62150,62151,84687866.0,6756039.0,1974,United Kingdom,India,99075869.0,60040,Rescheduling and refinancing
+62165,62166,84699060.0,9118351.0,1993,Canada,India,3800125.0,32120,Industrial development
+62191,62192,84715484.0,5839036.0,1978,Japan,Korea,342912.0,32120,Industrial development
+62193,62194,84717629.0,10416363.0,1990,Germany,Poland,2178121340.0,60040,RESCHEDULING AND REFINANCING
+62218,62219,84732689.0,6802874.0,1984,France,India,27785703.0,32120,Industrial development
+62229,62230,84738696.0,6643537.0,1983,United States,Thailand,6887792.0,32120,Industrial development
+62255,62256,84751839.0,7397736.0,1987,Italy,India,168309742.0,23020,Power generat./non-renewable sources
+62264,62265,84757145.0,7727252.0,1988,Japan,India,36519767.0,32120,Industrial development
+62266,62267,84758705.0,6368144.0,1983,Germany,India,2636115.0,32120,Industrial development
+62275,62276,84766507.0,9172481.0,1993,Japan,Thailand,166150660.0,32120,Industrial development
+62279,62280,84767209.0,6551879.0,1977,Germany,Colombia,5846265.0,32120,Industrial development
+62285,62286,84769435.0,6803107.0,1984,France,Korea,14930184.0,32120,Industrial development
+62294,62295,84772205.0,7031633.0,1985,Netherlands,Thailand,460979.0,32120,Industrial development
+62320,62321,84788431.0,6587444.0,1976,Switzerland,India,4090484.0,32120,Industrial development
+62373,62374,84817428.0,8226061.0,1990,Japan,Thailand,89113594.0,21030,Rail transport
+62374,62375,84817623.0,8234013.0,1990,Australia,India,315922.0,32120,Industrial development
+62384,62385,84821370.0,8431128.0,1991,United Kingdom,India,3767416.0,23020,Power generation/non-renewable sources
+62387,62388,84822579.0,8508260.0,1991,Japan,Thailand,638763.0,32120,Industrial development
+62392,62393,84826291.0,8742014.0,1992,United Kingdom,India,413922.0,32120,Industrial development
+62421,62422,84840859.0,9718065.0,1994,Japan,Brazil,15632986.0,32120,Industrial development
+62432,62433,84843943.0,7588848.0,1988,Germany,India,79034323.0,32120,Industrial development
+62433,62434,84843982.0,6074734.0,1981,Germany,Thailand,11882572.0,32120,Industrial development
+62452,62453,84850019.0,10425171.0,1992,Belgium,Poland,10982800.0,60040,RESCHEDULING AND REFINANCING
+62470,62471,84860247.0,10421861.0,1992,Germany,Poland,146810655.0,60040,RESCHEDULING AND REFINANCING
+62478,62479,84866538.0,9117909.0,1993,Canada,Chile,2692551.0,32120,Industrial development
+62479,62480,84866850.0,9127092.0,1993,Canada,Brazil,214613.0,32120,Industrial development
+62491,62492,84873183.0,9575242.0,1994,Finland,India,758832.0,32120,Industrial development
+62508,62509,84879623.0,6726869.0,1975,Germany,India,16583217.0,32120,Industrial development
+62509,62510,84880052.0,7205707.0,1986,Germany,India,25515015.0,32120,Industrial development
+62531,62532,84890380.0,6503743.0,1977,Netherlands,India,704628.0,21050,Air transport
+62541,62542,84893851.0,5822902.0,1978,Canada,India,63509.0,32120,Industrial development
+62543,62544,84894865.0,5850667.0,1979,Austria,Brazil,855358.0,32120,Industrial development
+62567,62568,84908281.0,6729022.0,1975,Switzerland,Chile,1984348.0,32120,Industrial development
+62568,62569,84908554.0,6736819.0,1975,France,India,50728912.0,32120,Industrial development
+62579,62580,84912532.0,6993684.0,1985,France,India,72058942.0,23020,Power generation/non-renewable sources
+62590,62591,84920099.0,7480537.0,1987,Canada,Colombia,258843.0,32120,Industrial development
+62604,62605,84927088.0,7931213.0,1989,Canada,Brazil,792639.0,32120,Industrial development
+62608,62609,84927790.0,7979115.0,1989,Japan,India,61953442.0,32120,Industrial development
+62638,62639,84944458.0,9097442.0,1993,Finland,India,151478.0,32120,Industrial development
+62673,62674,84957781.0,6728825.0,1975,Switzerland,Brazil,700358.0,32120,Industrial development
+62676,62677,84958444.0,6370168.0,1983,Germany,Thailand,19441349.0,21030,Rail transport
+62679,62680,84958600.0,6205291.0,1982,Germany,India,28352440.0,32120,Industrial development
+62680,62681,84959146.0,7389105.0,1987,Germany,India,8924402.0,21030,Rail transport
+62681,62682,84959185.0,7589013.0,1988,Germany,India,69155033.0,23020,Power generation/non-renewable sources
+62700,62701,84965098.0,6293728.0,1982,Japan,India,3624104.0,32120,Industrial development
+62748,62749,84998990.0,7410377.0,1987,Netherlands,Thailand,5008667.0,32120,Industrial development
+62757,62758,85006134.0,7799279.0,1989,Germany,Brazil,86984433.0,60040,Rescheduling and refinancing
+62772,62773,85016520.0,8438979.0,1991,United Kingdom,India,487253.0,32120,Industrial development
+62809,62810,85036750.0,10407516.0,1985,Germany,Poland,1011193324.0,60040,RESCHEDULING AND REFINANCING
+62821,62822,85040182.0,5969008.0,1980,Germany,India,54514668.0,32120,Industrial development
+62822,62823,85040377.0,5868006.0,1979,Germany,India,12980971.0,32120,Industrial development
+62823,62824,85040572.0,6834748.0,1984,Germany,India,21531857.0,32120,Industrial development
+62825,62826,85040767.0,7795146.0,1989,Germany,India,21718116.0,21030,Rail transport
+62852,62853,85050029.0,7092651.0,1985,Canada,Brazil,105258.0,32120,Industrial development
+62862,62863,85060600.0,6159748.0,1981,Japan,India,245369884.0,32120,Industrial development
+62866,62867,85060873.0,6183897.0,1982,France,Brazil,9575068.0,21030,Rail transport
+62868,62869,85061770.0,6254408.0,1982,United Kingdom,Brazil,98608165.0,23020,Power generation/non-renewable sources
+62910,62911,85083848.0,7534724.0,1987,Japan,Thailand,40101304.0,32120,Industrial development
+62911,62912,85084355.0,7564511.0,1988,France,India,9276212.0,21030,Rail transport
+62961,62962,85113377.0,9606479.0,1994,Canada,Thailand,1833489.0,32120,Industrial development
+62966,62967,85116814.0,10415731.0,1990,Germany,Poland,416153513.0,60040,RESCHEDULING AND REFINANCING
+62983,62984,85119507.0,5778518.0,1978,Germany,India,47084936.0,32120,Industrial development
+62984,62985,85119702.0,6835946.0,1984,Germany,Colombia,152345423.0,21030,Rail transport
+62996,62997,85126504.0,5837554.0,1978,Japan,Brazil,2194634.0,32120,Industrial development
+63025,63026,85140271.0,6420344.0,1977,Japan,Brazil,172175.0,32120,Industrial development
+63026,63027,85142533.0,6558704.0,1977,Germany,India,42049374.0,60040,Rescheduling and refinancing
+63048,63049,85156145.0,7335047.0,1986,Japan,Thailand,11433870.0,23020,Power generation/non-renewable sources
+63075,63076,85179915.0,8844971.0,1992,Japan,India,204750743.0,23020,Power generation/non-renewable sources
+63095,63096,85187651.0,9313683.0,1994,Denmark,Thailand,108409.0,32120,Industrial development
+63098,63099,85190236.0,9541494.0,1994,Switzerland,India,649202.0,32120,Industrial development
+63122,63123,85198077.0,6777142.0,1974,Germany,India,11129808.0,32120,Industrial development
+63123,63124,85198155.0,5742033.0,1973,Germany,India,8532754.0,32120,Industrial development
+63131,63132,85199838.0,8298055.0,1991,Germany,India,71304419.0,21030,Rail transport
+63154,63155,85207769.0,10417972.0,1991,United Kingdom,Poland,37674165.0,32120,Industrial development
+63159,63160,85213502.0,6094469.0,1981,Norway,India,188593.0,32120,Industrial development
+63172,63173,85221848.0,6606742.0,1976,Netherlands,India,11540785.0,60040,Rescheduling and refinancing
+63174,63175,85222160.0,6621527.0,1983,Canada,Thailand,716244.0,32120,Industrial development
+63175,63176,85223369.0,6802451.0,1984,France,Thailand,16708469.0,21030,Rail transport
+63191,63192,85230818.0,7132695.0,1985,Japan,Thailand,11695263.0,32120,Industrial development
+63233,63234,85257678.0,8490055.0,1991,Japan,India,3992269.0,32120,Industrial development
+63271,63272,85273311.0,9611757.0,1994,Canada,India,361846.0,32120,Industrial development
+63296,63297,85280450.0,7021463.0,1985,Germany,Thailand,11802291.0,21030,Rail transport
+63297,63298,85280489.0,8568858.0,1992,Germany,India,226373056.0,32120,Industrial development
+63303,63304,85283818.0,9099238.0,1993,Finland,India,6256027.0,32120,Industrial development
+63308,63309,85285967.0,6268497.0,1982,Canada,Thailand,307283.0,32120,Industrial development
+63314,63315,85292014.0,5850515.0,1979,Austria,Thailand,1283038.0,32120,Industrial development
+63315,63316,85292053.0,5892310.0,1979,Switzerland,India,2788448.0,32120,Industrial development
+63316,63317,85292872.0,5912175.0,1979,Canada,India,159410.0,21030,Rail transport
+63319,63320,85295095.0,5926640.0,1979,Japan,Brazil,1548499.0,32120,Industrial development
+63326,63327,85299307.0,6162099.0,1981,Japan,Korea,294444.0,32120,Industrial development
+63330,63331,85301608.0,6301797.0,1982,Japan,India,32375332.0,21030,Rail transport
+63360,63361,85319704.0,7400413.0,1987,Netherlands,Thailand,3091770.0,32120,Industrial development
+63373,63374,85329504.0,8014519.0,1990,France,Chile,1781908.0,21030,Rail transport
+63406,63407,85344427.0,9117297.0,1993,Canada,South Africa,916613.0,32120,Industrial development
+63427,63428,85354152.0,10432148.0,1993,Sweden,Poland,114310.0,32120,Industrial development
+63434,63435,85355946.0,6207549.0,1982,Germany,India,22681952.0,32120,Industrial development
+63439,63440,85358415.0,8921044.0,1993,Germany,India,16747301.0,32120,Industrial development
+63463,63464,85366390.0,6367965.0,1983,Germany,India,170249106.0,23020,Power generation/non-renewable sources
+63466,63467,85367875.0,5839074.0,1978,Japan,Korea,164598.0,32120,Industrial development
+63482,63483,85378015.0,6621922.0,1983,Canada,Thailand,306962.0,32120,Industrial development
+63510,63511,85392992.0,7441609.0,1987,Sweden,India,2357658.0,23020,Power generation/non-renewable sources
+63527,63528,85404977.0,8148399.0,1990,United Kingdom,Colombia,9218863.0,23020,Power generation/non-renewable sources
+63548,63549,85416409.0,8849295.0,1992,Australia,India,10264278.0,32120,Industrial development
+63583,63584,85432264.0,10435291.0,1994,Sweden,Poland,342219.0,32120,Industrial development
+63611,63612,85441106.0,6305155.0,1982,Japan,Korea,422812.0,32120,Industrial development
+63615,63616,85442120.0,5734469.0,1974,Austria,India,8081078.0,23020,Power generation/non-renewable sources
+63645,63646,85459717.0,6570927.0,1977,France,India,44562239.0,60040,Rescheduling and refinancing
+63646,63647,85460302.0,6623692.0,1983,Canada,Brazil,669177.0,32120,Industrial development
+63662,63663,85470715.0,7274841.0,1986,Canada,Brazil,6054352.0,23020,Power generation/non-renewable sources
+63675,63676,85477934.0,7729613.0,1988,Japan,Thailand,34281533.0,21030,Rail transport
+63677,63678,85479105.0,7771202.0,1989,France,India,16022369.0,32120,Industrial development
+63685,63686,85483209.0,7983570.0,1989,Japan,Korea,390979.0,32120,Industrial development
+63739,63740,85511325.0,7588765.0,1988,Germany,India,20746510.0,32120,Industrial development
+63784,63785,85534087.0,6419015.0,1977,Japan,Brazil,24391507.0,32120,Industrial development
+63803,63804,85544422.0,7036111.0,1985,Netherlands,India,261221.0,32120,Industrial development
+63848,63849,85570932.0,8751720.0,1992,United Kingdom,India,4838023.0,23020,Power generation/non-renewable sources
+63878,63879,85584220.0,9604881.0,1994,Canada,South Africa,1175825.0,32120,Industrial development
+63900,63901,85590316.0,5967124.0,1980,Germany,India,43363940.0,32120,Industrial development
+63901,63902,85590979.0,6555361.0,1977,Germany,India,13035306.0,32120,Industrial development
+63902,63903,85591213.0,6798331.0,1984,Denmark,India,32438591.0,32120,Industrial development
+63905,63906,85593013.0,8762855.0,1992,Finland,Thailand,56430187.0,32120,Industrial development
+63918,63919,85598224.0,6158950.0,1981,Japan,India,17421262.0,23020,Power generation/non-renewable sources
+63923,63924,85601429.0,9574882.0,1994,United Kingdom,Thailand,12447775.0,32120,Industrial development
+63931,63932,85604318.0,7731838.0,1988,Japan,Brazil,11305369.0,32120,Industrial development
+63932,63933,85605762.0,8903518.0,1993,France,India,9940759.0,32120,Industrial development
+63933,63934,85605879.0,8906485.0,1993,France,India,334706.0,32120,Industrial development
+63940,63941,85612241.0,9319809.0,1994,Denmark,India,120485.0,32120,Industrial development
+63948,63949,85614777.0,9468857.0,1994,Sweden,India,482788.0,21030,Rail transport
+63989,63990,85645237.0,7479096.0,1987,Canada,Brazil,101055.0,32120,Industrial development
+64012,64013,85661158.0,8439630.0,1991,United Kingdom,Thailand,2062033.0,32120,Industrial development
+64013,64014,85661899.0,8474083.0,1991,United States,India,1637606.0,32120,Industrial development
+64034,64035,85671232.0,9127127.0,1993,Canada,Chile,368542.0,32120,Industrial development
+64049,64050,85679435.0,9715995.0,1994,Japan,Thailand,79738649.0,21030,Rail transport
+64061,64062,85681542.0,6423287.0,1973,Germany,Korea,29015007.0,21030,Rail transport
+64066,64067,85683298.0,5868341.0,1979,Germany,India,19471457.0,32120,Industrial development
+64089,64090,85690567.0,6912407.0,1984,Canada,Colombia,306441.0,32120,Industrial development
+64093,64094,85693885.0,5756639.0,1977,Australia,India,7579622.0,32120,Industrial development
+64098,64099,85697239.0,6053174.0,1981,France,Brazil,28788351.0,21030,Rail transport
+64099,64100,85698760.0,6158608.0,1981,Japan,Thailand,101828502.0,21030,Rail transport
+64100,64101,85699540.0,6220605.0,1982,Netherlands,Colombia,75575.0,32120,Industrial development
+64104,64105,85700164.0,6265073.0,1982,Canada,Colombia,196921.0,32120,Industrial development
+64121,64122,85710070.0,6869136.0,1984,Norway,India,8816690.0,32120,Industrial development
+64123,64124,85710577.0,6898196.0,1984,Canada,Thailand,968750.0,32120,Industrial development
+64144,64145,85727938.0,7906012.0,1989,United Kingdom,Brazil,2961150.0,60040,Rescheduling and refinancing
+64149,64150,85730671.0,8131886.0,1990,Sweden,Thailand,4486451.0,32120,Industrial development
+64156,64157,85736950.0,8576663.0,1992,Italy,Colombia,1330858.0,21050,Air transport
+64185,64186,85755146.0,10428219.0,1993,Belgium,Brazil,63809098.0,60040,RESCHEDULING AND REFINANCING
+64197,64198,85757876.0,6477394.0,1976,Germany,India,14530331.0,32120,Industrial development
+64217,64218,85766316.0,6956988.0,1984,Japan,Saudi Arabia,16883874.0,32120,Industrial development
+64219,64220,85766979.0,7765108.0,1989,Denmark,India,6931213.0,32120,Industrial development
+64237,64238,85781448.0,6447266.0,1974,United Kingdom,Chile,4483183.0,60040,Rescheduling and refinancing
+64252,64253,85790418.0,7036049.0,1985,Netherlands,Thailand,496833.0,32120,Industrial development
+64254,64255,85792290.0,7141615.0,1985,Australia,India,360618.0,32120,Industrial development
+64260,64261,85795177.0,7305635.0,1986,United States,Thailand,20082811.0,32120,Industrial development
+64262,64263,85797205.0,7418885.0,1987,Norway,India,9395547.0,32120,Industrial development
+64266,64267,85798769.0,7503161.0,1987,United States,Thailand,2888062.0,32120,Industrial development
+64277,64278,85805328.0,7909163.0,1989,United Kingdom,Thailand,2020009.0,32120,Industrial development
+64283,64284,85809620.0,8172501.0,1990,Canada,Thailand,7762982.0,32120,Industrial development
+64295,64296,85817192.0,8732762.0,1992,United Kingdom,India,1000718.0,23020,Power generation/non-renewable sources
+64308,64309,85826642.0,9378166.0,1994,Germany,Colombia,39212561.0,21030,Rail transport
+64319,64320,85831016.0,9714208.0,1994,Japan,India,312659712.0,32120,Industrial development
+64335,64336,85834526.0,6834707.0,1984,Germany,India,21531857.0,32120,Industrial development
+64339,64340,85837307.0,6030773.0,1980,Japan,Thailand,113946.0,32120,Industrial development
+64347,64348,85839340.0,6301987.0,1982,Japan,Thailand,172024153.0,21050,Air transport
+64393,64394,85862859.0,6956041.0,1984,Japan,Thailand,75312667.0,21030,Rail transport
+64415,64416,85881940.0,8013671.0,1990,France,Thailand,9766637.0,23020,Power generation/non-renewable sources
+64423,64424,85884829.0,8195961.0,1990,United States,India,3140111.0,32120,Industrial development
+64424,64425,85885687.0,8227717.0,1990,Japan,Korea,786489189.0,21030,Rail transport
+64425,64426,85885726.0,8230660.0,1990,Japan,Thailand,2184692.0,32120,Industrial development
+64463,64464,85908330.0,10416410.0,1990,Belgium,Poland,96972378.0,60040,RESCHEDULING AND REFINANCING
+64481,64482,85909968.0,10426131.0,1992,Belgium,Poland,459705515.0,60040,RESCHEDULING AND REFINANCING
+64547,64548,85942322.0,7139861.0,1985,Japan,Brazil,7222174.0,32120,Industrial development
+64551,64552,85944701.0,7267582.0,1986,Canada,Brazil,1004725.0,32120,Industrial development
+64560,64561,85948447.0,7553962.0,1988,Netherlands,Colombia,430241.0,32120,Industrial development
+64574,64575,85957859.0,8152353.0,1990,United Kingdom,India,470350.0,32120,Industrial development
+64595,64596,85969723.0,6500941.0,1977,Germany,Brazil,19623041.0,23020,Power generat./non-renewable sources
+64596,64597,85969762.0,6557251.0,1977,Germany,India,81295457.0,32120,Industrial development
+64616,64617,85979730.0,9117943.0,1993,Canada,Colombia,2730743.0,32120,Industrial development
+64618,64619,85980939.0,6030621.0,1980,Japan,Thailand,341838.0,32120,Industrial development
+64619,64620,85982928.0,6047180.0,1981,Austria,India,7202447.0,32120,Industrial development
+64626,64627,85986600.0,5908340.0,1979,Canada,India,5797.0,32120,Industrial development
+64632,64633,85988319.0,5884624.0,1979,Norway,India,80323793.0,32120,Industrial development
+64647,64648,85997679.0,6565117.0,1977,Austria,Brazil,937969.0,32120,Industrial development
+64666,64667,86008600.0,7262684.0,1986,United Kingdom,India,222680188.0,21050,Air transport
+64677,64678,86013399.0,7534687.0,1987,Japan,Thailand,45108238.0,21030,Rail transport
+64702,64703,86028699.0,8508296.0,1991,Japan,Thailand,574887.0,32120,Industrial development
+64744,64745,86049510.0,5970428.0,1980,Germany,Korea,9620600.0,32120,Industrial development
+64757,64758,86054995.0,6302177.0,1982,Japan,Thailand,112709645.0,21030,Rail transport
+64821,64822,86092949.0,7611294.0,1988,Netherlands,Thailand,183081.0,32120,Industrial development
+64833,64834,86098379.0,7918924.0,1989,Finland,Thailand,1601875.0,32120,Industrial development
+64855,64856,86105987.0,8439822.0,1991,Finland,India,12091577.0,32120,Industrial development
+64858,64859,86108133.0,8566434.0,1992,France,Thailand,3071500.0,23020,Power generat./non-renewable sources
+64859,64860,86108211.0,8576567.0,1992,Italy,Colombia,5738885.0,32120,Industrial development
+64882,64883,86121060.0,5969593.0,1980,Germany,India,12389697.0,32120,Industrial development
+64891,64892,86126233.0,6340263.0,1983,Belgium,India,4492208.0,60040,Rescheduling and refinancing
+64915,64916,86138908.0,6303868.0,1982,Japan,Saudi Arabia,4590532.0,32120,Industrial development
+64932,64933,86148541.0,6956463.0,1984,Japan,India,283554956.0,23020,Power generation/non-renewable sources
+64940,64941,86155249.0,7337080.0,1986,Japan,Brazil,8126174.0,32120,Industrial development
+64951,64952,86162430.0,7727175.0,1988,Japan,India,163242674.0,23020,Power generation/non-renewable sources
+64970,64971,86170587.0,8227825.0,1990,Japan,Korea,59139618.0,32120,Industrial development
+64971,64972,86170626.0,8227933.0,1990,Japan,Korea,125838270.0,32120,Industrial development
+64992,64993,86181596.0,9172662.0,1993,Japan,Thailand,142225549.0,21030,Rail transport
+65008,65009,86191128.0,9714088.0,1994,Japan,India,245291966.0,23020,Power generation/non-renewable sources
+65031,65032,86194717.0,6605202.0,1976,Germany,Korea,29060662.0,32120,Industrial development
+65036,65037,86196909.0,8918467.0,1993,Germany,Brazil,150188124.0,60040,Rescheduling and refinancing
+65037,65038,86196948.0,8918625.0,1993,Germany,India,24790193.0,32120,Industrial development
+65043,65044,86200387.0,10417080.0,1990,Belgium,Poland,721837.0,60040,RESCHEDULING AND REFINANCING
+65053,65054,86201947.0,10449655.0,1994,Canada,Poland,145905.0,32120,Industrial development
+65057,65058,86204950.0,7488033.0,1987,Canada,Brazil,161334.0,32120,Industrial development
+65058,65059,86205535.0,6206294.0,1982,Germany,India,17011464.0,32120,Industrial development
+65062,65063,86207095.0,6477436.0,1976,Germany,India,21795497.0,32120,Industrial development
+65063,65064,86207173.0,5736131.0,1974,France,India,64672631.0,32120,Industrial development
+65069,65070,86211034.0,6047813.0,1981,Belgium,India,3452392.0,60040,Rescheduling and refinancing
+65075,65076,86215831.0,6419167.0,1977,Japan,Brazil,41178604.0,32120,Industrial development
+65114,65115,86238498.0,7981018.0,1989,Japan,Korea,69259167.0,32120,Industrial development
+65125,65126,86245174.0,8414454.0,1991,Sweden,India,2383447.0,32120,Industrial development
+65149,65150,86258682.0,9252667.0,1994,Belgium,Thailand,228503.0,32120,Industrial development
+65154,65155,86259619.0,9311590.0,1994,Denmark,India,3530280.0,32120,Industrial development
+65171,65172,86267981.0,5742205.0,1973,Germany,India,11949500.0,32120,Industrial development
+65174,65175,86268488.0,6555235.0,1977,Germany,Brazil,42066194.0,32120,Industrial development
+65190,65191,86275290.0,6991789.0,1985,Denmark,Thailand,1382232.0,32120,Industrial development
+65201,65202,86281881.0,6047921.0,1981,Belgium,India,3977756.0,60040,Rescheduling and refinancing
+65205,65206,86284845.0,6254309.0,1982,United Kingdom,India,69587019.0,23020,Power generation/non-renewable sources
+65235,65236,86301382.0,7253957.0,1986,Sweden,India,23703041.0,23020,Power generation/non-renewable sources
+65244,65245,86306219.0,7534239.0,1987,Japan,Korea,44397872.0,32120,Industrial development
+65269,65270,86324261.0,8744701.0,1992,United Kingdom,India,771844.0,23020,Power generat./non-renewable sources
+65312,65313,86356595.0,7479127.0,1987,Canada,Brazil,193246.0,32120,Industrial development
+65319,65320,86360615.0,7727328.0,1988,Japan,India,30090552.0,32120,Industrial development
+65354,65355,86385989.0,9315878.0,1994,Denmark,Thailand,2388226.0,32120,Industrial development
+65358,65359,86391767.0,10416753.0,1990,Belgium,Poland,4503220.0,60040,RESCHEDULING AND REFINANCING
+65367,65368,86392937.0,5867381.0,1979,Germany,Thailand,57116273.0,21030,Rail transport
+65371,65372,86393483.0,6777310.0,1974,Germany,India,7949863.0,32120,Industrial development
+65375,65376,86395167.0,8404171.0,1991,Sweden,India,93171.0,32120,Industrial development
+65391,65392,86403952.0,5927142.0,1979,Japan,Saudi Arabia,12014220.0,32120,Industrial development
+65421,65422,86428210.0,7351866.0,1987,Denmark,India,12847276.0,32120,Industrial development
+65434,65435,86441323.0,8226136.0,1990,Japan,Thailand,43693844.0,32120,Industrial development
+65437,65438,86444759.0,8438948.0,1991,United Kingdom,India,499811.0,32120,Industrial development
+65438,65439,86444798.0,8439010.0,1991,United Kingdom,India,1351247.0,32120,Industrial development
+65462,65463,86455300.0,9097171.0,1993,United Kingdom,Thailand,35142889.0,32120,Industrial development
+65463,65464,86455612.0,9117875.0,1993,Canada,Brazil,2539782.0,32120,Industrial development
+65478,65479,86464196.0,10417262.0,1991,France,Poland,1822513.0,32120,Industrial development
+65505,65506,86473226.0,6084141.0,1981,Netherlands,India,17069196.0,32120,Industrial development
+65508,65509,86473850.0,5924069.0,1979,Japan,Thailand,27913038.0,32120,Industrial development
+65552,65553,86498265.0,7232728.0,1986,Netherlands,Thailand,1364165.0,32120,Industrial development
+65596,65597,86526724.0,9319719.0,1994,Denmark,India,497234.0,32120,Industrial development
+65605,65606,86531874.0,9420574.0,1994,Netherlands,India,2887693.0,32120,Industrial development
+65624,65625,86539802.0,7588889.0,1988,Germany,India,79034323.0,32120,Industrial development
+65643,65644,86546486.0,6183587.0,1982,France,Thailand,11313378.0,21030,Rail transport
+65644,65645,86546525.0,6183936.0,1982,France,Brazil,10445529.0,21030,Rail transport
+65671,65672,86564504.0,6804314.0,1984,France,India,20376182.0,32120,Industrial development
+65686,65687,86574410.0,7418750.0,1987,Netherlands,Thailand,2608423.0,32120,Industrial development
+65699,65700,86584910.0,7982246.0,1989,Japan,Brazil,22565083.0,32120,Industrial development
+65730,65731,86604948.0,9561366.0,1994,United Kingdom,Brazil,1495991.0,32120,Industrial development
+65733,65734,86607369.0,9714007.0,1994,Japan,India,183823067.0,23020,Power generation/non-renewable sources
+65783,65784,86636285.0,6760304.0,1974,United States,Colombia,879831.0,32120,Industrial development
+65830,65831,86661333.0,8760487.0,1992,Finland,India,786397.0,32120,Industrial development
+65832,65833,86662425.0,8349477.0,1991,Netherlands,India,402510.0,21030,Rail transport
+65836,65837,86663441.0,8456334.0,1991,Canada,India,7608167.0,32120,Industrial development
+65842,65843,86666327.0,8845009.0,1992,Japan,India,256561966.0,32120,Industrial development
+65843,65844,86666913.0,8640088.0,1992,Norway,India,2316419.0,21050,Air transport
+65846,65847,86668049.0,8732694.0,1992,United Kingdom,India,5230032.0,23020,Power generat./non-renewable sources
+65849,65850,86668673.0,8787871.0,1992,Canada,Brazil,217440.0,32120,Industrial development
+65866,65867,86680537.0,9606173.0,1994,Canada,India,2969455.0,32120,Industrial development
+65898,65899,86690900.0,5896321.0,1979,Switzerland,India,2625431.0,32120,Industrial development
+65907,65908,86695818.0,8649773.0,1992,Sweden,South Africa,64374.0,23020,Power generation/non-renewable sources
+65929,65930,86707883.0,6339163.0,1983,Belgium,India,3963713.0,60040,Rescheduling and refinancing
+65945,65946,86720324.0,6439182.0,1974,Germany,Chile,40014840.0,60040,Rescheduling and refinancing
+65946,65947,86720402.0,6447230.0,1974,United Kingdom,India,116414146.0,60040,Rescheduling and refinancing
+65955,65956,86724926.0,6701811.0,1976,France,Colombia,11935741.0,32120,Industrial development
+65964,65965,86730308.0,7029197.0,1985,Italy,India,23413369.0,32120,Industrial development
+66009,66010,86756052.0,8609801.0,1992,Netherlands,India,1794078.0,32120,Industrial development
+66035,66036,86769531.0,9457267.0,1994,Norway,India,676057.0,32120,Industrial development
+66043,66044,86771216.0,9598717.0,1994,Canada,India,707642.0,32120,Industrial development
+66047,66048,86774653.0,10415423.0,1989,Germany,Poland,1054081481.0,60040,RESCHEDULING AND REFINANCING
+66064,66065,86777074.0,6413609.0,1983,United Kingdom,India,116418320.0,21030,Rail transport
+66066,66067,86777893.0,5742371.0,1973,Germany,India,20482253.0,32120,Industrial development
+66068,66069,86778010.0,5968966.0,1980,Germany,India,6194849.0,32120,Industrial development
+66073,66074,86782505.0,5925965.0,1979,Japan,Thailand,73420234.0,21050,Air transport
+66091,66092,86792803.0,7337112.0,1986,Japan,Saudi Arabia,22490044.0,32120,Industrial development
+66093,66094,86793273.0,9311919.0,1994,Denmark,India,134438.0,32120,Industrial development
+66112,66113,86802283.0,6391845.0,1983,Netherlands,India,15861593.0,21030,Rail transport
+66115,66116,86805247.0,6619208.0,1983,Canada,Colombia,2455694.0,32120,Industrial development
+66153,66154,86827565.0,8011010.0,1990,Denmark,Thailand,5010773.0,21030,Rail transport
+66183,66184,86847198.0,9301472.0,1994,Belgium,Chile,15664.0,32120,Industrial development
+66195,66196,86853449.0,9725698.0,1994,Australia,India,493805.0,32120,Industrial development
+66197,66198,86854893.0,10416799.0,1990,Belgium,Poland,71850086.0,60040,RESCHEDULING AND REFINANCING
+66213,66214,86858327.0,6726953.0,1975,Germany,India,10552956.0,32120,Industrial development
+66214,66215,86858561.0,7205586.0,1986,Germany,Colombia,10206006.0,32120,Industrial development
+66239,66240,86868445.0,5854131.0,1979,France,Thailand,15950433.0,32120,Industrial development
+66259,66260,86881906.0,6450558.0,1974,United States,Colombia,18483853.0,32120,Industrial development
+66281,66282,86898949.0,7473721.0,1987,Canada,Colombia,886449.0,32120,Industrial development
+66296,66297,86907774.0,7932467.0,1989,Canada,Colombia,607852.0,32120,Industrial development
+66297,66298,86907813.0,7932632.0,1989,Canada,Colombia,340397.0,32120,Industrial development
+66329,66330,86928075.0,9319629.0,1994,Denmark,Colombia,200450.0,32120,Industrial development
+66355,66356,86936864.0,5742162.0,1973,Germany,India,13653317.0,32120,Industrial development
+66356,66357,86937020.0,6836150.0,1984,Germany,India,156105962.0,23020,Power generation/non-renewable sources
+66383,66384,86948531.0,7138707.0,1985,Japan,India,110662350.0,32120,Industrial development
+66412,66413,86963741.0,6893623.0,1984,United Kingdom,Brazil,3576124.0,60040,Rescheduling and refinancing
+66417,66418,86968188.0,7138858.0,1985,Japan,Korea,47759541.0,32120,Industrial development
+66452,66453,86987153.0,8239583.0,1990,Australia,India,167253.0,32120,Industrial development
+66464,66465,86993946.0,8628405.0,1992,Netherlands,India,514196.0,32120,Industrial development
+66513,66514,87014756.0,7020537.0,1985,Germany,Korea,5585013.0,32120,Industrial development
+66514,66515,87015068.0,7205338.0,1986,Germany,India,25515015.0,32120,Industrial development
+66527,66528,87019962.0,10447534.0,1994,United Kingdom,Poland,411633.0,21030,Rail transport
+66545,66546,87029244.0,6094502.0,1981,Norway,India,1257288.0,32120,Industrial development
+66553,66554,87032520.0,6301835.0,1982,Japan,India,21744626.0,21030,Rail transport
+66555,66556,87033495.0,6378274.0,1983,Italy,India,33513460.0,32120,Industrial development
+66556,66557,87034080.0,6418787.0,1977,Japan,Brazil,5165260.0,32120,Industrial development
+66557,66558,87034119.0,6420965.0,1973,France,India,27825666.0,23020,Power generation/non-renewable sources
+66569,66570,87039969.0,6771747.0,1974,Netherlands,India,16570311.0,60040,Rescheduling and refinancing
+66571,66572,87040203.0,6781941.0,1974,France,India,69485478.0,60040,Rescheduling and refinancing
+66583,66584,87045195.0,7136784.0,1985,Japan,Brazil,4473089.0,60040,Rescheduling and refinancing
+66596,66597,87051047.0,7491192.0,1987,Canada,Thailand,26416174.0,23020,Power generation/non-renewable sources
+66608,66609,87062443.0,8168659.0,1990,Canada,Thailand,7606154.0,32120,Industrial development
+66620,66621,87069697.0,5966747.0,1980,Germany,India,123896972.0,32120,Industrial development
+66632,66633,87077497.0,6472085.0,1976,France,India,59678703.0,32120,Industrial development
+66633,66634,87077692.0,6494220.0,1976,Japan,Korea,65859994.0,21030,Rail transport
+66638,66639,87079330.0,6596753.0,1976,Japan,India,187471240.0,60040,Rescheduling and refinancing
+66664,66665,87098018.0,7731287.0,1988,Japan,India,27189983.0,32120,Industrial development
+66676,66677,87101769.0,7931972.0,1989,Canada,Thailand,103740.0,32120,Industrial development
+66697,66698,87112771.0,8642210.0,1992,Norway,India,3067089.0,32120,Industrial development
+66699,66700,87113751.0,8722262.0,1992,United Kingdom,India,6087095.0,21030,Rail transport
+66701,66702,87116841.0,8934880.0,1993,Italy,Colombia,2009737.0,32120,Industrial development
+66703,66704,87119417.0,9118657.0,1993,Canada,Thailand,1833226.0,32120,Industrial development
+66709,66710,87123085.0,9319569.0,1994,Denmark,India,1271931.0,32120,Industrial development
+66722,66723,87129883.0,10404459.0,1980,United Kingdom,Thailand,4126815.0,32120,Industrial development
+66723,66724,87130000.0,10414037.0,1989,Belgium,Brazil,13585848.0,60040,RESCHEDULING AND REFINANCING
+66733,66734,87130975.0,6899614.0,1984,Canada,Brazil,296556.0,32120,Industrial development
+66735,66736,87132341.0,6774679.0,1974,Germany,India,22259616.0,32120,Industrial development
+66736,66737,87132419.0,6834124.0,1984,Germany,Thailand,16794848.0,21030,Rail transport
+66741,66742,87133670.0,8595350.0,1992,Italy,Colombia,8299296.0,21050,Air transport
+66753,66754,87137187.0,6203917.0,1982,Germany,India,65777660.0,23020,Power generation/non-renewable sources
+66760,66761,87138786.0,7468975.0,1987,Canada,Thailand,443224.0,21050,Air transport
+66772,66773,87149043.0,6267377.0,1982,Canada,Chile,315939.0,32120,Industrial development
+66775,66776,87151110.0,6432314.0,1973,Japan,India,19824939.0,32120,Industrial development
+66782,66783,87156180.0,6791543.0,1973,United States,Brazil,60486151.0,32120,Industrial development
+66792,66793,87162849.0,7137956.0,1985,Japan,Thailand,34037409.0,32120,Industrial development
+66804,66805,87170767.0,7621637.0,1988,Netherlands,India,2305809.0,32120,Industrial development
+66820,66821,87180371.0,8234046.0,1990,Australia,India,157961.0,32120,Industrial development
+66844,66845,87193564.0,9320109.0,1994,Denmark,India,237213.0,32120,Industrial development
+66850,66851,87197390.0,9320049.0,1994,Denmark,India,126656.0,32120,Industrial development
+66859,66860,87200557.0,9556456.0,1994,United Kingdom,India,3380093.0,21050,Air transport
+66863,66864,87201844.0,9644029.0,1994,United States,India,1419261.0,32120,Industrial development
+66878,66879,87206414.0,6555151.0,1977,Germany,Brazil,15418104.0,23020,Power generat./non-renewable sources
+66879,66880,87206492.0,6777016.0,1974,Germany,India,12719781.0,32120,Industrial development
+66906,66907,87213840.0,5722019.0,1973,Italy,India,39090548.0,60040,Rescheduling and refinancing
+66908,66909,87215439.0,6205710.0,1982,Germany,India,272183421.0,23020,Power generation/non-renewable sources
+66917,66918,87216965.0,8297651.0,1991,Germany,Thailand,9176888.0,32120,Industrial development
+66921,66922,87217552.0,8568373.0,1992,Germany,India,21766640.0,32120,Industrial development
+66930,66931,87220213.0,6028620.0,1980,Japan,Thailand,200481471.0,21050,Air transport
+66931,66932,87221227.0,6028989.0,1980,Japan,Saudi Arabia,10634950.0,32120,Industrial development
+67008,67009,87268391.0,8502130.0,1991,Japan,India,530183975.0,23020,Power generat./non-renewable sources
+67010,67011,87268469.0,8503433.0,1991,Japan,India,215646405.0,32120,Industrial development
+67011,67012,87269717.0,8567375.0,1992,Germany,India,97514547.0,23020,Power generation/non-renewable sources
+67074,67075,87298460.0,5895608.0,1979,Switzerland,Brazil,334614.0,32120,Industrial development
+67077,67078,87299201.0,7692183.0,1988,United States,Thailand,2199878.0,32120,Industrial development
+67078,67079,87299279.0,7397701.0,1987,Italy,India,18360002.0,23020,Power generat./non-renewable sources
+67121,67122,87330871.0,7560029.0,1988,Denmark,India,43881992.0,32120,Industrial development
+67138,67139,87339228.0,8013435.0,1990,France,India,51318947.0,23020,Power generation/non-renewable sources
+67152,67153,87346291.0,8503506.0,1991,Japan,Brazil,59798867.0,60040,Rescheduling and refinancing
+67201,67202,87366409.0,5967373.0,1980,Germany,India,12389697.0,32120,Industrial development
+67204,67205,87366760.0,6073187.0,1981,Germany,India,17823858.0,32120,Industrial development
+67223,67224,87377934.0,5911308.0,1979,Canada,India,43475461.0,60040,Rescheduling and refinancing
+67232,67233,87382615.0,7029551.0,1985,Italy,India,140768793.0,32120,Industrial development
+67242,67243,87386632.0,6162213.0,1981,Japan,Korea,233101.0,32120,Industrial development
+67260,67261,87400360.0,7169493.0,1986,Denmark,India,2524387.0,32120,Industrial development
+67268,67269,87407224.0,7533494.0,1987,Japan,Thailand,10930470.0,23020,Power generation/non-renewable sources
+67269,67270,87407302.0,7536956.0,1987,Japan,Thailand,847856.0,32120,Industrial development
+67278,67279,87411088.0,7731250.0,1988,Japan,India,127122592.0,32120,Industrial development
+67303,67304,87425687.0,8704969.0,1992,Sweden,India,3433264.0,21030,Rail transport
+67308,67309,87427289.0,8787772.0,1992,Canada,Chile,344905.0,32120,Industrial development
+67312,67313,87428225.0,8844822.0,1992,Japan,India,138582446.0,23020,Power generation/non-renewable sources
+67327,67328,87439270.0,9582169.0,1994,Spain,India,6797785.0,21050,Air transport
+67343,67344,87445277.0,6559947.0,1977,France,India,73139899.0,32120,Industrial development
+67369,67370,87456171.0,7391898.0,1987,Germany,Chile,10076552.0,60040,Rescheduling and refinancing
+67398,67399,87470718.0,6715009.0,1975,Japan,India,200879112.0,60040,Rescheduling and refinancing
+67420,67421,87480897.0,7336300.0,1986,Japan,Thailand,231264038.0,32120,Industrial development
+67458,67459,87507592.0,9127162.0,1993,Canada,Colombia,47363.0,32120,Industrial development
+67462,67463,87510439.0,9260623.0,1994,Belgium,Brazil,34552.0,32120,Industrial development
+67482,67483,87519819.0,6458016.0,1975,Germany,Colombia,15829434.0,21050,Air transport
+67486,67487,87520755.0,7796216.0,1989,Germany,Thailand,22514447.0,23020,Power generation/non-renewable sources
+67535,67536,87546464.0,6803341.0,1984,France,India,46309504.0,32120,Industrial development
+67551,67552,87555200.0,7338349.0,1986,Japan,Korea,114453.0,32120,Industrial development
+67574,67575,87570925.0,8306461.0,1991,Italy,Colombia,394409.0,32120,Industrial development
+67584,67585,87577913.0,8760255.0,1992,Finland,India,1548835.0,32120,Industrial development
+67603,67604,87589053.0,9547353.0,1994,Switzerland,India,2337127.0,32120,Industrial development
+67607,67608,87593110.0,6121090.0,1981,Canada,Brazil,143623.0,32120,Industrial development
+67626,67627,87603251.0,6261258.0,1982,Canada,Chile,149314.0,32120,Industrial development
+67632,67633,87607659.0,6469505.0,1975,United States,India,151989867.0,60040,Rescheduling and refinancing
+67643,67644,87613080.0,6801429.0,1984,France,Brazil,39176633.0,60040,Rescheduling and refinancing
+67660,67661,87618891.0,7137804.0,1985,Japan,Thailand,47281945.0,32120,Industrial development
+67720,67721,87656869.0,9556140.0,1994,United Kingdom,India,35633285.0,21030,Rail transport
+67778,67779,87681416.0,5942496.0,1980,Austria,Saudi Arabia,203662.0,32120,Industrial development
+67795,67796,87689840.0,6599532.0,1976,Italy,India,35601469.0,60040,Rescheduling and refinancing
+67807,67808,87699512.0,5837364.0,1978,Japan,Brazil,23043654.0,32120,Industrial development
+67815,67816,87703178.0,7391793.0,1987,Germany,Brazil,76135175.0,60040,Rescheduling and refinancing
+67819,67820,87705442.0,7534763.0,1987,Japan,Thailand,17186273.0,32120,Industrial development
+67858,67859,87726595.0,8903678.0,1993,France,Chile,87810039.0,21030,Rail transport
+67891,67892,87743224.0,7388441.0,1987,Germany,Thailand,10027418.0,32120,Industrial development
+67927,67928,87764928.0,6303835.0,1982,Japan,Saudi Arabia,45989884.0,32120,Industrial development
+67929,67930,87766566.0,6420116.0,1977,Japan,Brazil,2152192.0,32120,Industrial development
+67931,67932,87767073.0,6453137.0,1974,Japan,India,265562266.0,60040,Rescheduling and refinancing
+67951,67952,87778422.0,7139829.0,1985,Japan,Brazil,21200577.0,32120,Industrial development
+67979,67980,87798321.0,8321468.0,1991,Italy,Colombia,2795156.0,21050,Air transport
+68004,68005,87813670.0,9257062.0,1994,Belgium,Chile,135904.0,32120,Industrial development
+68009,68010,87814609.0,9311656.0,1994,Denmark,India,2354951.0,32120,Industrial development
+68018,68019,87817892.0,9605731.0,1994,Canada,Colombia,2829951.0,32120,Industrial development
+68019,68020,87819609.0,9722294.0,1994,Australia,India,3398433.0,32120,Industrial development
+68048,68049,87823665.0,6565421.0,1977,Austria,Brazil,99659.0,32120,Industrial development
+68051,68052,87825576.0,6458393.0,1975,Germany,Colombia,13568087.0,23020,Power generation/non-renewable sources
+68054,68055,87826083.0,7387941.0,1987,Germany,India,26071286.0,32120,Industrial development
+68061,68062,87829559.0,9380774.0,1994,Germany,Chile,12253925.0,32120,Industrial development
+68063,68064,87830462.0,6303604.0,1982,Japan,Saudi Arabia,14653462.0,32120,Industrial development
+68065,68066,87831476.0,6654015.0,1983,Japan,India,17956355.0,32120,Industrial development
+68067,68068,87833504.0,6303703.0,1982,Japan,Saudi Arabia,8444163.0,32120,Industrial development
+68080,68081,87841304.0,6958580.0,1984,Australia,India,379662.0,32120,Industrial development
+68083,68084,87842630.0,6992092.0,1985,France,Thailand,14411788.0,21030,Rail transport
+68093,68094,87847856.0,5942686.0,1980,Austria,Brazil,1120139.0,32120,Industrial development
+68123,68124,87861545.0,6769174.0,1974,Germany,India,206696435.0,60040,Rescheduling and refinancing
+68134,68135,87869540.0,7209970.0,1986,Germany,Brazil,70497986.0,60040,Rescheduling and refinancing
+68146,68147,87876950.0,7643958.0,1988,Sweden,India,7482340.0,32120,Industrial development
+68148,68149,87877223.0,7655071.0,1988,United Kingdom,India,1537269.0,21030,Rail transport
+68153,68154,87879836.0,7793939.0,1989,Germany,India,1592662.0,21030,Rail transport
+68157,68158,87881518.0,7905408.0,1989,United Kingdom,Thailand,12874688.0,21030,Rail transport
+68226,68227,87915402.0,6368330.0,1983,Germany,Korea,16475720.0,32120,Industrial development
+68228,68229,87915597.0,6551837.0,1977,Germany,Colombia,11213167.0,32120,Industrial development
+68229,68230,87915792.0,6837067.0,1984,Germany,Korea,10765928.0,32120,Industrial development
+68246,68247,87921623.0,6029055.0,1980,Japan,Brazil,1012852.0,32120,Industrial development
+68248,68249,87922403.0,7254707.0,1986,Switzerland,India,161219.0,32120,Industrial development
+68257,68258,87928566.0,6616499.0,1983,Finland,India,781569.0,32120,Industrial development
+68266,68267,87932778.0,7564470.0,1988,France,India,1987760.0,32120,Industrial development
+68272,68273,87937732.0,7233019.0,1986,Norway,Thailand,863287.0,32120,Industrial development
+68273,68274,87938551.0,5942572.0,1980,Austria,Brazil,1221970.0,32120,Industrial development
+68283,68284,87948145.0,6598635.0,1976,Germany,India,203424636.0,60040,Rescheduling and refinancing
+68285,68286,87949315.0,6665831.0,1983,Japan,Thailand,119709.0,32120,Industrial development
+68294,68295,87953956.0,6956501.0,1984,Japan,India,96420451.0,32120,Industrial development
+68306,68307,87960469.0,7350321.0,1987,Denmark,India,3533001.0,32120,Industrial development
+68316,68317,87968154.0,7727365.0,1988,Japan,India,22839129.0,23020,Power generation/non-renewable sources
+68344,68345,87984751.0,8704830.0,1992,Sweden,Thailand,8347123.0,32120,Industrial development
+68371,68372,88000923.0,10414060.0,1989,Belgium,Poland,7911786.0,60040,RESCHEDULING AND REFINANCING
+68390,68391,88004552.0,7795104.0,1989,Germany,India,28957488.0,32120,Industrial development
+68396,68397,88005644.0,7205788.0,1986,Germany,Thailand,15309009.0,32120,Industrial development
+68421,68422,88018530.0,6908115.0,1984,Canada,Colombia,429018.0,32120,Industrial development
+68444,68445,88036100.0,10414486.0,1989,Germany,Poland,1368234525.0,60040,RESCHEDULING AND REFINANCING
+68445,68446,88036139.0,10414083.0,1989,Belgium,Poland,144526257.0,60040,RESCHEDULING AND REFINANCING
+68457,68458,88037660.0,6565383.0,1977,Austria,Brazil,46898.0,32120,Industrial development
+68461,68462,88038440.0,5790404.0,1978,Netherlands,India,7903441.0,32120,Industrial development
+68466,68467,88039805.0,6727307.0,1975,Germany,Thailand,22613478.0,32120,Industrial development
+68469,68470,88040780.0,7205086.0,1986,Germany,Thailand,34843304.0,21030,Rail transport
+68491,68492,88050592.0,6028923.0,1980,Japan,Brazil,3646269.0,32120,Industrial development
+68494,68495,88051294.0,5865496.0,1979,Germany,India,97357283.0,32120,Industrial development
+68497,68498,88052113.0,6990103.0,1985,Denmark,Thailand,3455580.0,32120,Industrial development
+68502,68503,88054726.0,5946454.0,1980,France,India,98033810.0,32120,Industrial development
+68504,68505,88056598.0,6053135.0,1981,France,Brazil,53868372.0,23020,Power generat./non-renewable sources
+68524,68525,88066738.0,6700952.0,1976,Austria,India,12981849.0,60040,Rescheduling and refinancing
+68547,68548,88083276.0,7727930.0,1988,Japan,Korea,50702866.0,21030,Rail transport
+68553,68554,88085700.0,7932500.0,1989,Canada,Chile,695383.0,32120,Industrial development
+68580,68581,88104514.0,9085727.0,1993,United Kingdom,India,2351126.0,21030,Rail transport
+68616,68617,88119622.0,6422648.0,1973,Germany,Thailand,17070063.0,32120,Industrial development
+68617,68618,88119700.0,6458769.0,1975,Germany,Colombia,19598347.0,23020,Power generation/non-renewable sources
+68621,68622,88120519.0,6834664.0,1984,Germany,India,204552639.0,23020,Power generation/non-renewable sources
+68639,68640,88129161.0,5734358.0,1974,Austria,Colombia,2814444.0,21030,Rail transport
+68640,68641,88129239.0,5839150.0,1978,Japan,Brazil,1426512.0,32120,Industrial development
+68647,68648,88133841.0,7815277.0,1989,Italy,Chile,450574.0,32120,Industrial development
+68648,68649,88134153.0,7139765.0,1985,Japan,Saudi Arabia,19453276.0,32120,Industrial development
+68664,68665,88146204.0,6662065.0,1983,Japan,India,57460336.0,21030,Rail transport
+68669,68670,88147842.0,6780048.0,1974,Germany,Thailand,589880.0,60040,Rescheduling and refinancing
+68710,68711,88171207.0,8226544.0,1990,Japan,India,13719867.0,21030,Rail transport
+68711,68712,88171246.0,8227897.0,1990,Japan,Korea,18875741.0,32120,Industrial development
+68719,68720,88175190.0,8502278.0,1991,Japan,India,319381524.0,32120,Industrial development
+68741,68742,88187410.0,9322429.0,1994,France,Chile,4737440.0,21030,Rail transport
+68763,68764,88194558.0,5767569.0,1978,Austria,Brazil,885105.0,32120,Industrial development
+68765,68766,88195338.0,6607802.0,1976,Germany,India,14530331.0,32120,Industrial development
+68784,68785,88204994.0,6345426.0,1983,France,India,96214036.0,32120,Industrial development
+68793,68794,88211156.0,6247080.0,1982,Switzerland,India,3958673.0,32120,Industrial development
+68818,68819,88225898.0,6955584.0,1984,Japan,India,176486487.0,32120,Industrial development
+68823,68824,88229096.0,7171327.0,1986,France,India,91557130.0,21050,Air transport
+68824,68825,88229720.0,7210147.0,1986,Germany,Chile,8875143.0,60040,Rescheduling and refinancing
+68827,68828,88231358.0,7336855.0,1986,Japan,India,66829195.0,32120,Industrial development
+68833,68834,88236351.0,7621768.0,1988,Netherlands,India,620443.0,32120,Industrial development
+68834,68835,88236390.0,7622265.0,1988,Netherlands,India,346838.0,32120,Industrial development
+68838,68839,88238304.0,7731018.0,1988,Japan,India,264271561.0,23020,Power generat./non-renewable sources
+68847,68848,88244901.0,8153097.0,1990,United Kingdom,Thailand,545606.0,32120,Industrial development
+68849,68850,88246305.0,9605697.0,1994,Canada,Chile,2590800.0,32120,Industrial development
+68859,68860,88252005.0,9282480.0,1994,Belgium,Thailand,99970.0,32120,Industrial development
+68871,68872,88261262.0,9259024.0,1994,Belgium,India,859652.0,23020,Power generation/non-renewable sources
+68896,68897,88271533.0,8031963.0,1990,Germany,Thailand,9028111.0,21030,Rail transport
+68908,68909,88277119.0,6910394.0,1984,Canada,Brazil,106760.0,32120,Industrial development
+68920,68921,88285114.0,6090847.0,1981,Netherlands,Colombia,398281.0,32120,Industrial development
+68926,68927,88287610.0,6248680.0,1982,Switzerland,India,769640.0,32120,Industrial development
+68930,68931,88291237.0,6460649.0,1975,Norway,India,2624502.0,32120,Industrial development
+68945,68946,88301260.0,7168960.0,1986,Denmark,India,20935583.0,32120,Industrial development
+68951,68952,88307695.0,7534276.0,1987,Japan,Korea,88795744.0,32120,Industrial development
+68968,68969,88316399.0,8066991.0,1990,Netherlands,India,197657.0,21030,Rail transport
+68975,68976,88322915.0,8553200.0,1992,France,Thailand,6697534.0,32120,Industrial development
+68984,68985,88330136.0,9072161.0,1993,Switzerland,India,4394600.0,32120,Industrial development
+68994,68995,88335018.0,9320169.0,1994,Denmark,India,1030157.0,32120,Industrial development
+69018,69019,88342598.0,7411049.0,1987,Netherlands,Thailand,416358.0,32120,Industrial development
+69021,69022,88343495.0,6076034.0,1981,Germany,Korea,3564772.0,32120,Industrial development
+69023,69024,88343807.0,6458685.0,1975,Germany,India,20352130.0,32120,Industrial development
+69026,69027,88344236.0,6073522.0,1981,Germany,India,29706431.0,32120,Industrial development
+69075,69076,88367417.0,6781978.0,1974,France,Chile,15930523.0,60040,Rescheduling and refinancing
+69077,69078,88370264.0,6955621.0,1984,Japan,India,120010811.0,32120,Industrial development
+69101,69102,88382823.0,7677299.0,1988,Canada,Thailand,20187222.0,32120,Industrial development
+69105,69106,88383955.0,7718657.0,1988,Japan,India,4236658.0,32120,Industrial development
+69108,69109,88384774.0,5736323.0,1974,France,Colombia,15256725.0,21050,Air transport
+69115,69116,88389454.0,6047484.0,1981,Austria,Thailand,998806.0,32120,Industrial development
+69123,69124,88392652.0,6227849.0,1982,Norway,India,3755062.0,32120,Industrial development
+69132,69133,88398463.0,6558071.0,1977,Switzerland,India,3399964.0,32120,Industrial development
+69134,69135,88399087.0,6598672.0,1976,Germany,Chile,47017246.0,60040,Rescheduling and refinancing
+69139,69140,88401154.0,6737547.0,1975,France,Brazil,60080677.0,21030,Rail transport
+69149,69150,88404157.0,6911582.0,1984,Canada,Chile,739413.0,32120,Industrial development
+69164,69165,88417577.0,8506734.0,1991,Japan,Saudi Arabia,67070120.0,32120,Industrial development
+69187,69188,88431896.0,7733267.0,1988,Japan,Thailand,708013.0,32120,Industrial development
+69202,69203,88440020.0,8229748.0,1990,Japan,Brazil,18056481.0,32120,Industrial development
+69216,69217,88446150.0,8742948.0,1992,United Kingdom,India,2500579.0,21030,Rail transport
+69230,69231,88454702.0,9605663.0,1994,Canada,Brazil,1614268.0,32120,Industrial development
+69244,69245,88460566.0,9574293.0,1994,United Kingdom,India,1531274.0,32120,Industrial development
+69251,69252,88464392.0,10407494.0,1985,Germany,Poland,3065839.0,60040,RESCHEDULING AND REFINANCING
+69261,69262,88465289.0,10441877.0,1994,Finland,Poland,1481213.0,32120,Industrial development
+69266,69267,88467361.0,8787607.0,1992,Canada,India,497862.0,32120,Industrial development
+69287,69288,88478182.0,9169954.0,1993,Japan,Thailand,107793423.0,21030,Rail transport
+69351,69352,88504209.0,6367692.0,1983,Germany,India,4393525.0,32120,Industrial development
+69357,69358,88509786.0,6205040.0,1982,Germany,Brazil,20867396.0,32120,Industrial development
+69359,69360,88512438.0,6458853.0,1975,Germany,Chile,86146797.0,60040,Rescheduling and refinancing
+69362,69363,88515285.0,6607235.0,1976,Norway,India,3312324.0,32120,Industrial development
+69405,69406,88539071.0,8236521.0,1990,Australia,India,376364.0,23020,Power generation/non-renewable sources
+69413,69414,88544574.0,8566397.0,1992,France,Thailand,134518266.0,23020,Power generat./non-renewable sources
+69421,69422,88546994.0,8748343.0,1992,United Kingdom,India,3944438.0,21030,Rail transport
+69428,69429,88551209.0,8994036.0,1993,Netherlands,Colombia,230060.0,32120,Industrial development
+69429,69430,88552380.0,9071738.0,1993,Switzerland,Thailand,6063103.0,23020,Power generation/non-renewable sources
+69432,69433,88556592.0,9261469.0,1994,Belgium,Thailand,45148.0,32120,Industrial development
+69467,69468,88576876.0,6768103.0,1974,Germany,India,15899726.0,32120,Industrial development
+69468,69469,88577812.0,8447524.0,1991,Finland,India,31046.0,32120,Industrial development
+69484,69485,88580347.0,8569460.0,1992,Germany,India,21766640.0,32120,Industrial development
+69571,69572,88636374.0,7915455.0,1989,Finland,India,8376.0,32120,Industrial development
+69595,69596,88645547.0,8504524.0,1991,Japan,Thailand,114029850.0,21030,Rail transport
+69623,69624,88657218.0,9257975.0,1994,Belgium,Chile,26259.0,32120,Industrial development
+69641,69642,88665031.0,9379442.0,1994,Germany,India,12578246.0,32120,Industrial development
+69655,69656,88674434.0,9502403.0,1994,Sweden,India,13147.0,32120,Industrial development
+69684,69685,88690101.0,6774269.0,1974,Germany,Thailand,31799452.0,23020,Power generation/non-renewable sources
+69711,69712,88707915.0,7809897.0,1989,Italy,Thailand,1488852.0,21030,Rail transport
+69716,69717,88710140.0,9249768.0,1994,Belgium,Thailand,163546.0,32120,Industrial development
+69719,69720,88711740.0,9177071.0,1993,Australia,Thailand,1205152.0,21030,Rail transport
+69722,69723,88713772.0,8744736.0,1992,United Kingdom,India,1497425.0,23020,Power generation/non-renewable sources
+69726,69727,88716502.0,5993327.0,1980,Switzerland,India,73095.0,32120,Industrial development
+69727,69728,88716619.0,8841720.0,1992,Japan,India,446421175.0,23020,Power generation/non-renewable sources
+69735,69736,88722236.0,5977715.0,1980,Norway,India,11853784.0,32120,Industrial development
+69752,69753,88731713.0,6540403.0,1977,Netherlands,India,19834999.0,60040,Rescheduling and refinancing
+69775,69776,88747079.0,7486944.0,1987,Canada,Brazil,67370.0,32120,Industrial development
+69800,69801,88764488.0,8553120.0,1992,France,India,9807914.0,32120,Industrial development
+69830,69831,88783107.0,10446090.0,1994,France,Poland,73083.0,32120,Industrial development
+69847,69848,88790174.0,8567726.0,1992,Germany,India,8706656.0,32120,Industrial development
+69854,69855,88792987.0,5752214.0,1973,France,India,52419836.0,60040,Rescheduling and refinancing
+69860,69861,88795678.0,8279720.0,1991,France,Colombia,4252455.0,21050,Air transport
+69869,69870,88800553.0,5839112.0,1978,Japan,Korea,301762.0,32120,Industrial development
+69885,69886,88807417.0,6305117.0,1982,Japan,Thailand,1123472.0,32120,Industrial development
+69909,69910,88820443.0,7171997.0,1986,France,Korea,13034862.0,32120,Industrial development
+69921,69922,88829456.0,7733378.0,1988,Japan,Korea,479622.0,32120,Industrial development
+69991,69992,88865064.0,7386942.0,1987,Germany,Brazil,19252642.0,32120,Industrial development
+69994,69995,88865415.0,7022009.0,1985,Germany,India,26344400.0,32120,Industrial development
+70011,70012,88870380.0,7469171.0,1987,Canada,Thailand,886449.0,32120,Industrial development
+70030,70031,88884186.0,7418997.0,1987,Norway,India,4295107.0,32120,Industrial development
+70034,70035,88887033.0,7608472.0,1988,Netherlands,India,4150863.0,32120,Industrial development
+70084,70085,88912915.0,9265343.0,1994,Belgium,India,29484.0,32120,Industrial development
+70117,70118,88921273.0,6458727.0,1975,Germany,India,10552956.0,32120,Industrial development
+70119,70120,88922287.0,7021506.0,1985,Germany,Thailand,7481810.0,21030,Rail transport
+70132,70133,88926197.0,6846090.0,1984,Italy,India,56556745.0,32120,Industrial development
+70133,70134,88927094.0,6845586.0,1984,Italy,Colombia,30399251.0,23020,Power generation/non-renewable sources
+70135,70136,88927601.0,8553761.0,1992,France,Chile,3357281.0,21030,Rail transport
+70137,70138,88929083.0,5869760.0,1979,Germany,India,6490486.0,32120,Industrial development
+70140,70141,88930214.0,8153066.0,1990,United Kingdom,Thailand,618174.0,32120,Industrial development
+70151,70152,88936337.0,6458926.0,1975,Germany,India,211059125.0,60040,Rescheduling and refinancing
+70167,70168,88941930.0,10449395.0,1994,Italy,Poland,5914647.0,32120,Industrial development
+70176,70177,88948248.0,6714898.0,1975,Japan,India,202748447.0,60040,Rescheduling and refinancing
+70179,70180,88950666.0,6889865.0,1984,United Kingdom,India,18606262.0,32120,Industrial development
+70196,70197,88962757.0,7564552.0,1988,France,India,82823325.0,23020,Power generation/non-renewable sources
+70221,70222,88981141.0,8842961.0,1992,Japan,Thailand,360236810.0,32120,Industrial development
+70235,70236,88989623.0,9261403.0,1994,Belgium,Thailand,9675.0,32120,Industrial development
+70242,70243,88991184.0,9379038.0,1994,Germany,India,22977744.0,32120,Industrial development
+70244,70245,88991770.0,9417062.0,1994,Netherlands,Colombia,96118.0,32120,Industrial development
+70261,70262,88998493.0,6094404.0,1981,Norway,India,817237.0,32120,Industrial development
+70280,70281,89003524.0,6777394.0,1974,Germany,Brazil,39749314.0,21030,Rail transport
+70303,70304,89016290.0,6183703.0,1982,France,India,54403795.0,32120,Industrial development
+70311,70312,89020424.0,6420846.0,1973,France,Thailand,66777621.0,21030,Rail transport
+70335,70336,89041017.0,7729498.0,1988,Japan,Thailand,11568019.0,21030,Rail transport
+70339,70340,89043555.0,8506587.0,1991,Japan,Thailand,4258420.0,32120,Industrial development
+70340,70341,89044803.0,7988381.0,1989,Australia,Thailand,35161935.0,21030,Rail transport
+70369,70370,89055456.0,8721796.0,1992,United Kingdom,India,3876262.0,21030,Rail transport
+70382,70383,89062909.0,5721157.0,1973,Germany,Colombia,25602816.0,32120,Industrial development
+70396,70397,89067318.0,7671106.0,1988,Canada,India,108570.0,23020,Power generat./non-renewable sources
+70415,70416,89075996.0,8146830.0,1990,United Kingdom,India,32937949.0,21030,Rail transport
+70443,70444,89090407.0,8152260.0,1990,United Kingdom,India,2311435.0,32120,Industrial development
+70459,70460,89100637.0,9238733.0,1994,Belgium,Chile,33170.0,32120,Industrial development
+70466,70467,89103610.0,9574324.0,1994,United Kingdom,India,6125096.0,32120,Industrial development
+70468,70469,89105913.0,9714048.0,1994,Japan,India,282112858.0,23020,Power generation/non-renewable sources
+70469,70470,89106382.0,9727451.0,1994,Australia,India,670163.0,21030,Rail transport
+70507,70508,89127228.0,9558239.0,1994,United Kingdom,India,6245057.0,21030,Rail transport
+70510,70511,89127345.0,9561748.0,1994,United Kingdom,India,305784.0,21030,Rail transport
+70518,70519,89130155.0,5777226.0,1978,Germany,India,18691374.0,32120,Industrial development
+70531,70532,89134880.0,10414827.0,1989,Belgium,Brazil,17906366.0,60040,RESCHEDULING AND REFINANCING
+70536,70537,89135309.0,10420867.0,1992,Germany,Poland,7727367759.0,60040,RESCHEDULING AND REFINANCING
+70548,70549,89143045.0,10405119.0,1982,United Kingdom,Thailand,61417196.0,32120,Industrial development
+70553,70554,89143981.0,6607760.0,1976,Germany,India,21795497.0,32120,Industrial development
+70586,70587,89164075.0,7057146.0,1985,Sweden,India,263377.0,32120,Industrial development
+70591,70592,89165518.0,7169455.0,1986,Denmark,India,2221461.0,32120,Industrial development
+70617,70618,89183596.0,6419205.0,1977,Japan,Brazil,39829897.0,32120,Industrial development
+70621,70622,89186139.0,8732728.0,1992,United Kingdom,India,289745732.0,23020,Power generation/non-renewable sources
+70671,70672,89207466.0,5927000.0,1979,Japan,Brazil,15938865.0,32120,Industrial development
+70688,70689,89215305.0,6302437.0,1982,Japan,Thailand,181205217.0,32120,Industrial development
+70701,70702,89224002.0,7402975.0,1987,Netherlands,Thailand,180353.0,32120,Industrial development
+70734,70735,89244193.0,8898939.0,1993,Denmark,India,2376351.0,32120,Industrial development
+70741,70742,89250089.0,9320259.0,1994,Denmark,India,637576.0,32120,Industrial development
+70763,70764,89257080.0,7387650.0,1987,Germany,India,31084995.0,21030,Rail transport
+70764,70765,89257509.0,6073606.0,1981,Germany,India,209133272.0,23020,Power generation/non-renewable sources
+70766,70767,89257587.0,6370460.0,1983,Germany,India,16475720.0,32120,Industrial development
+70768,70769,89257938.0,7204629.0,1986,Germany,India,26413143.0,32120,Industrial development
+70774,70775,89263798.0,7270515.0,1986,Canada,Thailand,9285817.0,32120,Industrial development
+70776,70777,89264734.0,5837896.0,1978,Japan,Brazil,3950341.0,32120,Industrial development
+70778,70779,89265124.0,5884200.0,1979,Norway,India,8032379.0,32120,Industrial development
+70789,70790,89269765.0,6451427.0,1974,United States,India,108463250.0,60040,Rescheduling and refinancing
+70798,70799,89273782.0,6888945.0,1984,United Kingdom,India,10441834.0,32120,Industrial development
+70816,70817,89292238.0,8226174.0,1990,Japan,Thailand,10923461.0,32120,Industrial development
+70817,70818,89292277.0,8227861.0,1990,Japan,Korea,26740632.0,32120,Industrial development
+70851,70852,89313407.0,10428614.0,1993,Canada,Poland,19241.0,32120,Industrial development
+70855,70856,89313719.0,10443391.0,1994,United Kingdom,Poland,4370364.0,32120,INDUSTRIAL DEVELOPMENT
+70864,70865,89315084.0,6836406.0,1984,Germany,India,26914821.0,32120,Industrial development
+70881,70882,89323052.0,8844533.0,1992,Japan,Chile,67195300.0,21030,Rail transport
+70883,70884,89324261.0,6094437.0,1981,Norway,India,10058301.0,32120,Industrial development
+70908,70909,89336585.0,7140258.0,1985,Japan,Brazil,1444435.0,60040,Rescheduling and refinancing
+70956,70957,89366684.0,9471446.0,1994,Sweden,South Africa,588498.0,32120,Industrial development
+70973,70974,89371803.0,10448978.0,1994,Sweden,Poland,132478.0,32120,Industrial development
+70984,70985,89376223.0,6303637.0,1982,Japan,Brazil,23351312.0,32120,Industrial development
+71006,71007,89388626.0,6663695.0,1983,Japan,Thailand,153227563.0,21030,Rail transport
+71011,71012,89391668.0,6254276.0,1982,United Kingdom,India,135080685.0,23020,Power generation/non-renewable sources
+71353,71354,94313880.0,,2010,Finland,India,877227.0,32120,Industrial development
+71355,71356,94314198.0,,2010,Finland,India,45161.0,32120,Industrial development
+71356,71357,94314336.0,,2010,Finland,India,57063.0,32120,Industrial development
+71815,71816,94583205.0,,2010,Italy,Brazil,3943.0,32120,Industrial development
+71858,71859,94592891.0,,2010,Italy,Colombia,12673.0,32120,Industrial development
+71986,71987,94718893.0,,2010,United Kingdom,Brazil,27697870.0,32120,Industrial development
+72058,72059,94741469.0,,2010,Australia,India,1073865.0,23020,Power generation/non-renewable sources
+72200,72201,94834714.0,,2010,United Kingdom,Brazil,9963005.0,32120,Industrial development
+72202,72203,94840493.0,,2010,United Kingdom,Colombia,393906.0,32120,Industrial development
+72210,72211,94844093.0,,2010,United Kingdom,India,4156319.0,32120,Industrial development
+72214,72215,94844346.0,,2010,United Kingdom,India,672199.0,23020,Power generat./non-renewable sources
+72221,72222,94844851.0,,2010,United Kingdom,India,64263.0,23020,Power generat./non-renewable sources
+72237,72238,94846009.0,,2010,United Kingdom,India,860910.0,23020,Power generat./non-renewable sources
+72239,72240,94846118.0,,2010,United Kingdom,India,795479.0,32120,Industrial development
+72261,72262,94847707.0,,2010,United Kingdom,India,611169.0,32120,Industrial development
+72274,72275,94848611.0,,2010,United Kingdom,India,177873.0,32120,Industrial development
+72285,72286,94849596.0,,2010,United Kingdom,India,3152131.0,32120,Industrial development
+72304,72305,94852417.0,,2010,United Kingdom,India,226966.0,32120,Industrial development
+72305,72306,94852630.0,,2010,United Kingdom,India,3435377.0,32120,Industrial development
+72309,72310,94853203.0,,2010,United Kingdom,India,381512.0,32120,Industrial development
+72323,72324,94862394.0,,2010,United Kingdom,South Africa,18515293.0,32120,Industrial development
+72324,72325,94862509.0,,2010,United Kingdom,South Africa,140730.0,32120,Industrial development
+72328,72329,94863085.0,,2010,United Kingdom,South Africa,1297634.0,32120,Industrial development
+72333,72334,94863832.0,,2010,United Kingdom,South Africa,28616.0,32120,Industrial development
+72337,72338,94865279.0,,2010,United Kingdom,Thailand,3615703.0,32120,Industrial development
+72443,72444,94923407.0,,2010,Australia,Thailand,149779.0,23020,Power generation/non-renewable sources
+72448,72449,94923935.0,,2010,Australia,Thailand,4152.0,23020,Power generation/non-renewable sources
+72476,72477,94926538.0,,2010,Australia,Thailand,45400.0,21050,Air transport
+72570,72571,94991919.0,,2010,Belgium,Colombia,384985.0,23020,Power generation/non-renewable sources
+72702,72703,95045641.0,,2010,France,Brazil,656686.0,21030,Rail transport
+72731,72732,95146319.0,,2010,Korea,Chile,9315.0,21050,Air transport
+72732,72733,95146480.0,,2010,Korea,Chile,9481.0,21050,Air transport
+72733,72734,95146643.0,,2010,Korea,Chile,9790.0,21050,Air transport
+72783,72784,95168805.0,,2010,Norway,India,138468.0,32120,Industrial development
+72786,72787,95169313.0,,2010,Norway,India,56889.0,32120,Industrial development
+72792,72793,95170357.0,,2010,Norway,India,42667.0,32120,Industrial development
+72796,72797,95171042.0,,2010,Norway,India,37168.0,32120,Industrial development
+72797,72798,95171203.0,,2010,Norway,India,56889.0,32120,Industrial development
+72832,72833,95228212.0,,2010,Norway,South Africa,13274.0,32120,Industrial development
+73200,73201,95641023.0,,2010,Korea,Thailand,6608.0,21050,Air transport
+73238,73239,95646552.0,,2010,Korea,Thailand,7048.0,21050,Air transport
+73403,73404,95761480.0,,2010,Norway,South Africa,92028.0,32120,Industrial development
+74170,74171,96128437.0,,2010,Japan,Chile,114856.0,32120,Industrial development
+74292,74293,96227108.0,,2010,Spain,India,19497.0,21030,Rail transport
+74347,74348,96259034.0,,2010,Spain,Brazil,140375.0,21030,Rail transport
+74363,74364,96260562.0,,2010,Spain,Colombia,243418.0,21050,Air transport
+74365,74366,96260716.0,,2010,Spain,Colombia,37222.0,21050,Air transport
+74611,74612,96387525.0,,2010,Spain,Colombia,271876.0,32120,Industrial development
+74669,74670,96389646.0,,2010,Spain,Colombia,212407.0,32120,Industrial development
+74670,74671,96389683.0,,2010,Spain,Colombia,143024.0,32120,Industrial development
+74689,74690,96390432.0,,2010,Spain,Colombia,388818.0,32120,Industrial development
+75169,75170,96781733.0,,2010,Denmark,South Africa,60725.0,32120,Industrial development
+75188,75189,96783217.0,,2010,Denmark,South Africa,630091.0,32120,Industrial development
+75463,75464,97146297.0,,2010,Spain,Brazil,198583.0,32120,Industrial development
+75523,75524,97155903.0,,2010,Spain,Colombia,60878.0,32120,Industrial development
+75579,75580,97159146.0,,2010,Spain,Colombia,24368.0,32120,Industrial development
+75672,75673,97190061.0,,2010,Japan,India,19851169.0,21030,Rail transport
+75685,75686,97191077.0,,2010,Japan,India,413140164.0,21030,Rail transport
+75686,75687,97191155.0,,2010,Japan,India,98273.0,21030,Rail transport
+75697,75698,97192431.0,,2010,Japan,India,683563201.0,21030,Rail transport
+75698,75699,97192505.0,,2010,Japan,India,51654805.0,21030,Rail transport
+75699,75700,97192580.0,,2010,Japan,India,1078399998.0,21030,Rail transport
+75700,75701,97192692.0,,2010,Japan,India,30390960.0,21030,Rail transport
+75701,75702,97192765.0,,2010,Japan,India,280188927.0,21030,Rail transport
+75702,75703,97192840.0,,2010,Japan,India,7284494.0,21030,Rail transport
+75756,75757,97219902.0,,2010,Spain,India,19653.0,32120,Industrial development
+75880,75881,97317612.0,,2010,Spain,Colombia,14038.0,32120,Industrial development
+76374,76375,97461749.0,,2010,Japan,Thailand,204395789.0,21030,Rail transport
+76687,76688,97739616.0,,2010,Canada,India,158506.0,32120,Industrial development
+77054,77055,97974552.0,,2010,Canada,India,42786.0,32120,Industrial development
+77195,77196,98201815.0,,2010,United States,Brazil,204262.0,21030,Rail transport
+77198,77199,98201920.0,,2010,United States,Brazil,490232.0,21050,Air transport
+77205,77206,98202200.0,,2010,United States,Chile,69899.0,21050,Air transport
+77206,77207,98202235.0,,2010,United States,Chile,10213.0,21030,Rail transport
+77207,77208,98202270.0,,2010,United States,Chile,10213.0,21050,Air transport
+77210,77211,98204034.0,,2010,United States,India,63485.0,21050,Air transport
+77211,77212,98204068.0,,2010,United States,India,4085.0,21050,Air transport
+77215,77216,98204208.0,,2010,United States,India,3064.0,32120,Industrial development
+77216,77217,98204243.0,,2010,United States,India,3064.0,21050,Air transport
+77219,77220,98204346.0,,2010,United States,India,6128.0,21050,Air transport
+77224,77225,98204520.0,,2010,United States,India,5107.0,32120,Industrial development
+77867,77868,98446618.0,,2010,Germany,Thailand,84595.0,32120,Industrial development
+78605,78606,104655661.0,,2011,Switzerland,South Africa,631199.0,32120,Industrial development
+78736,78737,104769613.0,,2011,Norway,South Africa,60397.0,32120,Industrial development
+78990,78991,104987050.0,,2011,Norway,India,12216.0,32120,Industrial development
+79007,79008,104993940.0,,2011,Australia,Thailand,4074.0,23020,Power generation/non-renewable sources
+79080,79081,105004618.0,,2011,Norway,South Africa,2380.0,32120,Industrial development
+79119,79120,105064084.0,,2011,Canada,Brazil,17693.0,21030,Rail transport
+79235,79236,105198935.0,,2011,Canada,India,81134.0,32120,Industrial development
+79245,79246,105199851.0,,2011,Canada,India,240562.0,32120,Industrial development
+79255,79256,105200995.0,,2011,Canada,India,76868.0,32120,Industrial development
+79257,79258,105201147.0,,2011,Canada,India,75200.0,32120,Industrial development
+79299,79300,105211700.0,,2011,Canada,Brazil,65625.0,32120,Industrial development
+79300,79301,105212008.0,,2011,Canada,Brazil,64544.0,32120,Industrial development
+79328,79329,105222724.0,,2011,Canada,Thailand,65383.0,32120,Industrial development
+79343,79344,105233633.0,,2011,Canada,Colombia,50703.0,32120,Industrial development
+79345,79346,105235494.0,,2011,Canada,Colombia,59691.0,32120,Industrial development
+79349,79350,105240286.0,,2011,Canada,Brazil,315408.0,32120,Industrial development
+79350,79351,105240347.0,,2011,Canada,Brazil,39339.0,32120,Industrial development
+79351,79352,105240412.0,,2011,Canada,Brazil,65191.0,32120,Industrial development
+79545,79546,105425006.0,,2011,Japan,Brazil,12384.0,21050,Air transport
+79548,79549,105425115.0,,2011,Japan,Brazil,34095.0,32120,Industrial development
+79589,79590,105426581.0,,2011,Japan,Brazil,54175.0,32120,Industrial development
+79624,79625,105427885.0,,2011,Japan,Brazil,19099.0,21030,Rail transport
+79765,79766,105449938.0,,2011,Japan,Colombia,161290.0,32120,Industrial development
+79828,79829,105489089.0,,2011,Japan,India,74460397.0,21030,Rail transport
+79836,79837,105489451.0,,2011,Japan,India,174351498.0,21030,Rail transport
+79846,79847,105489854.0,,2011,Japan,India,413821.0,21030,Rail transport
+79891,79892,105592469.0,,2011,Japan,South Africa,185091.0,32120,Industrial development
+79951,79952,105610411.0,,2011,Japan,Thailand,146485.0,21030,Rail transport
+79952,79953,105610452.0,,2011,Japan,Thailand,271234.0,21030,Rail transport
+80034,80035,105613901.0,,2011,Japan,Thailand,60062.0,32120,Industrial development
+80116,80117,105671454.0,,2011,Japan,Brazil,18398.0,32120,Industrial development
+80343,80344,106244594.0,,2011,France,Colombia,187097740.0,21030,Rail transport
+80567,80568,106457436.0,,2011,Sweden,India,924613.0,32120,Industrial development
+80665,80666,106497781.0,,2011,United Kingdom,Colombia,820198.0,32120,Industrial development
+80683,80684,106507665.0,,2011,United Kingdom,India,1560697.0,32120,Industrial development
+80684,80685,106508043.0,,2011,United Kingdom,India,6464906.0,32120,Industrial development
+80698,80699,106529086.0,,2011,United Kingdom,Thailand,1178826.0,32120,Industrial development
+81029,81030,106886363.0,,2011,Belgium,Colombia,85798.0,23020,Power generation/non-renewable sources
+81326,81327,107025618.0,,2011,Italy,Colombia,116796.0,32120,Industrial development
+82318,82319,107618291.0,,2011,Korea,Thailand,6461.0,21050,Air transport
+82337,82338,107620387.0,,2011,Korea,Thailand,12701.0,21050,Air transport
+82339,82340,107620618.0,,2011,Korea,Thailand,24552.0,23020,Power generation/non-renewable sources
+82341,82342,107620823.0,,2011,Korea,Thailand,1096198.0,32120,Industrial development
+82629,82630,107852656.0,,2011,Germany,Brazil,2952.0,32120,Industrial development
+82631,82632,107852747.0,,2011,Germany,Brazil,2952.0,32120,Industrial development
+82933,82934,107910550.0,,2011,Germany,India,2952.0,32120,Industrial development
+82934,82935,107910596.0,,2011,Germany,India,2952.0,32120,Industrial development
+83025,83026,107992140.0,,2011,Germany,South Africa,2952.0,32120,Industrial development
+83026,83027,107992206.0,,2011,Germany,South Africa,2952.0,32120,Industrial development
+83564,83565,108344307.0,,2011,Spain,Chile,22554.0,32120,Industrial development
+84071,84072,108591139.0,,2011,Spain,Brazil,4727.0,32120,Industrial development
+84080,84081,108591466.0,,2011,Spain,Brazil,30590.0,32120,Industrial development
+84088,84089,108591755.0,,2011,Spain,Brazil,10011.0,32120,Industrial development
+84101,84102,108592224.0,,2011,Spain,Brazil,80923.0,32120,Industrial development
+84129,84130,108595794.0,,2011,Spain,Chile,105167.0,32120,Industrial development
+84170,84171,108597198.0,,2011,Spain,Chile,10063.0,32120,Industrial development
+84259,84260,108601641.0,,2011,Spain,Colombia,7230.0,32120,Industrial development
+84275,84276,108602198.0,,2011,Spain,Colombia,19466.0,32120,Industrial development
+84284,84285,108602524.0,,2011,Spain,Colombia,12236.0,32120,Industrial development
+84305,84306,108637085.0,,2011,Spain,India,5006.0,32120,Industrial development
+84316,84317,108637484.0,,2011,Spain,India,15017.0,32120,Industrial development
+84394,84395,109559044.0,,2011,Denmark,South Africa,2612.0,32120,Industrial development
+84862,84863,109961428.0,,2011,United States,Brazil,208015.0,21050,Air transport
+84866,84867,109961540.0,,2011,United States,Brazil,49928.0,21050,Air transport
+84868,84869,109961598.0,,2011,United States,Brazil,5000.0,32120,Industrial development
+84872,84873,109961712.0,,2011,United States,Brazil,248438.0,32120,Industrial development
+84873,84874,109961740.0,,2011,United States,Chile,623000.0,21050,Air transport
+84876,84877,109962397.0,,2011,United States,Colombia,891840.0,21050,Air transport
+84886,84887,109963306.0,,2011,United States,India,6000.0,21050,Air transport
+84888,84889,109963363.0,,2011,United States,India,3000.0,23020,Power generation/non-renewable sources
+84890,84891,109963419.0,,2011,United States,India,453509.0,21050,Air transport
+84892,84893,109963477.0,,2011,United States,India,114256.0,21050,Air transport
+84893,84894,109963506.0,,2011,United States,India,407325.0,21050,Air transport
+84894,84895,109963534.0,,2011,United States,India,500000.0,21050,Air transport
+84896,84897,109963591.0,,2011,United States,India,62160.0,21050,Air transport
+84898,84899,109965358.0,,2011,United States,South Africa,83524.0,23020,Power generation/non-renewable sources
+84903,84904,109965501.0,,2011,United States,South Africa,758000.0,21050,Air transport
+84908,84909,109971127.0,,2011,United States,South Africa,10279.0,32120,Industrial development
+85621,85622,116135143.0,,2012,Spain,Brazil,3811.0,21050,Air transport
+85622,85623,116135181.0,,2012,Spain,Brazil,6644.0,21050,Air transport
+85623,85624,116135219.0,,2012,Spain,Brazil,80967.0,21050,Air transport
+85627,85628,116135371.0,,2012,Spain,Chile,11047.0,21050,Air transport
+85628,85629,116135409.0,,2012,Spain,Chile,2215.0,21050,Air transport
+85629,85630,116135447.0,,2012,Spain,Chile,1908.0,21050,Air transport
+85630,85631,116135485.0,,2012,Spain,Colombia,17160.0,21050,Air transport
+85632,85633,116135561.0,,2012,Spain,Colombia,6092.0,21050,Air transport
+85633,85634,116135599.0,,2012,Spain,Colombia,29437.0,21050,Air transport
+85903,85904,116325748.0,,2012,Spain,Chile,10546.0,32120,Industrial development
+85933,85934,116327689.0,,2012,Spain,Colombia,33916.0,32120,Industrial development
+85996,85997,116349631.0,,2012,France,India,821649.0,21030,Rail transport
+86548,86549,116689189.0,,2012,Italy,Colombia,78776.0,32120,Industrial development
+86622,86623,116710782.0,,2012,Netherlands,South Africa,492988.0,32120,Industrial development
+87013,87014,117308333.0,,2012,Sweden,South Africa,43307.0,32120,Industrial development
+87029,87030,117309146.0,,2012,Sweden,South Africa,496510.0,32120,Industrial development
+87087,87088,117385739.0,,2012,Korea,Thailand,5957.0,21050,Air transport
+87127,87128,117387259.0,,2012,Korea,Thailand,77177.0,23020,Power generation/non-renewable sources
+87143,87144,117387867.0,,2012,Korea,Thailand,6948.0,21050,Air transport
+87466,87467,117712296.0,,2012,Canada,Brazil,56787.0,32120,Industrial development
+87468,87469,117712368.0,,2012,Canada,Brazil,38058.0,32120,Industrial development
+87472,87473,117713071.0,,2012,Canada,Colombia,65099.0,32120,Industrial development
+87495,87496,117715347.0,,2012,Canada,India,44618.0,32120,Industrial development
+87497,87498,117718039.0,,2012,Canada,Thailand,60072.0,32120,Industrial development
+87563,87564,117766869.0,,2012,Norway,India,57498.0,32120,Industrial development
+88366,88367,118156905.0,,2012,Australia,India,2467255.0,23020,Power generation/non-renewable sources
+88415,88416,118181040.0,,2012,Japan,Thailand,121484.0,32120,Industrial development
+89054,89055,118523674.0,,2012,United Kingdom,Colombia,879298.0,23020,Power generation/non-renewable sources
+89079,89080,118525844.0,,2012,United Kingdom,India,25228630.0,23020,Power generation/non-renewable sources
+89095,89096,118530129.0,,2012,United Kingdom,South Africa,19369830.0,23020,Power generation/non-renewable sources
+90081,90082,119017577.0,,2012,United States,Brazil,1473.0,21050,Air transport
+90084,90085,119017673.0,,2012,United States,Brazil,108602.0,21050,Air transport
+90086,90087,119017815.0,,2012,United States,Brazil,338795.0,21050,Air transport
+90087,90088,119017927.0,,2012,United States,Brazil,476194.0,21050,Air transport
+90089,90090,119018088.0,,2012,United States,Brazil,6873.0,21050,Air transport
+90090,90091,119018157.0,,2012,United States,Brazil,58880.0,23020,Power generation/non-renewable sources
+90092,90093,119018329.0,,2012,United States,Brazil,11976.0,21050,Air transport
+90094,90095,119018443.0,,2012,United States,Chile,210498.0,21050,Air transport
+90095,90096,119018530.0,,2012,United States,Chile,49092.0,21050,Air transport
+90096,90097,119018696.0,,2012,United States,Chile,63784.0,23020,Power generation/non-renewable sources
+90097,90098,119021419.0,,2012,United States,Colombia,625434.0,21050,Air transport
+90098,90099,119021504.0,,2012,United States,Colombia,540014.0,21050,Air transport
+90099,90100,119021577.0,,2012,United States,Colombia,48899.0,21050,Air transport
+90100,90101,119021672.0,,2012,United States,Colombia,7364.0,21050,Air transport
+90101,90102,119022384.0,,2012,United States,India,6873.0,23020,Power generation/non-renewable sources
+90102,90103,119022414.0,,2012,United States,India,196.0,21050,Air transport
+90103,90104,119022444.0,,2012,United States,India,341030.0,21050,Air transport
+90104,90105,119022528.0,,2012,United States,India,273924.0,21050,Air transport
+90106,90107,119022609.0,,2012,United States,India,468015.0,23020,Power generation/non-renewable sources
+90107,90108,119022651.0,,2012,United States,India,607624.0,23020,Power generation/non-renewable sources
+90108,90109,119022706.0,,2012,United States,India,490922.0,21050,Air transport
+90109,90110,119022816.0,,2012,United States,India,73559.0,21050,Air transport
+90112,90113,119023025.0,,2012,United States,India,6873.0,21050,Air transport
+90113,90114,119023109.0,,2012,United States,India,73638.0,23020,Power generation/non-renewable sources
+90115,90116,119023224.0,,2012,United States,India,6873.0,23020,Power generation/non-renewable sources
+90121,90122,119026604.0,,2012,United States,South Africa,341171.0,21050,Air transport
+90122,90123,119026713.0,,2012,United States,South Africa,36688.0,23020,Power generation/non-renewable sources
+90123,90124,119026852.0,,2012,United States,South Africa,230110.0,21050,Air transport
+90124,90125,119028109.0,,2012,United States,Thailand,35141.0,21050,Air transport
+90125,90126,119028166.0,,2012,United States,Thailand,6775.0,21050,Air transport
+90222,90223,119045807.0,,2012,United States,South Africa,15846.0,32120,Industrial development
+90294,90295,119101583.0,,2012,United States,South Africa,147277.0,23020,Power generation/non-renewable sources
+90295,90296,119101612.0,,2012,United States,South Africa,73638.0,23020,Power generation/non-renewable sources
+90296,90297,119101811.0,,2012,United States,Thailand,49092.0,23020,Power generation/non-renewable sources
+90668,90669,119542936.0,,2012,Spain,India,49549.0,32120,Industrial development
+90760,90761,119612921.0,,2012,Spain,Chile,1643.0,32120,Industrial development
+90800,90801,119616446.0,,2012,Spain,Colombia,2459.0,32120,Industrial development
+91124,91125,120811701.0,,2012,United Kingdom,India,6359.0,23020,Power generation/non-renewable sources
+91431,91432,120976701.0,,2012,Germany,Brazil,97205.0,32120,Industrial development
+91435,91436,120976833.0,,2012,Germany,Brazil,39750.0,32120,Industrial development
+91436,91437,120976866.0,,2012,Germany,Brazil,26073.0,32120,Industrial development
+91540,91541,120988593.0,,2012,Germany,India,710127.0,32120,Industrial development
+91721,91722,121036380.0,,2012,Australia,Thailand,26897.0,32120,Industrial development
+91824,91825,121186578.0,,2012,Japan,India,1597598808.0,21030,Rail transport
+91825,91826,121186613.0,,2012,Japan,India,21556331.0,21030,Rail transport
+92896,92897,906000318964.0,,2013,Sweden,India,507294.0,32120,Industrial development
+92985,92986,906000327348.0,,2013,Switzerland,South Africa,1960714.0,32120,Industrial development
+93004,93005,906000330454.0,,2013,Switzerland,South Africa,73115.0,32120,Industrial development
+93339,93340,906000401317.0,,2013,United Kingdom,South Africa,49243483.0,23020,Power generation/non-renewable sources
+93666,93667,906000411746.0,,2013,United Kingdom,India,3778802.0,23020,Power generation/non-renewable sources
+93672,93673,906000412414.0,,2013,United Kingdom,Brazil,94075.0,23020,Power generation/non-renewable sources
+93808,93809,906000422703.0,,2013,United States,Thailand,6921.0,32120,Industrial development
+93988,93989,906000442654.0,,2013,United States,India,72449.0,21030,Rail transport
+94159,94160,906000465411.0,,2013,United States,South Africa,965692.0,21050,Air transport
+94189,94190,906000468842.0,,2013,United States,South Africa,5165.0,21050,Air transport
+94194,94195,906000468896.0,,2013,United States,India,211437.0,32120,Industrial development
+94278,94279,906000475605.0,,2013,United States,Chile,290393.0,23020,Power generation/non-renewable sources
+94315,94316,906000481443.0,,2013,United States,Brazil,440238.0,21030,Rail transport
+94325,94326,906000482090.0,,2013,United States,India,491998.0,21050,Air transport
+94326,94327,906000482093.0,,2013,United States,India,77386.0,21050,Air transport
+94327,94328,906000482102.0,,2013,United States,India,514277.0,21050,Air transport
+94328,94329,906000482107.0,,2013,United States,India,729382.0,21050,Air transport
+94346,94347,906000485003.0,,2013,United States,Brazil,67139.0,21050,Air transport
+94354,94355,906000486357.0,,2013,United States,Brazil,7230.0,21050,Air transport
+94381,94382,906000492783.0,,2013,United States,Brazil,922340.0,21050,Air transport
+94441,94442,906000495140.0,,2013,United States,Brazil,725013.0,21050,Air transport
+94442,94443,906000495143.0,,2013,United States,Brazil,1074995.0,21050,Air transport
+94450,94451,906000495684.0,,2013,United States,Brazil,288503.0,23020,Power generation/non-renewable sources
+94640,94641,906000561166.0,,2013,France,India,142353385.0,21030,Rail transport
+95096,95097,906000593704.0,,2013,Spain,Brazil,916.0,21050,Air transport
+95098,95099,906000594234.0,,2013,Spain,Brazil,39319.0,21050,Air transport
+96042,96043,906000674994.0,,2013,Japan,India,30463319.0,21030,Rail transport
+96043,96044,906000675053.0,,2013,Japan,India,10846788.0,21030,Rail transport
+96061,96062,906000676198.0,,2013,Japan,India,55742269.0,21030,Rail transport
+96071,96072,906000676833.0,,2013,Japan,India,1091462153.0,21030,Rail transport
+96073,96074,906000676874.0,,2013,Japan,India,390476122.0,21030,Rail transport
+96074,96075,906000676913.0,,2013,Japan,India,529456774.0,21030,Rail transport
+96671,96672,906000696829.0,,2013,Japan,Brazil,63942.0,32120,Industrial development
+96687,96688,906000697988.0,,2013,Korea,Thailand,7694.0,23020,Power generation/non-renewable sources
+96689,96690,906000698217.0,,2013,Korea,Thailand,6612.0,21050,Air transport
+96704,96705,906000699174.0,,2013,Korea,Brazil,123207.0,32120,Industrial development
+96708,96709,906000699358.0,,2013,Korea,Colombia,344229.0,32120,Industrial development
+96883,96884,906000719415.0,,2013,Korea,Colombia,58854.0,21030,Rail transport
+96998,96999,906000787382.0,,2013,Germany,Colombia,168209.0,32120,Industrial development
+97404,97405,906000810603.0,,2013,Germany,India,72277292.0,23020,Power generation/non-renewable sources
+97405,97406,906000810611.0,,2013,Germany,India,124842596.0,23020,Power generation/non-renewable sources
+97561,97562,906000814608.0,,2013,Germany,South Africa,449092.0,32120,Industrial development
+97600,97601,906000815317.0,,2013,Germany,South Africa,74761.0,32120,Industrial development
+97658,97659,906000818331.0,,2013,Germany,South Africa,190494.0,32120,Industrial development
+97666,97667,906000818400.0,,2013,Germany,India,54057.0,32120,Industrial development
+97674,97675,906000818740.0,,2013,Germany,South Africa,137896.0,32120,Industrial development
+97804,97805,906000827568.0,,2013,Norway,India,214890.0,32120,Industrial development
+97806,97807,906000828118.0,,2013,Norway,India,6430.0,32120,Industrial development
+97958,97959,906000837163.0,,2013,Norway,India,72484.0,32120,Industrial development
+98140,98141,906000842529.0,,2013,Italy,Brazil,15677.0,23020,Power generation/non-renewable sources
+98411,98412,906000879303.0,,2013,Netherlands,South Africa,83649.0,32120,Industrial development
